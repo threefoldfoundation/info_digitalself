@@ -1,6 +1,6 @@
-# Filemanager
-
 ![](img/filemanager.jpg)
+
+# Filemanager
 
 A versatile webbased file manager lets you organize your digital life.
 

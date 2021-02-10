@@ -1,3 +1,5 @@
+![](img/pay.png)
+
 # Autopay
 
 Allow [DT Owners](dtowner) as a consumer of a merchant, to specify which merchant they want to allow to ask for a payment.
