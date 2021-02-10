@@ -1,9 +1,10 @@
+
+![](img/meet.jpg)
+
 # DT Meet
 
 ## Meetings
 Have your personal or company meetings in the most private and p2p way. 
-
-![](img/meet.jpg)
 
 ## Features
 - Video call person-to-person or in groups
