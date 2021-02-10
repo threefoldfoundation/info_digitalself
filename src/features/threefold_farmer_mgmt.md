@@ -37,9 +37,7 @@ In version 0.9 this will be done as data files which need to be editted, an use 
 - accessible on [dtfs](dtfs)
 - interface = [dtftp](dtftp)
 
-- ...
-
-> No UI features in 0.9 release, only editable over DTFS.
+> No UI features in 0.9 release, only editable over [DTFS](dtfs).
 
 > assign: lee/maxime
 

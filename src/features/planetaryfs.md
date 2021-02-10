@@ -1,4 +1,4 @@
-![](img/filesystem.png ":size=500x300")
+![](img/filesystem_abstract.png)
 
 # Planetary Filesystem
 

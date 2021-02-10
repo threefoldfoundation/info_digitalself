@@ -1,3 +1,5 @@
+![](img/tfconnect.jpg)
+
 # ThreeFold Connect
 
 Mobile tool for
@@ -6,8 +8,6 @@ Mobile tool for
 - Wallet
 - News
 - Show notifications which are stored on Digital Twin
-
-![](img/tfconnect.jpg)
 
 ## Implementation
 
