@@ -1,4 +1,9 @@
-# Digital Twin
+# Learn about Digital Twin
+
+Welcome to the Digital Twin knowledge base, a set of resources to help you learn more about Digital Twin. Here you will find all relevant information around the project. 
+
+
+## What is Digital Twin? 
 
 Digital Twin is a revolutionary digital avatar that will hold all of your digital life. 
 
@@ -6,7 +11,10 @@ Today, our digital lives are scattered across a range of applications and servic
 
 Digital Twin represents definitive leap to true digital privacy, where only you can access your data, and no one else – not even ThreeFold.
 
-Benefits:
+## Why use Digital Twin? 
+
+Digital Twin comes with many benefits. It represents a paradigm shift from current model where you are the product, to a system built around you as the center. 
+
 - Human-friendly: 1 profile and identity to access all your digital life.
 - Privacy: Own 100% of your data, and decide who can access it.
 - Ultra-secure: Unique network infrastructure removes the need for VPNs, antiviruses and firewalls.
