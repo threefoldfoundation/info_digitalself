@@ -22,4 +22,4 @@ Can be used for education, news channels, websites, ...
 - supports the hyperdrive system, expose the content to other digital twin in a P2P way.
 - supports gridsome or other website generation systems (we use this internally)
 
-![](website_example_threefold.png)
+![](img/website_example_threefold.png)

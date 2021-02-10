@@ -5,7 +5,7 @@
   - data files (json or dtml) = data of your digital life
   - files of the [filemanager](dtfilemanager)
   - backend for the [dthyperdrive](dthyperdrive)
-- ZeroDB FS can be synced with the [DTHyperDrive](DTHyperDrive)
+- ZeroDB FS can be synced with the [DTHyperDrive](dthyperdrive)
 
 ## implementation
 

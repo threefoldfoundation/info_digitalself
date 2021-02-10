@@ -1,8 +1,8 @@
-![](planet_network.png)
+![](img/planet_network.png)
 
 # Planetary Network
 
-![](planetary_network_0.png)
+![](img/planetary_network_0.png)
 
 Unlimited scalable network, connects every user, digital twin and IT appliction running on the ThreeFold Grid.
 
@@ -19,7 +19,7 @@ All traffic is encrypted, hackers do not see what is going on.
 
 ## architecture
 
-![](qsnetwork_architecture.png)
+![](img/qsnetwork_architecture.png)
 
 ## implementation
 

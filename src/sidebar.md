@@ -13,5 +13,5 @@
   - [wallet](wallet)
   - [hyperdrive](hyperdrive)
   - [farm management](threefold_farmer_mgmt)
-- [Concepts](concepts.md)
-- [Roadmap](roadmap.md)
+- [Concepts](concepts)
+- [Roadmap](roadmap)

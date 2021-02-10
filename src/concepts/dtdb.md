@@ -11,4 +11,4 @@
 
 - [dtserver](dtserver) exposes the data over an openapi rest interface
 - indexing & search rather limited at this point
-- strongly typed because of [Digital Twin Data Processor](dtdp.md)
+- strongly typed because of [Digital Twin Data Processor](dtdp)

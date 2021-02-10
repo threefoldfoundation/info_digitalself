@@ -1,4 +1,4 @@
-![](threefold_mgmt.png)
+![](img/threefold_mgmt.png)
 
 # ThreeFold Farmer Management System
 
