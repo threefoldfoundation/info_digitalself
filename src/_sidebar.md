@@ -9,7 +9,7 @@
   - [planetaryfs](planetaryfs)
   - [planetarynetwork](planetarynetwork)
   - [autopay](autopay)
-  - [tfconnect](tconnect)
+  - [tfconnect](tfconnect)
   - [wallet](wallet)
   - [hyperdrive](hyperdrive)
   - [farm management](threefold_farmer_mgmt)

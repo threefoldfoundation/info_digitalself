@@ -1,6 +1,6 @@
 # Notification System
 
-!()[https://eskadenia.com/Portals/Portal1/Upload/Block/Image/notification--sys.jpg]
+![](https://eskadenia.com/Portals/Portal1/Upload/Block/Image/notification--sys.jpg)
 
 Generic usable notification system.
 
@@ -15,7 +15,7 @@ The notifications (events) are shown in UI and also the ThreeFold connect will t
 
 - stored as [dtml](dtml) or json files on [dtfs](dtfs)
 - interface = [dtftp](dtftp) & rest
-- index in [redis server](tdredis)
+- index in [redis server](dtredis)
 - notifications can be given to Digital Twin over rest (maybe redis interface)
 
 Properties for each notification
