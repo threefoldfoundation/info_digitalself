@@ -1,5 +1,7 @@
 # Notification System
 
+!()[https://eskadenia.com/Portals/Portal1/Upload/Block/Image/notification--sys.jpg]
+
 Generic usable notification system.
 
 The notifications (events) are shown in UI and also the ThreeFold connect will try to escalate to user if required.

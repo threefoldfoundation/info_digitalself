@@ -1,4 +1,6 @@
-## ThreeFold Farmer Management System
+![](threefold_mgmt.png)
+
+# ThreeFold Farmer Management System
 
 stores info like
 
