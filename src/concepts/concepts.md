@@ -1,10 +1,16 @@
 ![](img/concepts.png)
 
+# TFGrid Components
+
+| concept                | description       |
+| ---------------------- | ----------------- |
+| [tfconnect](tfconnect) | ThreeFold Connect |
+| [tfconnect](tfconnect) | ThreeFold Connect |
+
 # Technical Concepts
 
 | concept                        | description                  |
 | ------------------------------ | ---------------------------- |
-| [dtfs](dtfs)                   | Digital Twin FileSystem      |
 | [dtowner](dtowner)             | Digital Twin Owners          |
 | [dtdb](dtdb)                   | Digital Twin Database        |
 | [qsss](qsss)                   | Quantum Safe Storage System  |
@@ -12,8 +18,9 @@
 | [dthyperdrive](dthyperdrive)   | Digital Twin HyperDrive      |
 | [dtml](dtml)                   | Digital Twin Markup Language |
 | [dtfilemanager](dtfilemanager) | Digital Twin File Manager    |
+| [dtfs](dtfs)                   | Digital Twin FileSystem      |
 
-## Internals
+## Internal Concepts
 
 | concept              | description                            |
 | -------------------- | -------------------------------------- |

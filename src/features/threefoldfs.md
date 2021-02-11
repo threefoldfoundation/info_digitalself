@@ -1,6 +1,6 @@
 ![](img/filesystem_abstract.png)
 
-# Planetary Filesystem
+# ThreeFold Filesystem
 
 A redundant filesystem, can store PB's (millions of gigabytes) of information.
 

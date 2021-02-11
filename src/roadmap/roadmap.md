@@ -10,7 +10,7 @@
 | [office](office)                                     | onlyoffice editor on top of the filemanager                                                   |
 | [publisher](publisher)                               | publishing system for wiki (knowledgebase) and websites                                       |
 | [notifications](notifications)                       | ? maybe UI, but prob just the backend                                                         |
-| [planetaryfs](planetaryfs)                           | yes                                                                                           |
+| [threefoldfs](threefoldfs)                           | yes                                                                                           |
 | [planetarynetwork](planetarynetwork)                 | yes (need to check if all clients will be there)                                              |
 | [autopay](autopay)                                   | yes but only for technical audience , need to edit the data files                             |
 | [tfconnect](tconnect)                                | mobile app for authentication, planetary network, wallet, notifications                       |

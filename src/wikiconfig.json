@@ -1,4 +1,6 @@
 {
-  "name": "digitaltwin",
-  "depends": []
+  "name": "twin",
+  "depends": [],
+  "alias": ["threefoldfs:threefold_fs:tffs:ThreeFold FS"],
+  "replace": ["planetaryfs:threefoldfs"]
 }
