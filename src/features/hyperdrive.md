@@ -1,6 +1,6 @@
-![](img/hypercore.png)
+![](img/hypercore.png ":size=700x")
 
-![](img/hypercore2.png)
+![](img/hypercore2.png ":size=700x")
 
 # HyperDrive
 

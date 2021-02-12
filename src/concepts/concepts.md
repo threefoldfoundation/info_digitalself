@@ -5,7 +5,6 @@
 | concept                | description       |
 | ---------------------- | ----------------- |
 | [tfconnect](tfconnect) | ThreeFold Connect |
-| [tfconnect](tfconnect) | ThreeFold Connect |
 
 # Technical Concepts
 
