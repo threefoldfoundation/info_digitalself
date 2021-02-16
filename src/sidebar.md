@@ -16,7 +16,7 @@
 - [Get Started](getting_started)
 - [Roadmap](roadmap)
 - [Benefits](benefits)
-- [How Does It Work](howdoesitwork.md)
+- [How Does It Work](howdoesitwork)
   - [architecture](architecture)
   - [quantum safe storage system](qsstoragesystem)
   - [twin phonebook](phonebook)
