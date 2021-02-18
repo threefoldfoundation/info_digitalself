@@ -1,5 +1,5 @@
 {
-  "name": "twin",
+  "name": "info_digitaltwin",
   "depends": [],
   "alias": ["threefoldfs:threefold_fs:tffs:ThreeFold FS"],
   "replace": ["planetaryfs:threefoldfs"]
