@@ -13,7 +13,7 @@
 | [threefoldfs](threefoldfs)                           | yes                                                                                           |
 | [planetarynetwork](planetarynetwork)                 | yes (need to check if all clients will be there)                                              |
 | [autopay](autopay)                                   | yes but only for technical audience , need to edit the data files                             |
-| [tfconnect](tconnect)                                | mobile app for authentication, planetary network, wallet, notifications                       |
+| [tfconnect](tfconnect)                                | mobile app for authentication, planetary network, wallet, notifications                       |
 | [wallet](wallet)                                     | wallet for TFT only for now                                                                   |
 | [hyperdrive](hyperdrive)                             | basic hyper drive support, will be for the experts                                            |
 | [threefold farmer management](threefold_farmer_mgmt) | only for technical audience, need to edit the data files                                      |

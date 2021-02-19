@@ -13,7 +13,7 @@
 | [threefoldfs](threefoldfs)                           | planetary filesysten, store any amounts of data super safe & private                            |
 | [planetarynetwork](planetarynetwork)                 | planetary network, connect everyone in the world, end2end encrypted, look for the shortest path |
 | [autopay](autopay)                                   | automatically pay your suppliers, kep track of all your expenses, build up reputation           |
-| [tfconnect](tconnect)                                | mobile app for authentication, planetary network, wallet, notifications                         |
+| [tfconnect](tfconnect)                                | mobile app for authentication, planetary network, wallet, notifications                         |
 | [wallet](wallet)                                     | wallet, multi currencym integrated P2P exchange                                                 |
 | [hyperdrive](hyperdrive)                             | P2P exchange of information, shortest path first, compatible with standards                     |
 | [threefold farmer management](threefold_farmer_mgmt) | manage your threefold farm                                                                      |

@@ -19,13 +19,13 @@ stores info like
   - can be linked to farms
 - escalation to farmer when issues
   - over chat in DigitalTwin
-  - e.g. node down, registration of capacity did not work, unability to do billing,...
+  - e.g. node down, registration of capacity did not work, inability to do billing,...
 
 executes on
 
 - billing for the farmer
   - asks for payment to the right digital twin of the consumer using the [autopay](autopay) system.
-- some basic health check & escalation to [notification system](notification).
+- some basic health check & escalation to [notification system](notifications).
 
 ## implementation
 
