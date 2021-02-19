@@ -1,25 +1,38 @@
 # Getting Started
 
-- install ThreeFold Connect on your mobile phone
-  - which is your wallet and authentication System
-- go to the Digital Twin Bootstrap service:
-  - will provision you a digital twin
+- Install ThreeFold Connect on your mobile phone
+  - Which is your wallet and authentication System
+- Go to the digitalTwin Bootstrap service:
+  - This will provision you a digitalTwin
   - https://bootstrap_twin.grid.tf (TO BE CONFIRMED AND NOT ACTIVE YET)
-  - log in with your TFConnect
-  - answer questions to define where you want your digital twin to run
-- now you can go to https://yourTwinName.twin.grid.tf and your digital twin webinterface will launch
-  - you will have to re-login (authenticate) to tell your digital twin its you
-
+  - Log in with your TFConnect
+  - Answer questions to define where you want your digitalTwin twin to run
+- now you can go to https://yourTwinName.twin.grid.tf and your digitalTwin webinterface will launch
+  - you will have to re-login (authenticate) to tell your digitalTwin its you
 
 ## Your first steps
+
 Add some contacts, create some files and get sharing. Full productivity right at your fingertips. Everything is really intuitive and a manual is superfluous.
 
-## How does the interface look like
-
-### Prelimanary interface
+### The Interface
 This is the original design of our interface
 
+![](../img/interface.jpg)
 
-### Full integration
+
+### Full Integration
 There is a full integration between all components. A chat application, filemanager, forum video meetings they will all work in the same manner and integrate into a single platform. Full usability and full ownership of all your data and communication.
+
+Features of the components:
+- [Chat](../features/chat.md)
+- [Filemanager](../features/filemanager.md)
+- [Meet](../features/meet.md)
+- [Office](../features/office.md)
+- [Wallet](../features/wallet.md)
+
+Imagine chatting with someone, in the chat allowing access to a file and collaborate on the file. After consideration a deep dive is needed so you just click the video button and have full live interaction.
+
+Share your thoughts, share your files and share you mind.
+
+### 
 
