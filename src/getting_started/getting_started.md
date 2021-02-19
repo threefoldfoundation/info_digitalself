@@ -7,8 +7,8 @@
   - https://bootstrap_twin.grid.tf (TO BE CONFIRMED AND NOT ACTIVE YET)
   - Log in with your TFConnect
   - Answer questions to define where you want your digitalTwin twin to run
-- now you can go to https://yourTwinName.twin.grid.tf and your digitalTwin webinterface will launch
-  - you will have to re-login (authenticate) to tell your digitalTwin its you
+- Advance to https://yourTwinName.twin.grid.tf and your digitalTwin webinterface will launch
+  - You will have to re-login (authenticate) to tell your digitalTwin its you
 
 ## Your first steps
 
@@ -33,6 +33,4 @@ Features of the components:
 Imagine chatting with someone, in the chat allowing access to a file and collaborate on the file. After consideration a deep dive is needed so you just click the video button and have full live interaction.
 
 Share your thoughts, share your files and share you mind.
-
-### 
 
