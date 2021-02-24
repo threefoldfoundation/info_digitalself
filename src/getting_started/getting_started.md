@@ -24,11 +24,11 @@ This is the original design of our interface
 There is a full integration between all components. A chat application, file manager, forum and video meetings. They will all work in the same manner and integrate into a single platform. Full usability and full ownership of all your data and communication.
 
 Features of the components:
-- [Chat](../features/chat.md)
-- [Filemanager](../features/filemanager.md)
-- [Meet](../features/meet.md)
-- [Office](../features/office.md)
-- [Wallet](../features/wallet.md)
+- [Chat](chat)
+- [Filemanager](filemanager)
+- [Meet](meet)
+- [Office](office)
+- [Wallet](wallet)
 
 Imagine chatting with someone, in the chat you allow access to a file and collaborate on the file. After consideration a deep dive is needed so you just click the video button and have full live interaction.
 
