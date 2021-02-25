@@ -4,7 +4,7 @@
 
 | feature                                              | description                                                                                     |
 | ---------------------------------------------------- | ----------------------------------------------------------------------------------------------- |
-| [chat](chat)                                         | 100% decentralized peer2peer chat system                                                        |
+| [chat](threefold:chat)                                         | 100% decentralized peer2peer chat system                                                        |
 | [filemanager](filemanager)                           | alternative to e.g. dropbox, does not have all features yet                                     |
 | [meet](meet)                                         | alternative to zoom, fully peer2peer and decentralized                                          |
 | [office](office)                                     | onlyoffice editor on top of the filemanager                                                     |

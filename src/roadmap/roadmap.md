@@ -8,7 +8,7 @@
 
 | feature                                              | description                                                                                   |
 | ---------------------------------------------------- | --------------------------------------------------------------------------------------------- |
-| [chat](chat)                                         | all basic features you would expect from chat in alfa version                                 |
+| [chat](threefold:chat)                                         | all basic features you would expect from chat in alfa version                                 |
 | [filemanager](filemanager)                           | web based filemanager, pdf viewer integrated, view files from friends (sharing with security) |
 | [meet](meet)                                         | peer2peer integrated in chat, with rooms                                                      |
 | [office](office)                                     | onlyoffice editor on top of the filemanager                                                   |

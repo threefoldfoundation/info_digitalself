@@ -1,6 +1,6 @@
 - [Home](readme)
 - [Features](features)
-  - [chat](chat)
+  - [chat](threefold:chat)
   - [filemanager](filemanager)
   - [meet](meet)
   - [office](office)
