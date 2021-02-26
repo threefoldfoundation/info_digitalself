@@ -24,7 +24,7 @@ stores info like
 executes on
 
 - billing for the farmer
-  - asks for payment to the right digital twin of the consumer using the [autopay](autopay) system.
+  - asks for payment to the right digital twin of the consumer using the [autopay](threefold:autopay) system.
 - some basic health check & escalation to [notification system](notifications).
 
 ## implementation
@@ -33,11 +33,11 @@ Accessible by Zero-OS and any other Digital Twin over Rest Interface.
 
 In version 0.9 this will be done as data files which need to be editted, an use remote interface like ftp.
 
-- specified in [dtml](dtml) or json
-- accessible on [dtfs](dtfs)
-- interface = [dtftp](dtftp)
+- specified in [dtml](threefold:dtml) or json
+- accessible on [dtfs](threefold:dtfs)
+- interface = [dtftp](threefold:dtftp)
 
-> No UI features in 0.9 release, only editable over [DTFS](dtfs).
+> No UI features in 0.9 release, only editable over [DTFS](threefold:dtfs).
 
 > assign: lee/maxime
 

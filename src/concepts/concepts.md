@@ -4,28 +4,28 @@
 
 | concept                | description       |
 | ---------------------- | ----------------- |
-| [tfconnect](tfconnect) | ThreeFold Connect |
+| [tfconnect](threefold:tfconnect) | ThreeFold Connect |
 
 # Technical Concepts
 
 | concept                        | description                  |
 | ------------------------------ | ---------------------------- |
-| [dtowner](dtowner)             | Digital Twin Owners          |
-| [dtdb](dtdb)                   | Digital Twin Database        |
-| [qsss](qsss)                   | Quantum Safe Storage System  |
-| [dtserver](dtserver)           | Digital Twin Server          |
-| [dthyperdrive](dthyperdrive)   | Digital Twin HyperDrive      |
-| [dtml](dtml)                   | Digital Twin Markup Language |
-| [dtfilemanager](dtfilemanager) | Digital Twin File Manager    |
-| [dtfs](dtfs)                   | Digital Twin FileSystem      |
+| [dtowner](threefold:dtowner)             | Digital Twin Owners          |
+| [dtdb](threefold:dtdb)                   | Digital Twin Database        |
+| [qsss](threefold:qsss)                   | Quantum Safe Storage System  |
+| [dtserver](threefold:dtserver)           | Digital Twin Server          |
+| [dthyperdrive](threefold:dthyperdrive)   | Digital Twin HyperDrive      |
+| [dtml](threefold:dtml)                   | Digital Twin Markup Language |
+| [dtfilemanager](threefold:dtfilemanager) | Digital Twin File Manager    |
+| [dtfs](threefold:dtfs)                   | Digital Twin FileSystem      |
 
 ## Internal Concepts
 
 | concept              | description                            |
 | -------------------- | -------------------------------------- |
-| [dtredis](dtredis)   | Digital Twin Redis (internal DB)       |
-| [dtwebdav](dtwebdav) | Digital Twin Webdav (FS interface)     |
-| [zdbfs](zdbfs)       | ZeroDB FileSystem (Internal FS)        |
-| [qs_codec](qs_codec) | Quantum Safe Codec (the storage codec) |
-| [dtdp](dtdp)         | Digital Twin Data Processor            |
-| [dtftp](dtftp)       | Digital Twin FTP Server (FS interface) |
+| [dtredis](threefold:dtredis)   | Digital Twin Redis (internal DB)       |
+| [dtwebdav](threefold:dtwebdav) | Digital Twin Webdav (FS interface)     |
+| [zdbfs](threefold:zdbfs)       | ZeroDB FileSystem (Internal FS)        |
+| [qs_codec](threefold:qs_codec) | Quantum Safe Codec (the storage codec) |
+| [dtdp](threefold:dtdp)         | Digital Twin Data Processor            |
+| [dtftp](threefold:dtftp)       | Digital Twin FTP Server (FS interface) |

@@ -13,9 +13,9 @@ The notifications (events) are shown in UI and also the ThreeFold connect will t
 
 ## implementation
 
-- stored as [dtml](dtml) or json files on [dtfs](dtfs)
-- interface = [dtftp](dtftp) & rest
-- index in [redis server](dtredis)
+- stored as [dtml](threefold:dtml) or json files on [dtfs](threefold:dtfs)
+- interface = [dtftp](threefold:dtftp) & rest
+- index in [redis server](threefold:dtredis)
 - notifications can be given to Digital Twin over rest (maybe redis interface)
 
 Properties for each notification

@@ -12,7 +12,7 @@ You can store upto a petabyte of information and data can never be lost.
 
 ## implementation
 
-- files are stored on [digital twin filesystem](dtfs)
+- files are stored on [digital twin filesystem](threefold:dtfs)
 - interface = filebrowser xyz
 - acl are metadata files in a directory (only support dir for now)
   - works with groups, simple rwd rights
