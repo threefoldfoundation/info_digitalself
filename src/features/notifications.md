@@ -13,9 +13,9 @@ The notifications (events) are shown in UI and also the ThreeFold connect will t
 
 ## implementation
 
-- stored as [dtml](dtml) or json files on [dtfs](dtfs)
-- interface = [dtftp](dtftp) & rest
-- index in [redis server](dtredis)
+- stored as [dtml](threefold:dtml) or json files on [dtfs](threefold:dtfs)
+- interface = [dtftp](threefold:dtftp) & rest
+- index in [redis server](threefold:dtredis)
 - notifications can be given to Digital Twin over rest (maybe redis interface)
 
 Properties for each notification
@@ -40,8 +40,6 @@ Properties of escalation rules
 - acknowledgement_policy (minimal amount of people who need to confirm)
   - e.g. 5 people recieve the notification, 3 of 5 need to confirm
   - if escalation done then the notification get's closed
-
-> assign: lee/maxime/kristof
 
 ## Roadmap
 

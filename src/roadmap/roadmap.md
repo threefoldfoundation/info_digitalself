@@ -8,16 +8,16 @@
 
 | feature                                              | description                                                                                   |
 | ---------------------------------------------------- | --------------------------------------------------------------------------------------------- |
-| [chat](chat)                                         | all basic features you would expect from chat in alfa version                                 |
+| [chat](threefold:chat)                                         | all basic features you would expect from chat in alfa version                                 |
 | [filemanager](filemanager)                           | web based filemanager, pdf viewer integrated, view files from friends (sharing with security) |
 | [meet](meet)                                         | peer2peer integrated in chat, with rooms                                                      |
 | [office](office)                                     | onlyoffice editor on top of the filemanager                                                   |
-| [publisher](publisher)                               | publishing system for wiki (knowledgebase) and websites                                       |
+| [publisher](threefold:publisher)                               | publishing system for wiki (knowledgebase) and websites                                       |
 | [notifications](notifications)                       | ? maybe UI, but prob just the backend                                                         |
-| [threefoldfs](threefoldfs)                           | yes                                                                                           |
+| [threefoldfs](threefold:threefoldfs)                           | yes                                                                                           |
 | [planetarynetwork](planetarynetwork)                 | yes (need to check if all clients will be there)                                              |
-| [autopay](autopay)                                   | yes but only for technical audience , need to edit the data files                             |
-| [tfconnect](tfconnect)                                | mobile app for authentication, planetary network, wallet, notifications                       |
+| [autopay](threefold:autopay)                                   | yes but only for technical audience , need to edit the data files                             |
+| [tfconnect](threefold:tfconnect)                                | mobile app for authentication, planetary network, wallet, notifications                       |
 | [wallet](wallet)                                     | wallet for TFT only for now                                                                   |
 | [hyperdrive](hyperdrive)                             | basic hyper drive support, will be for the experts                                            |
 | [threefold farmer management](threefold_farmer_mgmt) | only for technical audience, need to edit the data files                                      |
