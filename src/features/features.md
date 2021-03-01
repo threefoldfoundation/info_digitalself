@@ -4,14 +4,14 @@
 
 | feature                                              | description                                                                                     |
 | ---------------------------------------------------- | ----------------------------------------------------------------------------------------------- |
-| [chat](threefold:chat)                                         | 100% decentralized peer2peer chat system                                                        |
+| [chat](twin_chat)                                         | 100% decentralized peer2peer chat system                                                        |
 | [filemanager](filemanager)                           | alternative to e.g. dropbox, does not have all features yet                                     |
 | [meet](meet)                                         | alternative to zoom, fully peer2peer and decentralized                                          |
 | [office](office)                                     | onlyoffice editor on top of the filemanager                                                     |
 | [publisher](threefold:publisher)                               | publishing system for wiki (knowledgebase) and websites                                         |
 | [notifications](notifications)                       | notification system, see when issues happen, make sure they get noticed                         |
-| [threefoldfs](threefoldfs)                           | planetary filesysten, store any amounts of data super safe & private                            |
-| [planetarynetwork](planetarynetwork)                 | planetary network, connect everyone in the world, end2end encrypted, look for the shortest path |
+| [threefoldfs](threefold:threefold_fs)                           | planetary filesysten, store any amounts of data super safe & private                            |
+| [planetarynetwork](threefold:threefold_network)                 | planetary network, connect everyone in the world, end2end encrypted, look for the shortest path |
 | [autopay](threefold:autopay)                                   | automatically pay your suppliers, kep track of all your expenses, build up reputation           |
 | [tfconnect](threefold:tfconnect)                                | mobile app for authentication, planetary network, wallet, notifications                         |
 | [wallet](wallet)                                     | wallet, multi currencym integrated P2P exchange                                                 |

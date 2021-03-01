@@ -2,9 +2,9 @@
 
 # Filemanager
 
-A versatile webbased file manager lets you organize your digital life.
+A versatile web-based file manager lets you organize your digital life.
 
-You can store upto a petabyte of information and data can never be lost.
+You can store up to a petabyte of information and data can never be lost.
 
 ## unique
 

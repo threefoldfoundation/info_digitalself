@@ -14,7 +14,7 @@
 | [office](office)                                     | onlyoffice editor on top of the filemanager                                                   |
 | [publisher](threefold:publisher)                               | publishing system for wiki (knowledgebase) and websites                                       |
 | [notifications](notifications)                       | ? maybe UI, but prob just the backend                                                         |
-| [threefoldfs](threefoldfs)                           | yes                                                                                           |
+| [threefoldfs](threefold:threefoldfs)                           | yes                                                                                           |
 | [planetarynetwork](planetarynetwork)                 | yes (need to check if all clients will be there)                                              |
 | [autopay](threefold:autopay)                                   | yes but only for technical audience , need to edit the data files                             |
 | [tfconnect](threefold:tfconnect)                                | mobile app for authentication, planetary network, wallet, notifications                       |
