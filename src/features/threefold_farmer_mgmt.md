@@ -2,7 +2,7 @@
 
 # ThreeFold Farmer Management System
 
-stores info like
+Stores information like:
 
 - farms and relation to 3nodes
 - pricing

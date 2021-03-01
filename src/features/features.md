@@ -4,19 +4,19 @@
 
 | feature                                              | description                                                                                     |
 | ---------------------------------------------------- | ----------------------------------------------------------------------------------------------- |
-| [chat](twin_chat)                                         | 100% decentralized peer2peer chat system                                                        |
-| [filemanager](filemanager)                           | alternative to e.g. dropbox, does not have all features yet                                     |
-| [meet](meet)                                         | alternative to zoom, fully peer2peer and decentralized                                          |
-| [office](office)                                     | onlyoffice editor on top of the filemanager                                                     |
-| [publisher](threefold:publisher)                               | publishing system for wiki (knowledgebase) and websites                                         |
-| [notifications](notifications)                       | notification system, see when issues happen, make sure they get noticed                         |
-| [threefoldfs](threefold:threefold_fs)                           | planetary filesysten, store any amounts of data super safe & private                            |
-| [planetarynetwork](threefold:threefold_network)                 | planetary network, connect everyone in the world, end2end encrypted, look for the shortest path |
-| [autopay](threefold:autopay)                                   | automatically pay your suppliers, kep track of all your expenses, build up reputation           |
-| [tfconnect](threefold:tfconnect)                                | mobile app for authentication, planetary network, wallet, notifications                         |
-| [wallet](wallet)                                     | wallet, multi currencym integrated P2P exchange                                                 |
-| [hyperdrive](hyperdrive)                             | P2P exchange of information, shortest path first, compatible with standards                     |
-| [threefold farmer management](threefold_farmer_mgmt) | manage your threefold farm                                                                      |
+| [Chat](twin_chat)                                         | 100% Decentralized peer2peer chat system                                                        |
+| [Filemanager](filemanager)                           | Alternative to e.g. dropbox, does not have all features yet                                     |
+| [Meet](meet)                                         | Alternative to zoom, fully peer2peer and decentralized                                          |
+| [Office](office)                                     | Onlyoffice editor on top of the filemanager                                                     |
+| [Publisher](threefold:publisher)                               | Publishing system for wiki (knowledgebase) and websites                                         |
+| [Notifications](notifications)                       | Notification system, see when issues happen, make sure they get noticed                         |
+| [ThreefoldFS](threefold:threefold_fs)                           | Planetary filesysten, store any amounts of data super safe & private                            |
+| [PlanetaryNetwork](threefold:threefold_network)                 | Planetary network, connect everyone in the world, end2end encrypted, look for the shortest path |
+| [Autopay](threefold:autopay)                                   | Automatically pay your suppliers, kep track of all your expenses, build up reputation           |
+| [TFConnect](threefold:tfconnect)                                | Mobile app for authentication, planetary network, wallet, notifications                         |
+| [Wallet](wallet)                                     | Wallet, multi currencym integrated P2P exchange                                                 |
+| [Hyperdrive](hyperdrive)                             | P2P exchange of information, shortest path first, compatible with standards                     |
+| [ThreeFold farmer management](threefold_farmer_mgmt) | Manage your threefold farm                                                                      |
 
 ## Benefits
 
