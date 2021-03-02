@@ -17,7 +17,7 @@ About the community:
 
 About the products
 - [Threefold 3Node](definition_3node)
-- [Threefold Capacity](threefold:threefold_capacity)
+- [Threefold Capacity](definition_threefold_capacity)
 - [3Bot](definition_3bot)
 - [Threefold Token](threefold:threefold_token)
 
