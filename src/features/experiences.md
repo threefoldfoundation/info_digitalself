@@ -17,7 +17,3 @@
 | [Wallet](wallet)                                     | Wallet, multi currencym integrated P2P exchange                                                 |
 | [Hyperdrive](hyperdrive)                             | P2P exchange of information, shortest path first, compatible with standards                     |
 | [ThreeFold farmer management](threefold_farmer_mgmt) | Manage your threefold farm                                                                      |
-
-## Benefits
-
-!!!include:benefits
