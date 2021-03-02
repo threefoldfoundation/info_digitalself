@@ -4,30 +4,17 @@
 
 ## Get back your personal conversations
 
-Using the chat tool in the DigitalTwin you can use real peer-to-peer communcation to safely and privately interact with other people in the Threefold network. Your DigitalTwin will be constantly online, saving your messages for when you have the time to read them. Expect the same experience as the best messaging applications out there, but with improved privacy, safety and ownership.
+Using the chat tool in the DigitalTwin, you can use real peer-to-peer communication to safely and privately interact with other people in the Threefold network. Your Digital Twin will be constantly online, saving your messages for when you will be available to read them. Expect the same experience as the best messaging applications out there, but with improved privacy, safety and ownership.
 
 ## Features
 
 Our MVP version will be provided with following features:
 
-- Direct p2p messaging
-- Search for contacts
-- Add, delete, block and overall management of contacts
-- Smileys :-)
-- Groups functionality with admins
-- Directly start video calls, meetings integration
-- Send files
-- Persistent storage
-- Sexy layout
-- Quote/reply on your messages
-- Edit messages
-- Avatars
-- Gifs (obviously)
-- Online/offline status
-- Status text
-- Message read notifications
-- Responsive design for mobile usage
-- Sound message recording
-- New message notification
+- **Availability** - Web-based by default and native app coming soon!
+- **Functionality** - Everything you expect from modern convenient messaging app.
+- **Secure** - Runs on your Digital Twin capacity with end-to-end encryption, fully open-source.
+- **Privacy** - You and only you can decide where and how to store your messages
+- **Video** - Video conferencing integrated with Meet
+- **Manage** - You decide with who you want to chat. People can only contact you after approving their request. You can block or delete any contact whenever you want. You are in control. 
 
 More features will be added in the future.

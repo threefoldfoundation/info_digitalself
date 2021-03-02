@@ -6,9 +6,14 @@ A versatile web-based file manager lets you organize your digital life.
 
 You can store up to a petabyte of information and data can never be lost.
 
-## unique
+## features 
 
-...
+- **Availability** - Accessible anywhere and anytime with a web browser.
+- **Secure** - Encrypted and stored on the private nodes of your choice.
+- **Cost-effective** - Due to ThreeFold space storage algorithm.
+- **Reliable** - Quantum safe permanent storage, protected by blockchain and and intelligent 3Bot.
+- **Flexible teamwork** - Control and customise access level permissions for individual 3Bots and Circles.
+- **Open** - can be integrated or connected to other systems and storage layer.  
 
 ## implementation
 

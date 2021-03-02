@@ -39,8 +39,6 @@ In version 0.9 this will be done as data files which need to be editted, an use 
 
 > No UI features in 0.9 release, only editable over [DTFS](threefold:dtfs).
 
-> assign: lee/maxime
-
 ## roadmap
 
 - power management (< end March)
