@@ -1,8 +1,8 @@
 ![](img/features.png)
 
-# Features
+# Experiences
 
-| feature                                              | description                                                                                     |
+| Experiences                                              | description                                                                                     |
 | ---------------------------------------------------- | ----------------------------------------------------------------------------------------------- |
 | [Chat](twin_chat)                                         | 100% Decentralized peer2peer chat system                                                        |
 | [Filemanager](filemanager)                           | Alternative to e.g. dropbox, does not have all features yet                                     |

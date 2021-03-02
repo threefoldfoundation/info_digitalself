@@ -6,7 +6,7 @@
 
 [Github project](https://github.com/threefoldtech/digitaltwin/projects/2)
 
-| feature                                              | description                                                                                   |
+| Experiences                                             | description                                                                                   |
 | ---------------------------------------------------- | --------------------------------------------------------------------------------------------- |
 | [chat](threefold:chat)                                         | all basic features you would expect from chat in alfa version                                 |
 | [filemanager](filemanager)                           | web based filemanager, pdf viewer integrated, view files from friends (sharing with security) |
