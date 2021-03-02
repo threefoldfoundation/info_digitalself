@@ -1,4 +1,4 @@
-![](img/how_work.png)
+![](img/grid_header.png)
 
 # How Does It Work
 

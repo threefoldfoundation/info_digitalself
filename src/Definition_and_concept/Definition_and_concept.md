@@ -8,7 +8,6 @@ If you would like to see another definition added, please get raise it on the [T
 
 About the community: 
 
-- [Digital Twin](definition_digitaltwin)
 - [Digital Twin Values](digitaltwin_values)
 - [Threefold](definition_threefold)
 - [Threefold Foundation](definition_threefoldfoundation)
