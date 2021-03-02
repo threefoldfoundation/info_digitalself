@@ -1,7 +1,7 @@
 - [Home](readme)
 - [Definition and Concept](Definition_and_concept)
 - [Why](tftech:why)
-- [Our Vision](Our_Vision)
+- [Our Vision](our_vision)
 - [Features](features)
   - [chat](twin_chat)
   - [filemanager](filemanager)
