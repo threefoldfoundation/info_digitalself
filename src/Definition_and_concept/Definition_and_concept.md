@@ -22,4 +22,7 @@ About the products
 - [Threefold Token](threefold:threefold_token)
 
 About the technology
-- 
+- [Capacity Layer](threefold:capacity_layer)
+- [Autonomous Layer](threefold:autonomous_layer)
+- [Experience Layer](threefold:experience_layer)
+- [ThreeFold OS](threefold:zos)
