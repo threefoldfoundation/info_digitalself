@@ -1,35 +1,24 @@
-# Getting Started
+# Digital Twin Definitions & Concepts 
 
-- Install ThreeFold Connect on your mobile phone
-  - Which is your wallet and authentication System
-- Go to the digitalTwin Bootstrap service:
-  - This will provision you a digitalTwin
-  - https://bootstrap_twin.grid.tf (TO BE CONFIRMED AND NOT ACTIVE YET)
-  - Log in with your TFConnect
-  - Answer questions to define where you want your digitalTwin twin to run
-- Advance to https://yourTwinName.twin.grid.tf and your digitalTwin webinterface will launch
-  - You will have to re-login (authenticate) to tell your digitalTwin its you
+![](img/header.png)
 
-## Your first steps
+Before diving into our Wiki, we invite you to have a look at some key definitions related to Digital Twin and its ecosystem.
 
-Add some contacts, create some files and get sharing. Full productivity right at your fingertips. Everything is really intuitive and a manual is superfluous.
+If you would like to see another definition added, please get raise it on the [ThreeFold Forum](https://forum.threefold.io/) or email us at info@threefold.io.
 
-### The Interface
-This is the original design of our interface
+About the community: 
 
-![](img/interface.jpg)
+- [Digital Twin](definition_digitaltwin)
+- [Digital Twin Values](digitaltwin_values)
+- [Threefold](definition_threefold)
+- [Threefold Foundation](definition_threefoldfoundation)
+- [Threefold ambassador](threefold_ambassador)
+- [Threefold Tech](threefold_tech)
 
+About the products
+- [Threefold 3Node](3node)
+- [Threefold Capacity](threefold:threefold_capacity)
+- [3Bot](definition_3bot)
+- [Threefold Token](threefold:threefold_token)
 
-### Full Integration
-There is a full integration between all components. A chat application, file manager, forum and video meetings. They will all work in the same manner and integrate into a single platform. Full usability and full ownership of all your data and communication.
-
-Features of the components:
-- [Chat](threefold:chat)
-- [Filemanager](filemanager)
-- [Meet](meet)
-- [Office](office)
-- [Wallet](wallet)
-
-Imagine chatting with someone, in the chat you allow access to a file and collaborate on the file. After consideration a deep dive is needed so you just click the video button and have full live interaction.
-
-Share your thoughts, share your files and share you mind.
+About the technology
