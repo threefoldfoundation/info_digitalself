@@ -20,4 +20,3 @@
 
 ## Benefits
 
-!!!include:benefits
