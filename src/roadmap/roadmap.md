@@ -27,15 +27,13 @@
 
 ## v0.6 end Q1 2021
 
-> is preliminary list, waiting for more feedback
-
 NEW
 
 - SMS support for notifications
 - UI for notifications
 - UI for the autopay system
 - better integration of hyperdrive into filemanager
-- lots of bugfixes probably (-:
+- lots of bugfixes probably
 
 ## v0.7 Q2 2021
 
@@ -50,4 +48,4 @@ NEW
 NEW
 
 - add news feature (like facebook / twitter)
-- tbd
+- TBD
