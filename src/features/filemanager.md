@@ -14,10 +14,10 @@ You can store up to a petabyte of information and data can never be lost.
 
 - files are stored on [digital twin filesystem](threefold:dtfs)
 - interface = filebrowser xyz
-- acl are metadata files in a directory (only support dir for now)
-  - works with groups, simple rwd rights
-  - identificaiton based on groupid (in group we have digital twinids or names)
-- each DT has rest interface to expose file taking ACL's into consideration
+- acl are metadata files in a directory (only support directories for now)
+  - works with groups, simple read-write rights
+  - identificaiton based on groupId (in group we have digital twinIds or names)
+- each Digital Twin has rest interface to expose file taking ACL's into consideration
 - link feature = is a directory (specified as metadata), which links to remote directory of other DT
 
 ## roadmap
