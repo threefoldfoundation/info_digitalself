@@ -12,13 +12,13 @@ The Digital twin adds following benefits
 - unlimited scalability (can store petabytes)
 - sync with other datasets e.g. automatic sync with your files on the [filemanager](filemanager)
 
-## supported Features
+## Supported Features
 
 - 2 way sync [DTFS](threefold:dtfs) with directoy into HyperDrive
 - expose HyperDrive link for publish server
 - link HyperDrive into filemanager (can be phase 2)
 
-## more info
+## More info
 
 The Hypercore Protocol is inspired by BitTorrent. It creates networked datasets which users can seed in a distributed mesh. It also includes a variety of tools for connecting devices, streaming data, and running services.
 

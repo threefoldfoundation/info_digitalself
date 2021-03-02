@@ -27,7 +27,7 @@ executes on
   - asks for payment to the right digital twin of the consumer using the [autopay](threefold:autopay) system.
 - some basic health check & escalation to [notification system](notifications).
 
-## implementation
+## Implementation
 
 Accessible by Zero-OS and any other Digital Twin over Rest Interface.
 
@@ -39,12 +39,9 @@ In version 0.9 this will be done as data files which need to be editted, an use 
 
 > No UI features in 0.9 release, only editable over [DTFS](threefold:dtfs).
 
-## roadmap
+## Roadmap
 
 - power management (< end March)
   - make sure that nodes which are reserved are turned on once a day to do the registration of uptime
-
-**timing not known yet**
-
 - rating system for farmers & nodes
 - monitoring overview of health of 3nodes

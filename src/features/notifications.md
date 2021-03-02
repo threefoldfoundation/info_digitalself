@@ -11,7 +11,7 @@ The notifications (events) are shown in UI and also the ThreeFold connect will t
 - escalation rules
   - what needs to happen with the notification
 
-## implementation
+## Implementation
 
 - stored as [dtml](threefold:dtml) or json files on [dtfs](threefold:dtfs)
 - interface = [dtftp](threefold:dtftp) & rest

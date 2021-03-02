@@ -6,7 +6,7 @@ A versatile web-based file manager lets you organize your digital life.
 
 You can store up to a petabyte of information and data can never be lost.
 
-## features 
+## Features 
 
 - **Availability** - Accessible anywhere and anytime with a web browser.
 - **Secure** - Encrypted and stored on the private nodes of your choice.
@@ -15,7 +15,7 @@ You can store up to a petabyte of information and data can never be lost.
 - **Flexible teamwork** - Control and customise access level permissions for individual 3Bots and Circles.
 - **Open** - can be integrated or connected to other systems and storage layer.  
 
-## implementation
+## Implementation
 
 - files are stored on [digital twin filesystem](threefold:dtfs)
 - interface = filebrowser xyz
@@ -25,6 +25,6 @@ You can store up to a petabyte of information and data can never be lost.
 - each Digital Twin has rest interface to expose file taking ACL's into consideration
 - link feature = is a directory (specified as metadata), which links to remote directory of other DT
 
-## roadmap
+## Roadmap
 
 - integration with a sync tool like syncthing

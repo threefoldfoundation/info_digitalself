@@ -6,7 +6,7 @@
 
 Your own private cloud implementation for all your documents. Highly secured with your own personal keys, not readable by anyone else unless intended by you.
 
-## features 
+## Features 
 
 - **Availability** - Access anywhere from your browser.
 - **Collaboration** - Work on your documents together with your team and share them easily.
@@ -15,7 +15,7 @@ Your own private cloud implementation for all your documents. Highly secured wit
 - **Functionality** - everything that you can get in OnlyOffice - Documents, spreadsheets, slides
 - **Open-source** - Everything is open-source, compatible with other office document formats
 
-## implementation
+## Implementation
 
 - Upload and download files and directories
 - Create folders
