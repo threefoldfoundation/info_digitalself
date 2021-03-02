@@ -1,5 +1,5 @@
 - [Home](readme)
-- [Definition and Concept](Definition_and_concept)
+- [Definition and Concept](definition_and_concept)
 - [Why](tftech:why)
 - [Our Vision](our_vision)
 - [Features](features)
