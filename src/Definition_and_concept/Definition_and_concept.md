@@ -9,13 +9,13 @@ If you would like to see another definition added, please get raise it on the [T
 About the community: 
 
 - [Digital Twin Values](digitaltwin_values)
-- [Threefold](definition_threefold)
+- [Threefold](threefold:definition_threefold)
 - [Threefold Foundation](definition_threefoldfoundation)
-- [Threefold ambassador](threefold_ambassador)
-- [Threefold Tech](threefold_tech)
+- [Threefold ambassador](threefold:threefold_ambassador)
+- [Threefold Tech](threefold:threefold_tech)
 
 About the products
-- [Threefold 3Node](definition_3node)
+- [Threefold 3Node](threefold:3node)
 - [Threefold Capacity](definition_threefold_capacity)
 - [3Bot](definition_3bot)
 - [Threefold Token](threefold:threefold_token)
