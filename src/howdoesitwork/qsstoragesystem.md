@@ -1,6 +1,1 @@
-> TODO:
-
-<BR> 
-<BR>
-
-![](img/todo.png)
+!!!include:threefold:quantumsafe_storage_concept
