@@ -21,11 +21,11 @@ This is the original design of our interface
 
 
 ### Full Integration
-There is a full integration between all components. A chat application, file manager, forum and video meetings. They will all work in the same manner and integrate into a single platform. Full usability and full ownership of all your data and communication.
+There is a full integration between all components. A chat application, File Storage, forum and video meetings. They will all work in the same manner and integrate into a single platform. Full usability and full ownership of all your data and communication.
 
 Experiences:
 - [Chat](threefold:chat)
-- [Filemanager](filemanager)
+- [filestorage](filestorage)
 - [Meet](meet)
 - [Office](office)
 - [Wallet](wallet)

@@ -10,13 +10,13 @@ The Digital twin adds following benefits
 
 - data can never be lost
 - unlimited scalability (can store petabytes)
-- sync with other datasets e.g. automatic sync with your files on the [filemanager](filemanager)
+- sync with other datasets e.g. automatic sync with your files on the [filestorage](filestorage)
 
 ## Supported Features
 
 - 2 way sync [DTFS](threefold:dtfs) with directoy into HyperDrive
 - expose HyperDrive link for publish server
-- link HyperDrive into filemanager (can be phase 2)
+- link HyperDrive into filestorage (can be phase 2)
 
 ## More info
 

@@ -5,9 +5,9 @@
 | Experiences                                              | description                                                                                     |
 | ---------------------------------------------------- | ----------------------------------------------------------------------------------------------- |
 | [Chat](twin_chat)                                         | 100% Decentralized peer2peer chat system                                                        |
-| [Filemanager](filemanager)                           | Alternative to e.g. dropbox, does not have all features yet                                     |
+| [filestorage](filestorage)                           | Alternative to e.g. dropbox, does not have all features yet                                     |
 | [Meet](meet)                                         | Alternative to zoom, fully peer2peer and decentralized                                          |
-| [Office](office)                                     | Onlyoffice editor on top of the filemanager                                                     |
+| [Office](office)                                     | Onlyoffice editor on top of the filestorage                                                     |
 | [Publisher](threefold:publisher)                               | Publishing system for wiki (knowledgebase) and websites                                         |
 | [Notifications](notifications)                       | Notification system, see when issues happen, make sure they get noticed                         |
 | [ThreefoldFS](threefold:threefold_fs)                           | Planetary filesysten, store any amounts of data super safe & private                            |

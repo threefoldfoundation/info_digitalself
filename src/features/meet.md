@@ -8,12 +8,25 @@ Have your personal or professional meetings in the most private and peer-to-peer
 
 ## Features
 
-- **Availability** - Available on any devide with a browser. Native app coming soon!
-- **Secure** - Call are processed using your Digital Twin (or your host's Digital Twin). It is peer-to-peer encrypted open-source and transparent.
-- **Private** - Your data is yours - only you decide where your recordings are stored & calls processed and who can access it.
-- **Efficient** - Using multiplexing technology, streams are transmitted in most efficient way, without delays and unnecessary traffic to remote data-centers. 
-- **Group conferencing** - Unlimited number of participants, depending on your available capacity.
-- **Collaborative** - Everything you need for online collaboration - screen sharing, native chat integration, filesharing, recordings.
+### Meet Privately
+
+More than just an option, privacy is the foundation of how Digital Twin works. Feel safe to share the moments you care about with your family, friends, colleagues and community. Every call remains fully private to you.
+
+### Be Together 
+
+Have face-to-face conversations with an unlimited number of participants. From family meetings and group hangouts to yoga classes and business meetings – everything can happen on Video Calls without calling charges. 
+
+### Built for Collaboration
+
+Easily share information with screen sharing, record your calls to capture special moments and send documents without the hassle of email. Everything you need for online collaboration is integrated in your Meet experience.  
+
+### Ultra-Secure (Secure)
+
+There are no ads, no affiliate marketers, nor creepy tracking on Digital Twin. Enjoy the most secure end-to-end encryption (powered by the open source Digital Twin Protocol) in the world.
+
+### Available Now, Native soon
+
+The first version of Chat is already available in its web-based version. But don't worry, we'll be going native in the upcoming weeks to provide you with a seamless experience.
 
 ## Multiplexing
 

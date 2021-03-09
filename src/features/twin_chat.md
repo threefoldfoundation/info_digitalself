@@ -10,11 +10,24 @@ Using the chat tool in the DigitalTwin, you can use real peer-to-peer communicat
 
 Our MVP version will be provided with following features:
 
-- **Availability** - Web-based by default and native app coming soon!
-- **Functionality** - Everything you expect from modern convenient messaging app.
-- **Secure** - Runs on your Digital Twin capacity with end-to-end encryption, fully open-source.
-- **Privacy** - You and only you can decide where and how to store your messages
-- **Video** - Video conferencing integrated with Meet
-- **Manage** - You decide with who you want to chat. People can only contact you after approving their request. You can block or delete any contact whenever you want. You are in control. 
+### Private Messaging
+
+Privacy isn't an optional mode, it's just the way Digital Twin works. No one can read your messages or listen to your conversations. Every message, shared file, or call remains fully private to only those in the conversation. So, focus on sharing the moments you care about with your peers!
+
+### Stay in Touch With Your Circles
+
+Circles represent the people you care about – your family, friends, colleagues or community. Share messages, photos and videos with an unlimited number of people at once. Name your circles, customize your notifications, and enjoy the journey!
+
+### Exchange Freely
+
+Experience crystal-clear voice and video calls with the people you love, without boundaries. Share text, voice messages, photos, videos, GIFs and files unlimitedly, without extra fees. 
+
+### Ultra-Secure
+
+There are no ads, no affiliate marketers, nor creepy tracking on Digital Twin. Enjoy the most secure end-to-end encryption (powered by the open source Digital Twin Protocol) in the world. A step beyond the "private" messaging apps which exist today.
+
+### Available Now, Native Soon
+
+The first version of Chat is already available in its web-based version. But don't worry, we'll be going native in the upcoming weeks to provide you with a seamless experience.
 
 More features will be added in the future.

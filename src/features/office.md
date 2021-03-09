@@ -8,12 +8,25 @@ Your own private cloud implementation for all your documents. Highly secured wit
 
 ## Features 
 
-- **Availability** - Access anywhere from your browser.
-- **Collaboration** - Work on your documents together with your team and share them easily.
-- **Secure** -Data is encrypted and processing happens on your dedicated capacity of your choice.
-- **Private** - Your data is yours - only you decide where your files are stored and who can access them.
-- **Functionality** - everything that you can get in OnlyOffice - Documents, spreadsheets, slides
-- **Open-source** - Everything is open-source, compatible with other office document formats
+### All You Need
+
+Documents, spreadsheets, presentations and more – all office essentials have been integrated for you and your business to thrive. Keep your data private to yourself, and choose where to store it and who can access it.
+
+### Private Environment 
+
+More than just an option, privacy is the foundation of how Digital Twin works. Decide where your files are stored and with whom to share them. Every file you create remains fully private to you.
+
+### Collaboration Made Easy
+
+Create, edit, share and manage access in a collaborative and fully-encrypted environment. Keep your professional life organized and moving – all in one place. Re-imagine the way you work with [Office](office), [Chat](twin_chat), [Meet](meet) and [File Storage](filestorage). 
+
+### Ultra-Secure
+
+Enjoy the most secure end-to-end encryption (powered by the open source Digital Twin Protocol) in the world. Decide where your data is processed by choosing your dedicated capacity from 500+ nodes distributed across 23+ countries.
+
+### Easy Access
+
+Being web-based, your File Storage can be accessed from any device from anywhere around the world. All you need is your login information and you're good to go.
 
 ## Implementation
 

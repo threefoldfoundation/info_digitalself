@@ -34,8 +34,8 @@
 | [digitaltwingroup](page__info_threefold__dtgroups.md)     | Digital Twin Groups          |
 | [dtdataprocessor](page__info_threefold__dtdp.md)          | Digital Twin Data Processor  |
 | [dtdb](page__info_threefold__dtdb.md)                     | Digital Twin Database        |
-| [dtfilemanager](page__info_threefold__dtfilemanager.md)   | Digital Twin File Manager    |
-| [dtfm](page__info_threefold__dtfilemanager.md)            | Digital Twin File Manager    |
+| [dtfilestorage](page__info_threefold__dtfilestorage.md)   | Digital Twin File Storage    |
+| [dtfm](page__info_threefold__dtfilestorage.md)            | Digital Twin File Storage    |
 | [dtfs](page__info_threefold__dtfs.md)                     | Digital Twin FS              |
 | [dtftp](page__info_threefold__dtftp.md)                   | Digital Twin FTP server      |
 | [dtgroups](page__info_threefold__dtgroups.md)             | Digital Twin Groups          |

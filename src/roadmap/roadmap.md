@@ -9,9 +9,9 @@
 | Experiences                                             | description                                                                                   |
 | ---------------------------------------------------- | --------------------------------------------------------------------------------------------- |
 | [chat](threefold:chat)                                         | all basic features you would expect from chat in alfa version                                 |
-| [filemanager](filemanager)                           | web based filemanager, pdf viewer integrated, view files from friends (sharing with security) |
+| [filestorage](filestorage)                           | web based filestorage, pdf viewer integrated, view files from friends (sharing with security) |
 | [meet](meet)                                         | peer2peer integrated in chat, with rooms                                                      |
-| [office](office)                                     | onlyoffice editor on top of the filemanager                                                   |
+| [office](office)                                     | onlyoffice editor on top of the filestorage                                                   |
 | [publisher](threefold:publisher)                               | publishing system for wiki (knowledgebase) and websites                                       |
 | [notifications](notifications)                       | ? maybe UI, but prob just the backend                                                         |
 | [threefoldfs](threefold:threefoldfs)                           | yes                                                                                           |
@@ -32,7 +32,7 @@ NEW
 - SMS support for notifications
 - UI for notifications
 - UI for the autopay system
-- better integration of hyperdrive into filemanager
+- better integration of hyperdrive into filestorage
 - lots of bugfixes probably
 
 ## v0.7 Q2 2021
