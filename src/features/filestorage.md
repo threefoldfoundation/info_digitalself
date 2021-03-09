@@ -42,6 +42,3 @@ Being web-based, your File Storage can be accessed on any device, from anywhere 
 - each Digital Twin has rest interface to expose file taking ACL's into consideration
 - link feature = is a directory (specified as metadata), which links to remote directory of other DT
 
-## Roadmap
-
-- integration with a sync tool like syncthing

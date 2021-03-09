@@ -30,4 +30,4 @@ There are no ads, no affiliate marketers, nor creepy tracking on Digital Twin. E
 
 The first version of Chat is already available in its web-based version. But don't worry, we'll be going native in the upcoming weeks to provide you with a seamless experience.
 
-More features will be added in the future.
+> More features will be added in the future.

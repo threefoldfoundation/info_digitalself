@@ -20,7 +20,7 @@ Have face-to-face conversations with an unlimited number of participants. From 
 
 Easily share information with screen sharing, record your calls to capture special moments and send documents without the hassle of email. Everything you need for online collaboration is integrated in your Meet experience.  
 
-### Ultra-Secure (Secure)
+### Ultra-Secure
 
 There are no ads, no affiliate marketers, nor creepy tracking on Digital Twin. Enjoy the most secure end-to-end encryption (powered by the open source Digital Twin Protocol) in the world.
 
