@@ -16,7 +16,7 @@
 | [dtserver](threefold:dtserver)           | Digital Twin Server          |
 | [dthyperdrive](threefold:dthyperdrive)   | Digital Twin HyperDrive      |
 | [dtml](threefold:dtml)                   | Digital Twin Markup Language |
-| [dtfilemanager](threefold:dtfilemanager) | Digital Twin File Manager    |
+| [dtfilestorage](threefold:dtfilestorage) | Digital Twin File Storage    |
 | [dtfs](threefold:dtfs)                   | Digital Twin FileSystem      |
 
 ## Internal Concepts

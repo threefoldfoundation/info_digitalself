@@ -1,6 +1,6 @@
-> TODO:
+# From Stars to Circles
 
-<BR> 
-<BR>
-
-![](img/todo.png)
+Digital Twin concept is based on a circlular architecture framework, provided by ThreeFold.
+![](img/circle_alternative.png)
+![](img/many_twins.png)
+![](img/circular_system.png)

@@ -41,7 +41,3 @@ Properties of escalation rules
   - e.g. 5 people recieve the notification, 3 of 5 need to confirm
   - if escalation done then the notification get's closed
 
-## Roadmap
-
-- fall back to SMS (allow user to speficy e.g. API key of twilio)
-- web based userinterface (time to be defined)
