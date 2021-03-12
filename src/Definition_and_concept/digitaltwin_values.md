@@ -1,10 +1,16 @@
 # Digital Twin values
 
 
-Digital Twin is driven by three main values or pillars:
+Our technology intends to promote SOVEREIGNTY, EQUALITY, SUSTAINABILITY whilst meeting this demand for decentralisation:
 
-**Equality** | Equality is the foundation where everyone is given the opportunity to be empowered and to achieve full potential. The internet along its experiences should be inclusive to all of humanity. An internet which is peer-to-peer, owned by many, can be deployed everywhere, and accessible to all. 
+<br>
 
-**Autonomy** | Being empowered to learn, partake, dream and succeed is fundamental to achieve peace and fullfilment of humankind's potential. The internet should be responsible and democratized, respectful of individual privacy, neutral, and secure, and provide autonomy to all stakeholders. Everyone should be the owner of their personal data just like they own their experiences in reality. 
+**SOVEREIGNTY**: A decentralized data economy has to be democratized, neutral and secure to provide sovereignty to all stakeholders and their data. Everyone shall be digitally sovereign and own their data just like they would own any other assets.
 
-**Sustainability** | Ensuring the future of life on earth. It is about adopting the behavior and mindset to minimize our footprint. We need an Internet that is environmentally conscious, where networks, hardware and software components, as well as processes are optimized around energy-efficiency and carbon neutrality as much as possible.
+<br>
+
+**EQUALITY**: A decentralised data economy needs to be peer-to-peer, available everywhere and owned by everyone – across geographical and cultural borders. Everyone (the “bankable” and the “non-bankable”) deserves equal chances to learn, partake and succeed in the data economy (also remotest areas of our planet, as currently half of the world population still doesn`t have access to internet).
+
+<br>
+
+**SUSTAINABILITY**: A decentralised data economy has to be environmentally conscious. All network, hardware and software components that constitute the digital infrastructure are optimized around energy-efficiency and carbon neutrality.
