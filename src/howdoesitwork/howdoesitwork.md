@@ -11,10 +11,10 @@ DigitalTwin's unquiue properties are made possible by deep integration and smart
 In order to make our vision possible, Digital Twin actively uses different aspects of ThreeFold technology and therefore in order to understand our architecture properly proper understanding of ThreeFold architecutre is needed.
 
 There are multiple sources places where you can find information about ThreeFold, most up to date and correct is it's wikis:
-- [General ThreeFold Wiki](http://threefold.io/info/threefold)
-- [ThreeFold SDK](http://threefold.io/info/sdk)
-- [ThreeFold Tech](http://threefold.io/info/tech)
-- [ThreeFold Cloud](http://threefold.io/info/cloud)
+- [General ThreeFold Wiki](http://wiki.threefold.io)
+- [ThreeFold SDK](http://wiki.sdk.threefold.io)
+- [ThreeFold Tech (Link is not ready yet)](http://threefold.io/info/tech)
+- [ThreeFold Cloud](http://wiki.cloud.threefold.io)
 
 Referencing to general understanding of ThreeFold Technology, we can explain how exactly Digital Twin works. 
 
