@@ -1,12 +1,14 @@
-![](img/filemanager.jpg)
-
 # File Storage
+
+![](img/DT_file_storage.png)
 
 A versatile web-based file Storage lets you organize your digital life.
 
 You can store up to a petabyte of information and data can never be lost.
 
 ## Features 
+
+Your File Storage will be provided with the following features:
 
 ### Seamless Compatibility 
 
@@ -31,14 +33,3 @@ File Storage is the first quantum safe permanent storage solution on the market.
 ### Easy Access
 
 Being web-based, your File Storage can be accessed on any device, from anywhere around the world. All you need is your login information and you're good to go!
-
-## Implementation
-
-- files are stored on [digital twin filesystem](threefold:dtfs)
-- interface = filebrowser xyz
-- acl are metadata files in a directory (only support directories for now)
-  - works with groups, simple read-write rights
-  - identificaiton based on groupId (in group we have digital twinIds or names)
-- each Digital Twin has rest interface to expose file taking ACL's into consideration
-- link feature = is a directory (specified as metadata), which links to remote directory of other DT
-

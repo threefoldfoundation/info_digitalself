@@ -4,16 +4,17 @@
 
 | Experiences                                              | description                                                                                     |
 | ---------------------------------------------------- | ----------------------------------------------------------------------------------------------- |
-| [Chat](twin_chat)                                         | 100% Decentralized peer2peer chat system                                                        |
-| [filestorage](filestorage)                           | Alternative to e.g. dropbox, does not have all features yet                                     |
-| [Meet](meet)                                         | Alternative to zoom, fully peer2peer and decentralized                                          |
-| [Office](office)                                     | Onlyoffice editor on top of the filestorage                                                     |
-| [Publisher](threefold:publisher)                               | Publishing system for wiki (knowledgebase) and websites                                         |
+| [Chat](twin_chat)                                         | A fully decentralized peer-to-peer chat system                                                        |
+| [filestorage](filestorage)                           | A file storage system to keep all your files and documents safely                                       |
+| [Meet](meet)                                         | A fully decentralized peer-to-peer video chat system                                          |
+| [Office](office)                                     | Create, edit and manage your documents                                                     |
+| [Publisher](threefold:publisher)                               | Publishing system for wikis (knowledge-based) and websites and create your own file storage system                                         |
+| [Payment](payment)                                   | Multi-currency wallet, exchange on a peer-to-peer way, automatically pay your suppliers and keep track on your expenses           |
 | [Notifications](notifications)                       | Notification system, see when issues happen, make sure they get noticed                         |
-| [ThreefoldFS](threefold:threefold_fs)                           | Planetary filesysten, store any amounts of data super safe & private                            |
-| [PlanetaryNetwork](threefold:threefold_network)                 | Planetary network, connect everyone in the world, end2end encrypted, look for the shortest path |
-| [Autopay](threefold:autopay)                                   | Automatically pay your suppliers, kep track of all your expenses, build up reputation           |
-| [TFConnect](threefold:tfconnect)                                | Mobile app for authentication, planetary network, wallet, notifications                         |
-| [Wallet](wallet)                                     | Wallet, multi currencym integrated P2P exchange                                                 |
-| [Hyperdrive](hyperdrive)                             | P2P exchange of information, shortest path first, compatible with standards                     |
+| [Planetary Filesystem](threefold:threefold_fs)                           | Store any amounts of data safely & privately                            |
+| [Planetary Network](threefold:threefold_network)                 | Allows everyone to connect with each other with an end-to-end encryption |
+| [TFConnect](threefold:tfconnect)                                | Mobile app for authentication                         |
+| [Hyperdrive](hyperdrive)                             | Peer-to-peer exchange of information while always choosing the shortest path first. Compatible with standards                     |
 | [ThreeFold farmer management](threefold_farmer_mgmt) | Manage your threefold farm                                                                      |
+
+<!--| [Wallet](wallet)                                     | Wallet, multi currencym integrated P2P exchange                                                 |-->

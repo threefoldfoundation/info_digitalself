@@ -1,16 +1,18 @@
-![](img/meet.jpg)
+# Video Call
 
-# DT Meet
+![](img/DT_video_chat.png)
 
-## Meetings
+## Meet without boundaries 
 
-Have your personal or professional meetings in the most private and peer-to-peer way.
+With our Video Call experience, achieve end-to-end encryption like never before with the first peer-to-peer video call applicaion. Scheduled personal and professional meetings in a most secured and private manner. 
 
 ## Features
 
+Your Video Call app will be provided with the following features:
+
 ### Meet Privately
 
-More than just an option, privacy is the foundation of how Digital Twin works. Feel safe to share the moments you care about with your family, friends, colleagues and community. Every call remains fully private to you.
+More than just an option, privacy is the foundation of how Digital Twin works. Share freely with your family, friends, colleagues and community, every time. 
 
 ### Be Together 
 
@@ -18,16 +20,12 @@ Have face-to-face conversations with an unlimited number of participants. From 
 
 ### Built for Collaboration
 
-Easily share information with screen sharing, record your calls to capture special moments and send documents without the hassle of email. Everything you need for online collaboration is integrated in your Meet experience.  
+Talk, video chat, record, share screens and files all in one place. No need to switch between platforms – everything you need for online collaboration is integrated into your Video Calls experience.
 
 ### Ultra-Secure
 
-There are no ads, no affiliate marketers, nor creepy tracking on Digital Twin. Enjoy the most secure end-to-end encryption (powered by the open source Digital Twin Protocol) in the world.
+Enjoy the most secure end-to-end encryption (powered by the open-source Digital Twin Protocol) in the world. And a unique storage algorithm ensures your data can't be hacked or lost.
 
 ### Available Now, Native soon
 
-The first version of Chat is already available in its web-based version. But don't worry, we'll be going native in the upcoming weeks to provide you with a seamless experience.
-
-## Multiplexing
-
-The video app is integrated in the ThreeFold_Grid and will support Multiplexing which will improve bandwidth use in comparison to other applications.
+The first version of Video Calls is already available in its web-based version. And we'll be going native in the upcoming weeks to provide you with a seamless experience!

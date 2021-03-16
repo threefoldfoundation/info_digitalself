@@ -1,6 +1,6 @@
-![](img/onlyoffice.png)
-
 # Digital Twin Office Editor
+
+![](img/DT_office.png)
 
 ## Your files, owned by you
 

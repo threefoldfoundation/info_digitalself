@@ -28,3 +28,4 @@
   <!-- [peer2peer fairswap](p2p_swap)-->
 - [Roadmap](roadmap)
 - [Technical Concepts](concepts)
+- <!--[Legal](legal)-->
