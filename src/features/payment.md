@@ -25,7 +25,7 @@ Diversify your portfolio by having access to a wide range of digital assets. Buy
 
 Seamlessly define your transaction parameters up front and go hastle-free. Set up automatic payments and transfer limits to keep your funds under control. 
 
-> See more about [Autopay](autopay)
+See more about [Autopay](autopay)
 
 ### Ultra-Secure
 

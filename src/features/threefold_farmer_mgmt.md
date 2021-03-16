@@ -38,10 +38,3 @@ In version 0.9 this will be done as data files which need to be editted, an use 
 - interface = [dtftp](threefold:dtftp)
 
 > No UI features in 0.9 release, only editable over [DTFS](threefold:dtfs).
-
-## Roadmap
-
-- power management (< end March)
-  - make sure that nodes which are reserved are turned on once a day to do the registration of uptime
-- rating system for farmers & nodes
-- monitoring overview of health of 3nodes

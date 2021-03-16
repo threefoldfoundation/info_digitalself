@@ -6,7 +6,7 @@
 | ---------------------------------------------------- | ----------------------------------------------------------------------------------------------- |
 | [Chat](twin_chat)                                         | A fully decentralized peer-to-peer chat system                                                        |
 | [File Storage](filestorage)                           | A file storage system to keep all your files and documents safely                                       |
-| [Video Call](meet)                                         | A fully decentralized peer-to-peer video chat system                                          |
+| [Video Call](video_call)                                         | A fully decentralized peer-to-peer video chat system                                          |
 | [Office](office)                                     | Create, edit and manage your documents                                                     |
 | [Publisher](threefold:publisher)                               | Publishing system for wikis (knowledge-based) and websites and create your own file storage system                                         |
 | [Payment](payment)                                   | Multi-currency wallet, exchange on a peer-to-peer way, automatically pay your suppliers and keep track on your expenses           |

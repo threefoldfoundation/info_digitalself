@@ -16,11 +16,15 @@ About the community:
 About the products:
 - [ThreeFold 3Node](threefold:3node)
 - [ThreeFold Capacity](definition_threefold_capacity)
-- [3Bot](definition_3bot)
+- [3Bot](threefold:3bot_def)
 - [ThreeFold Token](threefold:threefold_token)
 
 About the technology:
 - [Capacity Layer](threefold:capacity_layer)
 - [Autonomous Layer](threefold:autonomous_layer)
 - [Experience Layer](threefold:experience_layer)
-- [ThreeFold OS](threefold:zos)
+- [ThreeFold Zero-OS](threefold:zos)
+
+> These are not legal binding definitions, they are just concepts.
+
+> For full blown [glossary see here](threefold:defs)
