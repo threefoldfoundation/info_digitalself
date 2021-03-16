@@ -1,6 +1,6 @@
 # Digital Twin Chat 
 
-![](img/DT_chat.png)
+![](img/dt_chat.png ":size=700x")
 
 ## Get back your personal conversations
 

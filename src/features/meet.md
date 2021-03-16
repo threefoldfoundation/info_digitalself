@@ -1,6 +1,6 @@
 # Video Call
 
-![](img/DT_video_chat.png)
+![](img/dt_video_chat.png ":size=700x")
 
 ## Meet without boundaries 
 

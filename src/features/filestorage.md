@@ -1,10 +1,10 @@
 # File Storage
 
-![](img/DT_file_storage.png)
+![](img/dt_file_storage.png ":size=700x")
 
-A versatile web-based file Storage lets you organize your digital life.
+## The new era of file management & storage has begun 
 
-You can store up to a petabyte of information and data can never be lost.
+With your file storage system, rest assured that all your documents and files are stored in a truly decentralized space with a high level of security. 
 
 ## Features 
 

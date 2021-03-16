@@ -1,6 +1,6 @@
 # Digital Twin Office Editor
 
-![](img/DT_office.png)
+![](img/dt_office.png ":size=700x")
 
 ## Your files, owned by you
 

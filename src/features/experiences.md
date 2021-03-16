@@ -2,7 +2,7 @@
 
 # Experiences
 
-| Experiences                                              | description                                                                                     |
+| Experiences                                              | Description                                                                                     |
 | ---------------------------------------------------- | ----------------------------------------------------------------------------------------------- |
 | [Chat](twin_chat)                                         | A fully decentralized peer-to-peer chat system                                                        |
 | [filestorage](filestorage)                           | A file storage system to keep all your files and documents safely                                       |
