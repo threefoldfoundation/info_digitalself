@@ -4,7 +4,7 @@
 - [Our Vision](our_vision)
 - [Experiences](experiences)
   - [Chat](twin_chat)
-  - [File Storage](filemanager)
+  - [File Storage](filestorage)
   - [Video Call](meet)
   - [Office](office)
   - [Publisher](threefold:publisher)
