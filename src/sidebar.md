@@ -5,12 +5,12 @@
 - [Experiences](experiences)
   - [Chat](twin_chat)
   - [File Storage](filestorage)
-  - [Video Call](meet)
+  - [Video Call](video_call)
   - [Office](office)
   - [Publisher](threefold:publisher)
   - [Payment](payment)
   - [Notifications](notifications)
-  - [Planetary File System](threefold:threefold_fs)
+  - [Threefold File System](threefold:threefold_fs)
   - [Planetary Network](threefold:threefold_network)
   - [TF Connect](threefold:tfconnect)
   - [HyperDrive](hyperdrive)
@@ -25,5 +25,5 @@
   - [From Stars to Circles](stars_circles)
   - [Planetary Address System](addressing_system)
   <!-- [peer2peer fairswap](p2p_swap)-->
-- [Roadmap](roadmap)
-- [Technical Concepts](concepts)
+- <!--[Roadmap](roadmap)-->
+- [Glossary](threefold:defs)
