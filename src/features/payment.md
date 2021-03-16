@@ -30,3 +30,5 @@ Seamlessly define your transaction parameters up front and go hastle-free. Set u
 ### Ultra-Secure
 
 Benefit from full ownership of your assets and a vault system to keep them secure. Payments and exchanges are issued on a blockchain, and your personal passwords and keys are encrypted and stored in a quantum safe storage system.
+
+> More features coming soon

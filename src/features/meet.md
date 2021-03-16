@@ -29,3 +29,5 @@ Enjoy the most secure end-to-end encryption (powered by the open-source Digital 
 ### Available Now, Native soon
 
 The first version of Video Calls is already available in its web-based version. And we'll be going native in the upcoming weeks to provide you with a seamless experience!
+
+> More features coming soon

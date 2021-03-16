@@ -1,12 +1,12 @@
-![](img/threefold_mgmt.png)
-
 # ThreeFold Farmer Management System
 
-Stores information like:
+![](img/threefold_mgmt.png)
 
-- farms and relation to 3nodes
+The Threefold Farmer Management System stores information and data in relation to:
+
+- farms and 3nodes
 - pricing
-  - of CU/SU/NU
+  - CU/SU/NU
   - can be more than 1
   - can be linked to specific groups of users (customers)
   - can be linked to farms

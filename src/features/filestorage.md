@@ -33,3 +33,5 @@ File Storage is the first quantum safe permanent storage solution on the market.
 ### Easy Access
 
 Being web-based, your File Storage can be accessed on any device, from anywhere around the world. All you need is your login information and you're good to go!
+
+> More features coming soon

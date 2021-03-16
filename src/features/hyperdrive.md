@@ -2,21 +2,18 @@
 
 ![](img/hypercore2.png ":size=700x")
 
-# HyperDrive
+# Introducing our HyperDrive
 
-Is a colleage of IPFS but we believe it works better and more scalable.
+Hyperdrive is a colleage of IPFS (InterPlanetary File System) but we believe it works better and more scalable.
 
-The Digital twin adds following benefits
+The Digital twin adds the following benefits: 
+- Your data can never be lost
+- You have unlimited scalability - can store petabytes
+- Sync with other datasets. For example: Synchronize automatically with your files on the [File Storage](filestorage)
 
-- data can never be lost
-- unlimited scalability (can store petabytes)
-- sync with other datasets e.g. automatic sync with your files on the [filestorage](filestorage)
-
-## Supported Features
-
-- 2 way sync [DTFS](threefold:dtfs) with directoy into HyperDrive
-- expose HyperDrive link for publish server
-- link HyperDrive into filestorage (can be phase 2)
+Two ways to synchronize [DTFS](threefold:dtfs) with directory into HyperDrive:
+- Expose HyperDrive link for publish server,
+- Link HyperDrive into filestorage
 
 ## More info
 
