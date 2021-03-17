@@ -2,7 +2,7 @@
 
 ![](img/header.png)
 
-Before diving into our Wiki, we invite you to have a look at some key definitions related to Digital Twin and its ecosystem.
+Before diving further into our Wiki, we invite you to have a look at some key definitions related to Digital Twin and its ecosystem.
 
 If you would like to see another definition added, please get raise it on the [ThreeFold Forum](https://forum.threefold.io/) or email us at info@threefold.io.
 
