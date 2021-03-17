@@ -26,6 +26,6 @@ Enjoy the most secure end-to-end encryption (powered by the open-source Digital 
 
 ### Easy Access
 
-All files are stored on your private cloud and can be accessed via your Digital Twin at all times. All you need is your login information and you're good to go!
+All files are stored on your private cloud and can be accessed via your Digital Twin at all times. All you need is your login information, and you're good to go!
 
 > More features coming soon
