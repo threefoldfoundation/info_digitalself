@@ -20,7 +20,7 @@ Have face-to-face conversations with an unlimited number of participants. From 
 
 ### Built for Collaboration
 
-Talk, video chat, record, share screens and files all in one place. There is no need to switch between platforms – everything you need for online collaboration is integrated into your Video Calls experience.
+Talk, video chat, record, share screens and files all in one place. There is no need to switch between platforms – everything you need for online collaboration is integrated into your Video Call experience.
 
 ### Ultra-Secure
 

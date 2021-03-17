@@ -20,7 +20,7 @@ Circles represent the people you love or share an interest with: your family, a 
 
 ### Exchange Freely 
 
-Experience crystal-clear voice and video call with your people, without boundaries. Share text, voice messages, photos, videos, GIFs and files of any size, unlimitedly, and without extra fees. 
+Experience crystal-clear voice and video calls with your people, without boundaries. Share text, voice messages, photos, videos, GIFs and files of any size, unlimitedly, and without extra fees. 
 
 ### Ultra-Secure
 
