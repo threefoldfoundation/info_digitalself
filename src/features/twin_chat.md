@@ -1,4 +1,4 @@
-# Digital Twin Chat 
+# Chat 
 
 ![](img/dt_chat.png ":size=700x")
 

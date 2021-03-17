@@ -1,4 +1,4 @@
-# Digital Twin Office Editor
+# Office
 
 ![](img/dt_office.png ":size=700x")
 

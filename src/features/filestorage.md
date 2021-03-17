@@ -24,11 +24,11 @@ Keep your files private to yourself and those with whom you want to share them. 
 
 ### Affordable Storage 
 
-By using a unique storage algorithm, Digital Twin can store your files at a price equal to none. Enjoy 100x more storage space for the same price you would pay elsewhere.
+The unique storage algorithm behind Digital Twin makes it possible for you to enjoy 100x more space for the same price. Cost-effective and more sustainable!
 
 ### Ultra-Secure 
 
-File Storage is the first quantum-safe permanent storage solution on the market. It is protected by blockchain and smart autonomous technology. No need for VPNs, Firewalls or antiviruses anymore. 
+Experience the first quantum safe permanent storage solution on the market. Protected by autonomous technology, your files are stored without the fear of being stolen. 
 
 ### Easy Access
 
