@@ -13,7 +13,7 @@ Zoom is a very popular video conferencing solution that provide free of charge s
 
 They changed the policy in terms of how you connected through their platform to others users - all free-account users were connected through US based Zoom (Central) infrastructure. 
 
-This leads to very inefficient capacity usage and the potential for oversight by US agencies and authorities 
+This leads to very inefficient capacity usage and the potential for oversight by US agencies and authorities. 
 
 ![](img/centralized_datacenter.png)
 
