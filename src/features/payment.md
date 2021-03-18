@@ -11,7 +11,10 @@ With the Payment experience, transact using the power of a peer-to-peer grid whi
 Your Payment Experience will be provided with the following features:
 
 ### Multi-Currency Wallet  
+
 Buy, receive, send, and store your favorite digital currencies all in one place. Benefit from a wide array of projects to find the value you really care about and start your digital asset journey. 
+
+See more about your [wallet](wallet).
 
 ### Exchange Without Fees
 
@@ -25,7 +28,7 @@ Diversify your portfolio by having access to a wide range of digital assets. Buy
 
 Seamlessly define your transaction parameters upfront and go hassle-free. Set up automatic payments and transfer limits to keep your funds under control. 
 
-See more about [Autopay](autopay)
+See more about [Autopay](autopay).
 
 ### Ultra-Secure
 
