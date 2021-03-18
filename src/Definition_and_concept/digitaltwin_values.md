@@ -1,6 +1,8 @@
 # Digital Twin values
 
 
+
+
 Our technology intends to promote SOVEREIGNTY, EQUALITY, SUSTAINABILITY whilst meeting this demand for decentralisation:
 
 <br>

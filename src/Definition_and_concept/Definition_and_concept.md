@@ -1,6 +1,6 @@
 # Digital Twin Definitions & Concepts 
 
-![](img/header.png)
+![](img/freedoom.png)
 
 Before diving further into our Wiki, we invite you to have a look at some key definitions related to Digital Twin and its ecosystem.
 
