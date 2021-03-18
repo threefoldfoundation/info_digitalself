@@ -23,7 +23,6 @@ Referencing to the general understanding of ThreeFold Technology, we can explain
 To some degree, Digital Twin works similarly to ThreeFold's 3Bot, and even more, it is based on 3Bot.
 
 - [Architecture](twin_architecture)
-- [Peer-to-peer](threefold:peer2peer)
 - [Quantum Safe Storage System](qsstoragesystem)
 - [Twin Phonebook](phonebook)
 - [From Stars to Circles](stars_circles) 
