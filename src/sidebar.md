@@ -19,6 +19,7 @@
 - [Get Started](getting_started)
 - [How Does It Work](howdoesitwork)
   - [Architecture](twin_architecture)
+  - [Peer-to-Peer](threefold:peer2peer)
   - [Quantum Safe Storage System](qsstoragesystem)
   - [Twin Phonebook](phonebook)
   - [From Stars to Circles](stars_circles)
