@@ -1,7 +1,7 @@
+- [Definition and Concept](definition_and_concept)
 - [Why](tftech:why)
 - [Our Vision](our_vision)
 - [Power of Peer-to-Peer](power_of_p2p)
-- [Definition and Concept](definition_and_concept)
 - [Experiences](experiences)
   - [Chat](twin_chat)
   - [File Storage](filestorage)

@@ -21,9 +21,8 @@ This leads to very inefficient capacity usage and the potential for oversight by
 
 Normally, when two persons want to talk, they connect with each other directly with no intermediary in between. So, why do we need to go through any infrastructure or middle entity that is not in line to make the connection? 
 
-![](img/P2P.png)
+![](img/p2p.png)
 
 With our solution, chat directly with your peers, and create and store your files & data in your own storage without the fear of them being stolen and watched. 
-
 
 
