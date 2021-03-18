@@ -17,7 +17,7 @@ Share your thoughts, share your files and share you mind.
 
 ### The Interface
 
-This is the original design of our interface
+This is the original design of our interface:
 
 ![](img/interface.jpg)
 
