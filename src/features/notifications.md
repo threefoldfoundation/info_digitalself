@@ -1,43 +1,30 @@
-![](https://eskadenia.com/Portals/Portal1/Upload/Block/Image/notification--sys.jpg)
-
 # Notification System
 
-Generic usable notification system.
+![](https://eskadenia.com/Portals/Portal1/Upload/Block/Image/notification--sys.jpg)
 
-The notifications (events) are shown in UI and also the ThreeFold connect will try to escalate to user if required.
+## A notification system at your service
 
-- notification relay rules
-  - who can escalate to our digital twin and we relay and manage the notification
-- escalation rules
-  - what needs to happen with the notification
+It is a generic usable notification system. The notifications (events) are shown in User Interface, and also the [Threefold Connect](threefold:tfconnect) will escalate them to the user if required. Decide and manage which type of notification can escalate to your Digital Twin. You set the rules. 
 
-## Implementation
+## Properties for each notification
 
-- stored as [dtml](threefold:dtml) or json files on [dtfs](threefold:dtfs)
-- interface = [dtftp](threefold:dtftp) & rest
-- index in [redis server](threefold:dtredis)
-- notifications can be given to Digital Twin over rest (maybe redis interface)
+- Description (text)
+- Category (dot notation)
+- Severity (how serious is the event)
+- Priority (what is the event's level of priority)
+- Source_dtid (source digital twin id)
+- Source (text info)
 
-Properties for each notification
+## Properties of escalation rules
 
-- description (text)
-- category (dot notation)
-- severity (how serious is the event)
-- priority (what is priority to deal with it)
-- source_dtid (source digital twin id)
-- source (text info)
-
-Properties of escalation rules
-
-- audience (list of groups or digital twin id's)
-- target_emails
-- target_sms (future)
+- Audience (list of groups or digital twin id's)
+- Target emails
+- Target SMS (not implemented yet)
 - regex_description
 - 1 or more categories (can be regex)
-- min/max severity
-- min/max priority
-- acknowledgement_deadline (when does user have to acknowledge = optional)
-- acknowledgement_policy (minimal amount of people who need to confirm)
-  - e.g. 5 people recieve the notification, 3 of 5 need to confirm
-  - if escalation done then the notification get's closed
+- min/max severity (define the min/max level)
+- min/max priority (define the min/max level)
+- Acknowledgement deadline (when do the users have to acknowledge the event= optional)
+- Acknowledgement policy (minimum amount of people who need to confirm)
 
+> More features coming soon

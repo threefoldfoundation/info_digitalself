@@ -1,10 +1,10 @@
-# Digital Twin Chat 
+# Chat 
 
 ![](img/dt_chat.png ":size=700x")
 
 ## Get back your personal conversations
 
-Using the chat tool in the DigitalTwin, you can use real peer-to-peer communication to safely and privately interact with other people in the Threefold network. Your Digital Twin will be constantly online, saving your messages for when you will be available to read them. Expect the same experience as the best messaging applications out there, but with improved privacy, safety and ownership.
+Using the chat tool in the DigitalTwin, you can use real peer-to-peer communication to safely and privately interact with other people in the Threefold network. Your Digital Twin will constantly be online, saving your messages for when you will be available to read them. Expect the same experience as the best messaging applications out there, but with improved privacy, safety and ownership.
 
 ## Features
 
@@ -16,7 +16,7 @@ Messages on Digital Twin are truly end-to-end. Only you can read your messages 
 
 ### Stay in Touch With Your Circles
 
-Circles represent the people you love or share an interest with. Your family, a book club or a football club fanbase. No matter how big or small – create, name, and customize your circles on the fly. 
+Circles represent the people you love or share an interest with: your family, a book club or a football club fanbase. No matter how big or small – create, name, and customize your circles on the fly. 
 
 ### Exchange Freely 
 

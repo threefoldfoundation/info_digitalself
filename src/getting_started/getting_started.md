@@ -1,35 +1,36 @@
 # Getting Started
 
-- Install ThreeFold Connect on your mobile phone
-  - Which is your wallet and authentication System
-- Go to the digitalTwin Bootstrap service:
-  - This will provision you a digitalTwin
-  - https://bootstrap_twin.grid.tf (TO BE CONFIRMED AND NOT ACTIVE YET)
-  - Log in with your TFConnect
-  - Answer questions to define where you want your digitalTwin twin to run
-- Advance to https://yourTwinName.twin.grid.tf and your digitalTwin webinterface will launch
-  - You will have to re-login (authenticate) to tell your digitalTwin its you
+Digital Twin accompanies you since the beginning. In order to get started comfortably, follow the steps below: 
 
-## Your first steps
+- Install [ThreeFold Connect](threefold:tfconnect) on your mobile phone
+  - TF Connect is your new Authentication System and your wallet
+- Go to the Digital Twin Bootstrap service and create your Digital Twin
+  - Link: https://digitaltwin.jimbertesting.be/
+- Log in with your Threefold Connect
+- Answer questions to define where you want your Digital Twin to be run
+- Advance to https://yourTwinName.twin.grid.tf and your Digital Twin webinterface will be launched
+- Re-login (authenticate) to inform your Digital Twin that it is you - for additional security purpose
 
-Add some contacts, create some files and get sharing. Full productivity right at your fingertips. Everything is really intuitive and a manual is superfluous.
+Now, you can start your new digital life journey. 
+
+Share your thoughts, share your files and share you mind.
 
 ### The Interface
+
 This is the original design of our interface
 
 ![](img/interface.jpg)
 
 
 ### Full Integration
-There is a full integration between all components. A chat application, File Storage, forum and video meetings. They will all work in the same manner and integrate into a single platform. Full usability and full ownership of all your data and communication.
+
+There is a full integration between all components. 
+A chat application, & video meeting, a file Storage system along with its office tools and a payment experience.
 
 Experiences:
-- [Chat](threefold:chat)
-- [filestorage](filestorage)
-- [Meet](meet)
+- [Chat](twin_chat)
+- [File Storage](filestorage)
+- [Video Calls](video_call)
 - [Office](office)
-- [Wallet](wallet)
+- [payment](payment)
 
-Imagine chatting with someone, in the chat you allow access to a file and collaborate on the file. After consideration a deep dive is needed so you just click the video button and have full live interaction.
-
-Share your thoughts, share your files and share you mind.
