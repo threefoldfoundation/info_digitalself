@@ -13,6 +13,8 @@ Digital Twin sets the foundation for a new and better digital world and experien
 
 **Peer-to-Peer**: Without any intermediaries, users go directly to the source on the TF Grid. For instance, thanks to 3Bot and its phone book, two friends have the opportunity to chat and call each other on a secure peer-to-peer application, on which only them will possess data of their chats and phone calls - not even us!
 
+See more about the strength of [Peer-to-Peer](power_of_p2p)
+
 **Decentralized**: At launch, TF Grid has been distributed across 20+ countries. Digital Twin uses Threefold's decentralized architecture, thus, ushering benefits such as security, cost-efficiency and sustainability amongst others. The expansion and accessibility to regions needing internet capacity the most shall be incentivized and/or sponsored by the foundation itself. 
 
 **Autonomous**: Being implemented on the TF Grid, which is proven, self-sustainable and self-healing, allow our technology to be extremely resilient and enable data availability even in the unlikely event that the data base goes down. 
