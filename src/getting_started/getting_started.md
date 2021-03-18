@@ -24,13 +24,13 @@ This is the original design of our interface:
 
 ### Full Integration
 
-There is a full integration between all components. 
-A chat & video meeting application, a file storage system along with its office tools and a payment experience.
+There is a full integration between all components - they are all interrelated to enhance your experience in this new digital world. 
 
 Experiences:
 - [Chat](twin_chat)
-- [File Storage](filestorage)
 - [Video Calls](video_call)
+- [File Storage](filestorage)
 - [Office](office)
+- [Publisher](threefold:publisher) 
 - [Payment](payment)
 

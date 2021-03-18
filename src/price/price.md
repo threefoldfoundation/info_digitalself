@@ -1,6 +1,6 @@
 # Price
 
-![](img/DT_price.png)
+![](img/dt_price.png)
 
 Be among the first Digital Twin ambassadors and subscribe to the Digital Twin for Life for only $100. Grant your digital world with lifetime security and privacy.
 
