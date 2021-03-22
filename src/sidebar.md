@@ -5,7 +5,7 @@
 - [Experiences](experiences)
   - [Chat](twin_chat)
   - [File Storage](filestorage)
-  - [Video Call](video_call)
+  - [Meet](meet)
   - [Office](office)
   - [Publisher](threefold:publisher)
   - [Payment](payment)

@@ -28,7 +28,7 @@ There is a full integration between all components - they are all interrelated t
 
 Experiences:
 - [Chat](twin_chat)
-- [Video Calls](video_call)
+- [Meet](meet)
 - [File Storage](filestorage)
 - [Office](office)
 - [Publisher](threefold:publisher) 

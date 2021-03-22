@@ -18,7 +18,7 @@ More than just an option, privacy is the foundation of how Digital Twin works. 
 
 ### Collaboration Made Easy
 
-Create, edit, share and manage access in a collaborative and fully-encrypted environment. Keep your professional life organized and moving – all in one place. Re-imagine the way you work with Office, [Chat](twin_chat), [Video Call](video_call) and [File Storage](filestorage). 
+Create, edit, share and manage access in a collaborative and fully-encrypted environment. Keep your professional life organized and moving – all in one place. Re-imagine the way you work with Office, [Chat](twin_chat), [Meet](meet) and [File Storage](filestorage). 
 
 ### Ultra-Secure
 
