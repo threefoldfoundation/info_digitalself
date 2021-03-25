@@ -1,6 +1,6 @@
 # Planterary Secure Network 
 
-![](img/threefold__planet_network.png)
+![](img/threefold_planet_network.png)
 
 ## How does it work?
 
@@ -25,7 +25,6 @@ Our Planetary Network brings the following benefit to our Digital Twin and its a
 
 ## Architecture 
 
-![](img/threefold__qsnetwork_architecture.png)
-
+![](img/threefold_qsnetwork_architecture.png)
 
 
