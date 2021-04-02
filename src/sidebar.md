@@ -1,6 +1,7 @@
 - [Definition and Concept](definition_and_concept)
-- [Why](tftech:why)
+- [Why](why)
 - [Our Vision](our_vision)
+- [One Digital Identity](one_digital_identity)
 - [Power of Peer-to-Peer](power_of_p2p)
 - [Experiences](experiences)
   - [Chat](twin_chat)
@@ -20,10 +21,9 @@
 - [Get Started](getting_started)
 - [How Does It Work](howdoesitwork)
   - [Architecture](twin_architecture)
-  - [Quantum Safe Storage System](qsstoragesystem)
   - [Twin Phonebook](phonebook)
-  - [From Stars to Circles](stars_circles)
-  - [Planetary Address System](addressing_system)
+  - [Planetary Secure Network](addressing_system)
+  - [Quantum Safe Storage System](qsstoragesystem)
   <!-- [peer2peer fairswap](p2p_swap)-->
 - <!--[Roadmap](roadmap)-->
 - [Glossary](threefold:defs)

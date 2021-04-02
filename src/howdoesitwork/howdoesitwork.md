@@ -2,6 +2,15 @@
 
 # How Does It Work
 
+- TO DO: 
+    - Complete summary of the technology - From Threefold grid to the exchnage of data from one twin to the other. 
+    - Link at the bottom to learn more about each technology 
+
+
+
+
+
+
 Let's dive deeper into Digital Twin!
 
 Here, you will learn some of the fundamentals of how the digital twin works and how it is different from any other solution out there.

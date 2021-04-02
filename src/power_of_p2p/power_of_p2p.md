@@ -11,7 +11,7 @@ With the constant growing demand and use of user-friendly chat, video call or fi
 
 Zoom is a very popular video conferencing solution that provide free of charge services to its users. 
 
-They changed the policy in terms of how you connected through their platform to others users - all free-account users were connected through US based Zoom (Central) infrastructure. 
+They changed their policy in terms of how you connected through their platform to others users - all free-account users were connected through US based Zoom (Central) infrastructure. 
 
 This leads to very inefficient capacity usage and the potential for oversight by US agencies and authorities. 
 
