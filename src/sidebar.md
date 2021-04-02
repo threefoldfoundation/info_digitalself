@@ -20,9 +20,11 @@
 - [Price](price)
 - [Get Started](getting_started)
 - [How Does It Work](howdoesitwork)
-  - [Architecture](twin_architecture)
+  - [Threefold Grid](twin_architecture)
+  - [Planetary Secure Network](planetary_secure_network)
   - [Twin Phonebook](phonebook)
-  - [Planetary Secure Network](addressing_system)
+  - [Blockchain Database and 0-db](bcdb_0db)
+  - [Planetary Secure Network](planetary_secure_network)
   - [Quantum Safe Storage System](qsstoragesystem)
   <!-- [peer2peer fairswap](p2p_swap)-->
 - <!--[Roadmap](roadmap)-->
