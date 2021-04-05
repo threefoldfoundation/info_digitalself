@@ -23,7 +23,6 @@
   - [Planetary Secure Network](planetary_secure_network)
   - [Twin Phonebook](phonebook)
   - [Blockchain Database and 0-db](bcdb_0db)
-  - [Planetary Secure Network](planetary_secure_network)
   - [Quantum Safe Storage System](qsstoragesystem)
   <!-- [peer2peer fairswap](p2p_swap)-->
 - <!--[Roadmap](roadmap)-->
