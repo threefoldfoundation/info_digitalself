@@ -2,7 +2,6 @@
 
 ![](img/landing_header.png)
 
-
 Imagine a world where the internet functions as how it was supposed to, where people enjoy their digital life in full security and privacy. A world where you claim full ownership and control over your data. An environment in which you live in full confidence and assurance of not being recorded or watched.
 
 What if this digital life is waiting behind your door?
