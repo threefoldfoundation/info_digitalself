@@ -11,9 +11,8 @@ Learn more on how your data is quantum safe, [here](qsstoragesystem)
 
 We believe that this unhealthy game between us and free apps has come to an end, and the you-centric app era has begun. With the different experiences, enjoy the feeling of being at the centre, surrounded by apps working for you and not the other way around.
 
-![](img/You_centric.png) 
+![](img/you_centric.png) 
 
 With Digital Twin, you are not the Product anymore. 
-
 
 
