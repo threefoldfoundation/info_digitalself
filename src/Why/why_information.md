@@ -20,9 +20,11 @@ Do you remember when you could create your own safe space and decide what others
 
 Think about the bigger picture. All those tiny bits of data, when pieced together, create a profile of yourself called your digital doppelgänger to indicates your political views, tastes, buying habits, sexual preferences, health data and much more. In fact, there are already hundreds or thousands of digital doppelgängers about you held by different companies and government. 
 
-The reason is simple: predicting your behaviour and use it to their advantage. 
+![](img/Digital_Doppelganger.jpeg)
 
-But this can change rapidly if we adopt a better architecture and model.
+*Illustration of Doppelgangers in Social Dilemma, Netflix*
+
+The reason is simple: predicting your behaviour and use it to their advantage. 
 
 ## One Digital Identity 
 
