@@ -1,7 +1,7 @@
 - [Definition and Concept](definition_and_concept)
 - Why
-  - [The need for a decentralized digital infrastructure](why_infrastructure)
-  - [The need for the decentralization of information](why_information)
+  - [Decentralized digital infrastructure](why_infrastructure)
+  - [Decentralization of information](why_information)
 - [Our Vision](our_vision)
 - [Power of Peer-to-Peer](power_of_p2p)
 - [One Digital Identity](one_digital_identity)
