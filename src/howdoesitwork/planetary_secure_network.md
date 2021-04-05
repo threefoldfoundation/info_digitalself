@@ -1,10 +1,10 @@
-# Planterary Secure Network 
+# Planetrary Secure Network 
 
 ![](img/threefold_planet_network.png)
 
 ## How does it work?
 
-Threefold is working on a Planetary Scalable LAN, a Peer-to-Peer network which connects everything with everyone in a direct peer-to-peer encrypted connection. 
+ThreeFold is working on a Planetary Scalable LAN, a Peer-to-Peer network which connects everything with everyone in a direct peer-to-peer encrypted connection. 
 
 All traffic between two Digital Twins will go over this Planetary Network. It is essentially end-to-end encrypted, meaning that all the exchange of data and information between two Digital Twins is encrypted - Only they can see, no one else. 
 
