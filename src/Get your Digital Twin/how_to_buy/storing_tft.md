@@ -1,4 +1,4 @@
-![](img/Illustration_TFT.png)
+![](img/tftexplo.png)
 
 # Storing ThreeFold_Tokens
 

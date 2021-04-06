@@ -1,6 +1,9 @@
+
+![](img/tftexplo.png)
+
 # How to Buy and Sell TFT
 
-## Ways how to buy TFT
+If you are new to buying and selling digital currencies, we invite you to visit the [New to Tokens](newtotokens) section. 
 
 !!!include:tft_ways_to_buy_include
 
@@ -24,8 +27,12 @@ Find the Quick Exchange [here](https://www.liquid.com/quick-exchange/).
 - Then, exchange the other digital currency (BTC, etc.) into fiat.
 - Finally, transfer the fiat amount to your bank account.
 
+## How to convert TFTA to TFT
+
+If you have TFTA that you would like to exchange, you can easily [convert them to TFT anytime](tfta_to_tft).
 
 ## Get Support
 
-- If you have any questions, please feel free to use the support chat (blue icon on the bottom of this page)
+- If you have any questions, please feel free to use the support chat (blue icon on the bottom of this page) or use [our forum](https://forum.threefold.io).
 
+!!!include:legal:tft_not_speculative_note
