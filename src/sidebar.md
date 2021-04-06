@@ -17,7 +17,7 @@
 - [Benefits](benefits)
 - [Get your Digital Twin](get_your_dt_home)
   - [Price](price)
-  - [What is TFT](threefold_token_description)
+  - [What is TFT](tft_definition)
   - [How to get TFT](how_to_get_tft)
   - [How to store TFT](how_to_store_tft)
 - [Get Started](getting_started)

@@ -1,4 +1,4 @@
-![](img/Liquid-Logotype.png)
+![](img/liquid_logotype.png)
 
 # Buy from Liquid Exchange
 
