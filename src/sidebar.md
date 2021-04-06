@@ -1,5 +1,4 @@
-- [Definition and Concept](definition_and_concept)
-- Why
+- [Why](why_home)
   - [Decentralized digital infrastructure](why_infrastructure)
   - [Decentralization of information](why_information)
 - [Our Vision](our_vision)
@@ -26,4 +25,5 @@
   - [Quantum Safe Storage System](qsstoragesystem)
   <!-- [peer2peer fairswap](p2p_swap)-->
 - <!--[Roadmap](roadmap)-->
+- [Definition and Concept](definition_and_concept)
 - [Glossary](threefold:defs)

@@ -2,9 +2,13 @@
 
 ![](img/Price.png)
 
-Be among the first Digital Twin ambassadors and subscribe to the Digital Twin for Life for only $100. Grant your digital world with lifetime security and privacy.
 
-For now, the Digital Twin for Life will be the only subscription option released on the market. For $100, you will have full access to all **[Digital Twin experiences](experiences)**.  
+Be among the first Digital Twin subscribers and enjoy a lifetime journey for only xxx TFT. Grant your digital world with security and privacy. 
+
+For now, the Digital Twi for Life will be the only susbcription option released on the market. For xxx TFT, you will have full access to all **[Digital Twin experiences](experiences)** for life. 
+
+> TO DO: Provide guideline on how to proceed with the payment
+
 
 The $100 will be used to improve our product, and for our payment provider's fees. 
 

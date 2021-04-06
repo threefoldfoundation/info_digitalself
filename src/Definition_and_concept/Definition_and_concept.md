@@ -2,12 +2,11 @@
 
 ![](img/freedoom.png)
 
-Before diving further into our Wiki, we invite you to have a look at some key definitions related to Digital Twin and its ecosystem.
+We invite you to have a look at some key definitions related to Digital Twin and its ecosystem.
 
 If you would like to see another definition added, please get raise it on the [ThreeFold Forum](https://forum.threefold.io/) or email us at info@threefold.io.
 
 About the community: 
-- [Digital Twin Values](digitaltwin_values)
 - [ThreeFold](threefold:grid_why)
 - [ThreeFold Foundation](definition_threefoldfoundation)
 - [ThreeFold Ambassador](threefold:threefold_ambassador)
