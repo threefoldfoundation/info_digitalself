@@ -4,15 +4,17 @@
 
 There are several options to store your TFT. 
 
-## The ThreeFold Connect App
+## The ThreeFold Connect
 
-![alt](img/threefold_connect_4screens.png)
+![](img/threefold_connect_screens.png)
 
-The ThreeFold Connect app is the official Threefold app that comes with a wallet feature.
+The ThreeFold Connect is the official authentification app used to access your Digital Twin, comes with a wallet feature. 
 
 Learn more about the Threefold Connect App [here](threefold:threefold_connect).
 
-## Alternative XLM Wallets
+> TO DO: THREEFOLD CONNECT CONTENT 
+
+## Alternative Stellar (XLM) Wallets
 
 Any wallet that can hold XLM based tokens can also hold TFT. Here's a few options for you to consider:
 

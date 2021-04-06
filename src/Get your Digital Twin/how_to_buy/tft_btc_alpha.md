@@ -59,4 +59,3 @@ Then, click under your name (top-right), then "Enable Two-factor Authentication,
    - If you want to trade BTC, click [here](https://btc-alpha.com/en/exchange/TFT_BTC)
    - If you want to trade with USD, click [here](https://btc-alpha.com/en/exchange/TFT_USD)
 
-!!!include:legal:tft_not_speculative_note
