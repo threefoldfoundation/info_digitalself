@@ -3,7 +3,7 @@
 
 # How to Buy and Sell TFT
 
-If you are new to buying and selling digital currencies, we invite you to visit the [New to Tokens](newtotokens) section. 
+If you are new to buying and selling digital currencies, we invite you to visit the [New to Tokens](threefold:newtotokens) section. 
 
 !!!include:tft_ways_to_buy_include
 

@@ -1,4 +1,4 @@
-![](img/Illustration_TFT.png)
+![](img/illustration_tft.png)
 
 # Storing ThreeFold_Tokens
 
@@ -10,7 +10,7 @@ There are several options to store your TFT.
 
 The ThreeFold Connect app is the official Threefold app that comes with a wallet feature.
 
-Learn more about the Threefold Connect App [here](threefold_connect).
+Learn more about the Threefold Connect App [here](threefold:threefold_connect).
 
 ## Alternative XLM Wallets
 

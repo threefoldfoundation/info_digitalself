@@ -20,7 +20,7 @@ So once you have acquired Bitcoins, go through following steps to buy and sell T
 - [Withdraw TFT](#withdraw)
 - [Deposit TFT](#deposit-tft)
 
-> As indicated here below in the section [Withdraw TFT](#withdraw), we highly recommend that you also install the [ThreeFold App](threefold_app) to keep your ThreeFold_Tokens offline in your ThreeFold App wallet.
+> As indicated here below in the section [Withdraw TFT](#withdraw), we highly recommend that you also install the [ThreeFold App](threefold:threefold_app) to keep your ThreeFold_Tokens offline in your ThreeFold App wallet.
 
 <a id='registration'></a>
 
@@ -128,7 +128,7 @@ On the main screen you will see several sections:
 
 To withdraw your ThreeFold_Tokens from your online TFT wallet on BTC-Alpha go through the following steps:
 
-1. Make sure you have the ThreeFold app installed as documented in [Token Trade using the ThreeFold App](threefold_app) and have the address of your ThreeFold App wallet copied, as documented in the [Receive tokens](threefold_app) section
+1. Make sure you have the ThreeFold app installed as documented in [Token Trade using the ThreeFold App](threefold:threefold_app) and have the address of your ThreeFold App wallet copied, as documented in the [Receive tokens](threefold:threefold_app) section
 
 2. From the navigation menu under your profile name, go to the **Finance** section:
 

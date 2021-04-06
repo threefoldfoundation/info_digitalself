@@ -1,6 +1,6 @@
 # Price
 
-![](img/Price.png)
+![](img/price.png)
 
 Stay tuned and be among the first Digital Twin lifetime subscribers to grant your digital world with security and privacy. 
 
