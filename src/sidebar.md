@@ -15,7 +15,11 @@
   - [TF Connect](threefold:tfconnect)
   <!--- [Threefold Farm Management](threefold_farmer_mgmt)-->
 - [Benefits](benefits)
-- [Price](price)
+- [Get your Digital Twin](get_your_dt_home)
+  -[Price](price)
+  -[TFT](threefold_token_description)
+  -[How to get TFT](how_to_get_tft)
+  -[How to store TFT](how_to_store_tft)
 - [Get Started](getting_started)
 - [How Does It Work](howdoesitwork)
   - [Threefold Grid](twin_architecture)
