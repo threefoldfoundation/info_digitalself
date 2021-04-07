@@ -12,7 +12,7 @@
   - [Publisher](threefold:publisher)
   - [Payment](payment)
   <!--- [Notifications](notifications)-->
-  - [TF Connect](threefold:tfconnect)
+  - [TF Connect](threefold_connect)
   <!--- [Threefold Farm Management](threefold_farmer_mgmt)-->
 - [Benefits](benefits)
 - [Get your Digital Twin](get_your_dt_home)
