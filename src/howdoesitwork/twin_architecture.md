@@ -2,13 +2,20 @@
 
 ![](img/architecture_1.png)
 
-Threefold Grid is a peer-to-peer and autonomous Internet Grid that provides game-changing performance and empowers new possibilities. With +500 servers delivering +80,000,000 GB of online storage across 110+ locations in 21+countries, the ThreeFold Grid is the largest peer-to-peer Internet in the world.
+Created by Threefold, Threefold Grid is a peer-to-peer and autonomous Internet Grid that provides game-changing performance and empowers new possibilities. With +500 servers delivering +80,000,000 GB of online storage across 110+ locations in 21+countries, the ThreeFold Grid is the largest peer-to-peer Internet in the world.
 
-Digital Twin lives on top of Threefold Grid to deploy its solution. It is the architecture that is provide the possibility to 
+It is made up of many servers called 3Nodes which is distributed around the world by independent people and organizations called Farmers. 3Nodes run a unique operating operating called Zero-OS, a lightweight and ultra-efficient open source operating system allowing the Threefold Grid to be fully autonomous - meaning that hackers cannot get in and no chance for erros from IT Professionals. 
 
-The ThreeFold Grid is built by independent people that together create a pool of connected compute, network and storage capacity.
+Digital Twin lives on top of Threefold Grid to deploy its solution. Along with Zero-OS, and 3Bot, it is the backbone architecture that provides the possibility to for each digital twin to be self-healing and self-driving. 
 
-The ThreeFold Grid is made up of many servers we call 3Nodes that are distributed around the world by independent people and organizations we call Farmers. 3Nodes run a unique operating system called Zero-OS, a lightweight and ultra-efficient open source operating system. All 3Nodes connected to the ThreeFold Grid are registered in a database called the ThreeFold Directory, that registers the capacity available on the ThreeFold Grid Explorer. We call this proof-of-capacity.
+Without the Threefold Grid, our unique solution would not be possible. 
+
+- Dive deeper into Threefold Grid, [here](threefold:threefold_grid).
+- Learn more about Zero-OS, [here](threefold:zos).
+- Learn more about [3Bot](threefold:3bot_def)
+
+
+
 
 
 
