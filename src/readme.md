@@ -27,3 +27,5 @@ Digital Twin comes with many benefits. It represents a paradigm shift from the c
 - Personal Browser: Two clicks away from all information globally, in a fully secure manner.
 - Personal Edge Cloud: Store all your files privately on edge.
 - Developer Friendly: Comes with an integrated SDK to grow in a decentralized way.
+
+Join our Telegram News & Updates Channel, [here](https://t.me/joinchat/JnJfqY9tfAU1NTY0)
