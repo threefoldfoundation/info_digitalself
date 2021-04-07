@@ -25,8 +25,8 @@ Moreover, through the use of Threefold Tech decentralization technique, each use
 
 With the 3Bot system, it allows Digital Twin to deploy itself along with its experiences on the Threefold Grid. 
 
-Learn more about [3Bot](threefold:3bot_def)
-Learn more about [Smart Contract for IT]()
+- Learn more about [3Bot](threefold:3bot_def)
+- Learn more about [Smart Contract for IT]()
 
 ## Planetary Secure Network 
 

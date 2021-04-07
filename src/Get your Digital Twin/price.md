@@ -6,7 +6,7 @@ Stay tuned and be among the first Digital Twin lifetime subscribers to grant you
 
 The first version of Digital Twin will be available in May 2021.
 
-The early bird offers are coming soon. Our first users will pay a small price once demoninated in Threefold Token (TFT) and get to enjoy the power of Digital Twin forever. 
+The early bird offers are coming soon. Our first users will pay a small price (demoninated in Threefold Token) once and get to enjoy the power of Digital Twin forever.
 
 In the meantime, learn more about [TFT](tft_definition).
 
