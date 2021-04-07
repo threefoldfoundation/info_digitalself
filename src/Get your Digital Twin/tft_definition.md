@@ -22,7 +22,7 @@ Being built on top of the Threefold Grid, the TFT is used as a medium of exchang
 
 ![](img/circular_tft.png)
 
-<!-->> TO DO: Create Circular Token Economy Image including Digital Twin -->
+<!--TO DO: Create Circular Token Economy Image including Digital Twin -->
 
 A circular economy enables anyone to take part and to get rewarded for it:
 
