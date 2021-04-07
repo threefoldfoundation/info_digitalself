@@ -8,7 +8,7 @@ Users, developers, and enterprise use TFT to reserve the capacity they need to c
 
 With TFT, you can use the following products and services that lives on the Threefold Grid: 
 1. Digital Twin for life: Your unique Digital ID that assures that you own your data, and no one else. Access numerous applications in full security and privacy 
-2. Threefold Peer-to-Peer Cloud: Reserve and use cloud capacity. For more information, see [here]((https://cloud.threefold.io/)
+2. Threefold Peer-to-Peer Cloud: Reserve and use cloud capacity. For more information, see [here](https://cloud.threefold.io/)
 
 
 ## Where do TFTs come from?
