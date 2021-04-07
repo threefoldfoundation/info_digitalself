@@ -1,7 +1,6 @@
-- [Definition and Concept](definition_and_concept)
-- Why
-  - [The need for a decentralized digital infrastructure](why_infrastructure)
-  - [The need for the decentralization of information](why_information)
+- [Why](why_home)
+  - [Decentralized digital infrastructure](why_infrastructure)
+  - [Decentralization of information](why_information)
 - [Our Vision](our_vision)
 - [Power of Peer-to-Peer](power_of_p2p)
 - [One Digital Identity](one_digital_identity)
@@ -16,15 +15,19 @@
   - [TF Connect](threefold:tfconnect)
   <!--- [Threefold Farm Management](threefold_farmer_mgmt)-->
 - [Benefits](benefits)
-- [Price](price)
+- [Get your Digital Twin](get_your_dt_home)
+  -[Price](price)
+  -[TFT](threefold_token_description)
+  -[How to get TFT](how_to_get_tft)
+  -[How to store TFT](how_to_store_tft)
 - [Get Started](getting_started)
 - [How Does It Work](howdoesitwork)
   - [Threefold Grid](twin_architecture)
   - [Planetary Secure Network](planetary_secure_network)
   - [Twin Phonebook](phonebook)
   - [Blockchain Database and 0-db](bcdb_0db)
-  - [Planetary Secure Network](planetary_secure_network)
   - [Quantum Safe Storage System](qsstoragesystem)
   <!-- [peer2peer fairswap](p2p_swap)-->
 - <!--[Roadmap](roadmap)-->
+- [Definition and Concept](definition_and_concept)
 - [Glossary](threefold:defs)
