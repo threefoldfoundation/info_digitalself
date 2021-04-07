@@ -1,4 +1,4 @@
-![Liquid Exchange](https://raw.githubusercontent.com/threefoldfoundation/info_tokens/master/docs/img/liquid.png)
+![](img/liquid_quick_exchange.png)
 
 # Buy from Liquid Exchange
 

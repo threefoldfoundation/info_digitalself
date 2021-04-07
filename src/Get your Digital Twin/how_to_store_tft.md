@@ -10,9 +10,7 @@ There are several options to store your TFT.
 
 The ThreeFold Connect is the official authentification app used to access your Digital Twin and comes with a wallet feature. 
 
-Learn more about the Threefold Connect App [here](threefold:threefold_connect).
-
-> TO DO: THREEFOLD CONNECT CONTENT 
+Learn more about the Threefold Connect App [here](threefold_connect).
 
 ## Alternative Stellar (XLM) Wallets
 
