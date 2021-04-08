@@ -98,7 +98,7 @@ Click on the double arrows on the bottom-right of your screen.
 
 ## Support
 
-Here you can receive support on any questions related to ThreeFold.
+Here you can receive support on any questions related to Digital Twin and Threefold. 
 
 ## Settings
 

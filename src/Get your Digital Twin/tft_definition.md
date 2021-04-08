@@ -30,4 +30,4 @@ A circular economy enables anyone to take part and to get rewarded for it:
 
 2. Farmers can then exchange the farmed TFTs into other fiat or digital currencies on public exchanges. Also this is where users can exchnage fiat or digital currencies for TFTs. 
 
-3. Once they have TFTs in their wallets, users can buy Digital Twin for Life directly with us  (the subscription already include YYY gb of capacity on the Threefold Grid) and, also, reserve additional capacity on the Threefold Grid and pay farmers directly. 
+3. Once they have TFTs in their wallets, users can buy Digital Twin for Life directly with us  (the subscription include gbs of capacity on the Threefold Grid) and, also, reserve additional capacity on the Threefold Grid and pay farmers directly. 

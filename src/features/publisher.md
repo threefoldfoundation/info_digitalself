@@ -1,6 +1,6 @@
 # Publisher
 
-![](img/DT_web_publisher.png ":size=700x")
+![](img/dt_web_publisher.png ":size=700x")
 
 ## A new way to express yourself to millions
 
@@ -29,5 +29,4 @@ Choose your nodes, define your web gateways, and share your web projects with t
 Create your own environment! Use Gridsome, or easily integrate your favorite framework and tools to build your websites and platforms.
 
 > More features coming soon
-
 

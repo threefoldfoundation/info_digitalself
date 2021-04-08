@@ -18,14 +18,14 @@ Digital Twin represents a definitive leap to true digital privacy, where only yo
 
 Digital Twin comes with many benefits. It represents a paradigm shift from the current model where you are the product to a system built around you as the center.
 
-- Human-friendly: single profile and identity to access all your digital life.
-- Privacy: Own 100% of your data, and decide who can or cannot access it.
-- Ultra-secure: Enjoy the most secure end-to-end encryption in the world. An unique algorithm that ensures the satefy of your data. 
-- Peer-to-peer: A pyramid-free end-to-end system that gives the power back to people.
-- Fair Information: Find purposeful and verifiable information.
-- Complementary banking: Access a full range of digital economies and currencies.
-- Personal Edge Cloud: Store all your files privately on edge.
-- Developer Friendly: Comes with an integrated SDK to grow in a decentralized way.
+- **Human-friendly**: single profile and identity to access all your digital life.
+- **Privacy**: Own 100% of your data, and decide who can or cannot access it.
+- **Ultra-secure**: Enjoy the most secure end-to-end encryption in the world. An unique algorithm that ensures the satefy of your data. 
+- **Peer-to-peer**: A pyramid-free end-to-end system that gives the power back to people.
+- **Fair Information**: Find purposeful and verifiable information.
+- **Complementary banking**: Access a full range of digital economies and currencies.
+- **Personal Edge Cloud**: Store all your files privately on edge.
+- **Developer Friendly**: Comes with an integrated SDK to grow in a decentralized way.
 
 Learn more about the benefit brought by Digital Twin, [here](benefits).
 
