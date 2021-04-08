@@ -2,7 +2,7 @@
 
 # Your Digital Twin
 
-Welcome to the Digital Twin knowledge base, a set of resources to help you learn more about Digital Twin.
+Welcome to the Digital Twin wiki, a set of resources to help you learn more about Digital Twin.
 <br>
 Here you will find all the relevant information about the project.
 
@@ -19,13 +19,20 @@ Digital Twin represents a definitive leap to true digital privacy, where only yo
 Digital Twin comes with many benefits. It represents a paradigm shift from the current model where you are the product to a system built around you as the center.
 
 - Human-friendly: single profile and identity to access all your digital life.
-- Privacy: Own 100% of your data, and decide who can access it.
-- Ultra-secure: Unique network infrastructure removes the need for VPNs, antiviruses, and firewalls.
+- Privacy: Own 100% of your data, and decide who can or cannot access it.
+- Ultra-secure: Enjoy the most secure end-to-end encryption in the world. An unique algorithm that ensures the satefy of your data. 
 - Peer-to-peer: A pyramid-free end-to-end system that gives the power back to people.
-- Fair Information: Find purposeful and verifiable information. No fake news or profiles.
+- Fair Information: Find purposeful and verifiable information.
 - Complementary banking: Access a full range of digital economies and currencies.
-- Personal Browser: Two clicks away from all information globally, in a fully secure manner.
 - Personal Edge Cloud: Store all your files privately on edge.
 - Developer Friendly: Comes with an integrated SDK to grow in a decentralized way.
 
-Join our Telegram News & Updates Channel, [here](https://t.me/joinchat/JnJfqY9tfAU1NTY0)
+Learn more about the benefit brought by Digital Twin, [here](benefits).
+
+
+ ## More Online Resources
+
+ For additional informaiton, please refer to our **official channels**:
+ - [Own main website](https://mydigitaltwin.io/): Help you navigate throught Digital Twin universe
+ - [Digital Twin News Telegram Channel](https://t.me/joinchat/JnJfqY9tfAU1NTY0): Stay updated on what is our most recent announcements and updates.
+
