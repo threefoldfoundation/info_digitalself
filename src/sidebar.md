@@ -9,7 +9,7 @@
   - [Meet](meet)
   - [File Storage](filestorage)
   - [Office](office)
-  - [Publisher](publisher)
+  - [Publisher](web_wiki_publisher)
   - [Payment](payment)
   <!--- [Notifications](notifications)-->
   - [TF Connect](threefold_connect)

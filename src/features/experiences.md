@@ -8,7 +8,7 @@
 | [Meet](meet)                                         | A fully decentralized peer-to-peer video chat system                                          |
 | [File Storage](filestorage)                           | A file storage system to keep all your files and documents safely                                       |
 | [Office](office)                                     | Create, edit and manage your documents                                                     |
-| [Publisher](publisher)                               | Publishing system for wikis (knowledge-based) and websites and create your own file storage system                                         |
+| [Publisher](web_wiki_publisher)                               | Publishing system for wikis (knowledge-based) and websites and create your own file storage system                                         |
 | [Payment](payment)                                   | Multi-currency wallet, exchange on a peer-to-peer way, automatically pay your suppliers and keep track on your expenses           |
 | [Threefold Connect](threefold_connect)                                | Mobile app for authentication and Wallet                         |
 
