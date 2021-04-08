@@ -1,6 +1,6 @@
 # Twin Phonebook 
 
-As mentioned on the [Planetary Secure Network](planetary_secure_network), Threefold Grid Database, built on top of Substrate, will act as a “Phonebook” for Digital Twin. Furthermore, given your Twin’s unique ID (or any unique information), your Digital Twin will simply look up for all information required to connect to other Twins. 
+As mentioned on the [Planetary Secure Network](planetary_secure_network), Threefold Grid Blockchain, built on top of Substrate, will act as a “Phonebook” for Digital Twin. Furthermore, given your Twin’s unique ID (or any unique information), your Digital Twin will simply look up for all information required to connect to other Twins. 
 
 ## Data request between Digital Twins using Twin Phonebook 
 
@@ -37,6 +37,8 @@ The above infographic illustrate the ecosystem when two Digital Twins are intera
 ![](img/most_reliable_storage.png)
 
 This infographic is a high-level view of the Quantum Safe Storage showing how the 3Bot can use it for authorization purpose. The Blockchain Database (BCDB) is a separate component which governs access control. Therefore, if your Digital Twin allows access for a specific component, the other Twin will see this piece of content. 
+
+Learn more about the Blockchain Database (BCDB), [here](bcdb_0db).
 
 
 

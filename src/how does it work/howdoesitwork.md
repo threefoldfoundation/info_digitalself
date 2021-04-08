@@ -34,9 +34,9 @@ The architecture uses the Planetary Secure Network that connect everything with 
 
 Learn more about [Planetary Secure Network](planetary_secure_network).
 
-## Threefold Grid Database - Twin Phonebook 
+## Threefold Grid Blockchain - Twin Phonebook 
 
-Next to the Planetary Secure Network, stands the Threefold Grid Database which is a database built on top of Substate (A blockchain framework created by Parity). It will act as the Twin Phonebook, allowing Digital Twins to link with each other.  
+Next to the Planetary Secure Network, stands the Threefold Grid Blockchain which is a database built on top of Substate (A blockchain framework created by Parity). It will act as the Twin Phonebook, allowing Digital Twins to link with each other.  
 
 Learn more about [Twin Phonebook](phonebook).
 

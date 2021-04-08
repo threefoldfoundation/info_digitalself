@@ -8,7 +8,7 @@ ThreeFold is working on a Planetary Scalable LAN, a Peer-to-Peer network which c
 
 All traffic between two Digital Twins will go over this Planetary Network. It is essentially end-to-end encrypted, meaning that all the exchange of data and information between two Digital Twins is encrypted - Only they can see, no one else. 
 
-Next to the Planetary Network, there is the Threefold Grid Database which is a database built on top of Substrate (A blockchain framework created by Parity).  Every person will have an entry in this database, and so does each Digital Twin. This allows Twins to link with each other. 
+Next to the Planetary Network, there is the Threefold Grid Blockchain which is a database built on top of Substrate (A blockchain framework created by Parity).  Every person will have an entry in this database, and so does each Digital Twin. This allows Twins to link with each other. 
 
 Furthermore, these records will have some Digital Twin data attached to this traffic - Data will include the IP address of the Digital Twin in the Planetary Network. 
 
