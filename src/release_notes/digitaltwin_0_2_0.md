@@ -9,7 +9,7 @@ Hosted on demo www.digitaltwin.jimbertesting.be
 - Instant Messaging features
 - Virtual Meeting features
 - File manager and Storage features
-- Planetary network (iPV6 private network access) on the backend
+- Planetary Network (iPV6 private network access) on the backend
 - Full redesign with Modern branding
 
 
