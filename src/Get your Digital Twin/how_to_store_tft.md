@@ -1,7 +1,7 @@
 
 ![](img/illustration_tft.png)
 
-# Storing ThreeFold_Tokens
+# Storing ThreeFold Tokens
 
 There are several options to store your TFT. 
 

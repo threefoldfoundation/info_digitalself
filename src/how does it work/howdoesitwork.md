@@ -18,14 +18,15 @@ Learn more about [Zero-OS](threefold:zos).
 
 Moreover, through the Threefold Tech decentralization technique, each user or organization gets a digital avatar called 3Bot. The deployment IT workload using "Smart Contract for It" makes the 3Bot deployment process resilient to human error and hacking. As a result, it is self-driving and self-healing. 
 
-- **Self-driving**: 3Bot knows how to deploy IT and network capacity as required by the user or organization.
-- **Self-healing**: it is programmed to auto repair issues.
+- **Self-driving**: 3Bot knows how to deploy IT and network capacity as required by the user or organization.
+- **Self-healing**: it is programmed to auto repair issues.
 
 3Bot forms part of the backbone of Digital Twin and manages all backend tasks. They run, all, autonomously in the network created around them - no people involved to run this network and keep it operational. This leads to much more security, efficiency, and higher performance. 
 
 The 3Bot system allows Digital Twin to deploy itself along with its experiences on the Threefold Grid. 
 
-- Learn more about [3Bot](threefold:3bot_def).- Learn more about [Smart Contract for IT](tftech:smart_contract_for_it).
+- Learn more about [3Bot](threefold:3bot_def).
+- Learn more about [Smart Contract for IT](tftech:smart_contract_for_it).
 
 ## Planetary Secure Network 
 
