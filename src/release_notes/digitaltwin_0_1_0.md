@@ -1,8 +1,13 @@
 # Digital Twin V0.1.0 (Demo Version)
 
+Live on production on March 1, 2021
+Hosted on demo www.digitaltwin.jimbertesting.be
+
 ## Generic Updates
 - Responsive design for mobile usage
-- hosted on demo www.digitaltwin.jimbertesting.be
+- Easy login with TF Connect SSO
+- Instant Messaging features
+- Virtual Meeting features
 
 ## Instant Messaging
 -  Direct p2p Instant Messaging / Chat
