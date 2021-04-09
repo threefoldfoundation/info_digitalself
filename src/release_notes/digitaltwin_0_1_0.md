@@ -9,7 +9,7 @@ Hosted on demo www.digitaltwin.jimbertesting.be
 - Instant Messaging features
 - Virtual Meeting features
 
-## Instant Messaging
+### Instant Messaging
 -  Direct p2p Instant Messaging / Chat
 - Create and Manage Group Chat
 - Quote/reply messages
@@ -25,6 +25,6 @@ Hosted on demo www.digitaltwin.jimbertesting.be
 - New message notifications
 
 
-## Virtual Meeting
+### Virtual Meeting
 - Direct p2p video calling integration
 - Group video call feature
