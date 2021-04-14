@@ -1,6 +1,6 @@
 # Digital Twin V0.1.0 (Demo Version)
 
-First version expecte to go live H2 2021
+First version expected to go live Q2 2021
 Hosted on demo www.digitaltwin.jimbertesting.be
 
 ## Generic Updates

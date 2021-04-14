@@ -29,5 +29,10 @@
   - [Quantum Safe Storage System](qsstoragesystem)
   <!-- [peer2peer fairswap](p2p_swap)-->
 - <!--[Roadmap](roadmap)-->
+- [Release Notes](release_note_home)
+  - [Digital Twin Version 0.1.0](digitaltwin_0_1_0)
+  <!--- [Digital Twin Version 0.2.0](digitaltwin_0_2_0)
+  - [Digital Twin Version 0.3.0](digitaltwin_0_3_0)-->
+
 - [Definition and Concept](definition_and_concept)
 - [Glossary](threefold:defs)
