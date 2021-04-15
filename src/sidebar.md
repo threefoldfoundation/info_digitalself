@@ -1,6 +1,7 @@
 - [Why](why_home)
   - [Decentralized digital infrastructure](why_infrastructure)
   - [Decentralization of information](why_information)
+- [Current Centralized platforms](bigtechhack)
 - [Our Vision](our_vision)
 - [Power of Peer-to-Peer](power_of_p2p)
 - [One Digital Identity](one_digital_identity)
