@@ -17,7 +17,7 @@ Cyberattack is one of our global major problems. Following are some important fa
 - Most companies take, on average, nearly 6 months to detect a data breach, even major ones. 
 
 Using this current infrastructure and unsustainable centralized system are not working anymore, and it is time for a change—a change towards a trustworthy digital world where people feel secure and comfortable to socialize with their community members. 
-What if the solution is waiting next to your door? Digital Twin provides you with [Social](social) and [Network](network) which are fully peer-to-peer, secure, private and decentralized. Built on top of the Threefold Grid and with its autonomous technology & architecture, Digital Twin provides you with seamless experiences.
+What if the solution is waiting next to your door? Digital Twin provides you with [Social](threefold:social) and [Network](sdk:network) which are fully peer-to-peer, secure, private and decentralized. Built on top of the Threefold Grid and with its autonomous technology & architecture, Digital Twin provides you with seamless experiences.
 
 ## How is it better?
 
@@ -50,6 +50,5 @@ Don't get hassle anymore with people that you do not know. Social Media platform
 - Learn more about [Twin Phonebook](phonebook).
 
 To understand more about how these different components work together, we encourage you to go on ["How does it works"](howdoesitwork). 
-
 
 
