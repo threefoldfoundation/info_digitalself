@@ -1,7 +1,7 @@
 - [Why](why_home)
   - [Decentralized digital infrastructure](why_infrastructure)
   - [Decentralization of information](why_information)
-- [Current Centralized platforms](bigtechhack)
+- [Current Centralized Platforms](bigtechhack)
 - [Our Vision](our_vision)
 - [Power of Peer-to-Peer](power_of_p2p)
 - [One Digital Identity](one_digital_identity)
@@ -35,4 +35,4 @@
   <!--- [Digital Twin Version 0.2.0](digitaltwin_0_2_0)
   - [Digital Twin Version 0.3.0](digitaltwin_0_3_0)-->
 - [Definition and Concept](definition_and_concept)
-- [Glossary](threefold:defs)
+s- [Glossary](threefold:defs)

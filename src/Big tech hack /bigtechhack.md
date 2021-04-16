@@ -16,8 +16,8 @@ Cyberattack is one of our global major problems. Following are some important fa
 - 95% of cybersecurity breaches are due to human error, 
 - Most companies take, on average, nearly 6 months to detect a data breach, even major ones. 
 
-Using this current infrastructure and unsustainable centralized system are not working anymore, and it is time for a change—a change towards a trustworthy digital world where people feel secure and comfortable. 
-What if the solution is waiting next to your door? Digital Twin provides you with a social media and networking platform which are fully peer-to-peer, secure, private and decentralized. Built on the Threefold Grid and with its autonomous technology & architecture, Digital Twin provides you with seamless experiences.
+Using this current infrastructure and unsustainable centralized system are not working anymore, and it is time for a change—a change towards a trustworthy digital world where people feel secure and comfortable to socialize with their community members. 
+What if the solution is waiting next to your door? Digital Twin provides you with [Social](social) and [Network](network) which are fully peer-to-peer, secure, private and decentralized. Built on top of the Threefold Grid and with its autonomous technology & architecture, Digital Twin provides you with seamless experiences.
 
 ## How is it better?
 
@@ -34,7 +34,7 @@ The current centralized infrastructure does not ensure the privacy of the users.
 
 With the help of the Threefold Peer-to-Peer Internet and Planetary Secure Network, you will be able to connect directly with your peers - no intermediaries. 
 
-- Learn more about [the Power of Peer-to-Peer](power_of_p2p).
+- Learn more about the [Power of Peer-to-Peer](power_of_p2p).
 - Learn more about [Planetary Secure Network](planetary_secure_network).
 
 ### Quantum-Safe
