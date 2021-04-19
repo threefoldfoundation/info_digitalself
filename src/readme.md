@@ -4,8 +4,6 @@
 
 Welcome to the Digital Twin wiki, a set of resources to help you learn more about Digital Twin.
 
-<br>
-
 Here you will find all the relevant information about the project.
 
 ## What is Digital Twin?
@@ -34,5 +32,5 @@ Learn more about the benefit brought by Digital Twin, [here](benefits).
 
 For additional information, please refer to our **official channels**: 
 - [Own main website](https://mydigitaltwin.io/): Help you navigate through the Digital Twin universe 
-<!--- [Digital Twin News-Telegram Channel](https://t.me/joinchat/JnJfqY9tfAU1NTY0): Stay updated on what is our most recent announcements and updates.-->
+- [Digital Twin News-Telegram Channel](https://t.me/joinchat/JnJfqY9tfAU1NTY0): Stay updated on what is our most recent announcements and updates.
 
