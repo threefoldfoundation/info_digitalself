@@ -52,11 +52,10 @@ This is the home screen of your ThreeFold Connect App.
 
 In the News tab you will find the latest news & updates from ThreeFold and Digital Twin. 
 
-<!--You can also subscribe to [our Telegram Channel](https://t.me/threefoldnews) to find these updates.-->
 
 ## Wallet
 
-In this tab you can check your ThreeFold_Tokens wallets and balances. You can copy your wallet address using the green "Copy" buttons for each specific wallet. Using the button in the bottom right side you can send or generate QR code to receive ThreeFold_Tokens:
+In this tab you can check your ThreeFold Tokens wallets and balances. You can copy your wallet address using the green "Copy" buttons for each specific wallet. Using the button in the bottom right side you can send or generate QR code to receive ThreeFold_Tokens:
 
 ### How to get your wallet Address
 

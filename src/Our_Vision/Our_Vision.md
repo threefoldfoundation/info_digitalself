@@ -24,4 +24,4 @@ See more about the strength of [Peer-to-Peer](power_of_p2p)
 
 **Equal**: Internet access should be available to everyone. The TF Grid solutions position themselves as the most affordable on the market. As mentioned above, the TF Grid expansion to remote regions of our world will be incentivized and/or sponsored by the Foundation.
 
-> Become part of the solution, by registering for the **Digital Twin for Life**.
+> Become part of the solution, by reserving your **Digital Twin for Life**.
