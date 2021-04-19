@@ -18,6 +18,7 @@
   - [TF Connect](threefold_connect)
   <!--- [Threefold Farm Management](threefold_farmer_mgmt)-->
 - [Benefits](benefits)
+- [Digital Twin for Life](digital_twin_for_life)
 - [Get your Digital Twin](get_your_dt_home)
   - [Price](price)
   - [What is TFT](tft_definition)
