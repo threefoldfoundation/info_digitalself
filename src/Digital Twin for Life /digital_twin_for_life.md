@@ -2,11 +2,13 @@
 
 ![](img/dtl.png)
 
-We have been turned into product since 2004. People live in a digital world where companies use their data to make hundreds or thousands of doppelgängers to better target them with ads. A world where it is easy for hackers to steal and sell your data. An environment where people do not fully trust their system and have the fear of being observed. A world where you are constantly manipulated through algorithms. 
+Digital Twin for Life provides you with the key to a lifetime of digital freedom and privacy. With the [experiences](experiences) being all connected together and built around you, you are in total control over who can or cannot have access to your data & information. 
 
-Digital Twin for Life provides you with the key to a lifetime of digital freedom and privacy. With the [experiences](experiences) being all connected together and built around you, you are back in control over who can or cannot have access to your data & information. 
+Through the [Threefold Connect App](threefold_connect), you will be able to reserve your Digital Twin for Life and also for your loved ones (all you need is their 3bot ID). 
 
-Digital Twin for Life will be available for reservation through the [Threefold Connect App](threefold_connect). 
+The first early bird offer is a great opportunity to register at a low price. The first thousand Digital Twin for Life subscription will be sold at 1000 TFTs. 
+
+> Please note that the price will increase after this offer. 
 
 Learn more about how to get your Digital Twin for Life, [here](get_your_dt_home).
 
