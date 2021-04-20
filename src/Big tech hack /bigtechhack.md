@@ -7,6 +7,8 @@ News has emerged. The Giants of Social Media and Networking platforms have been 
 
 Due mostly to the global pandemic, collaboration and social media platforms have taken up intimate positions in our lives, helping maintain personal ties physical isolation. However, these current platforms have been revealed to be greatly vulnerable to attackers. On one side, Facebook, followed by LinkedIn, have been attacked, and around 500 million of their user's data, each, have been stolen - Data includes profile name and ID, email addresses, phone numbers, workplace information and many more. Security experts warn that leaked data could be used not only for marketing purposes but also for impersonating people and committing fraud. On the other side, Microsoft and Zoom have been exposed by benevolent hackers to have weaknesses in their security system during the annual Pwn2Own competition. 
 
+## Facts
+
 Cyberattack is one of our global major problems. Following are some important facts: 
 - There is a hacker attacker every 39 seconds, 
 - 43% of cyberattacks target small business, 

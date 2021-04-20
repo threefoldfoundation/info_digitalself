@@ -29,6 +29,8 @@ There is a full integration between all components - they are all interrelated t
 Experiences:
 - [Chat](twin_chat)
 - [Meet](meet)
+- [Social](social_experience)
+- [Network](network_experience)
 - [File Storage](filestorage)
 - [Office](office)
 - [Publisher](web_wiki_publisher) 

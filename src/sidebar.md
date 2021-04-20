@@ -17,6 +17,7 @@
   <!--- [Notifications](notifications)-->
   - [TF Connect](threefold_connect)
   <!--- [Threefold Farm Management](threefold_farmer_mgmt)-->
+- [All apps are connected to each other](appsconnected)
 - [Benefits](benefits)
 - [Digital Twin for Life](digital_twin_for_life)
 - [Get your Digital Twin](get_your_dt_home)
