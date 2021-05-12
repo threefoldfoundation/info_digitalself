@@ -12,7 +12,7 @@ These documentaries show how people are manipulated and targeted due to their so
 
 But something we need to agree upon. The Internet was meant to be different. In the beginning, no one would own the Internet. No one could own the Internet. The Internet belonged to all of us. We live in a technological miasma where beyond our control and comprehension, the Internet lost its edge. 
 It became about monetizing your clicks and swipes, buying and selling your data about your clicks and swipes, getting you algorithmically addicted to click and swipe some more—all of this to build up spurious advertising profiles about you.
- 
+
 ![](img/centralized.png)
 
 Do you remember when you could create your own safe space and decide what others see and know? Now, whether you are at home, in the middle of a city, or hiking a mountain, you’re never really alone. More and more, the technology we use today is connected to the Internet. Smartphones, TVs, cars, fridges and even baby monitors send out data about you and your surroundings 24/7 without your consent or control.

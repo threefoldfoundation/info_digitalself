@@ -4,7 +4,7 @@
 
 Stay tuned and be among the first Digital Twin lifetime subscribers to grant your digital world with security and privacy. 
 
-The early bird offers are coming soon. Our first users will pay a small price in Threefold Token (TFT) once and get to enjoy the power of Digital Twin forever.
+The early bird offers are coming soon. Our first users will pay only 1000 TFT (Threefold Token) once and get to enjoy the power of Digital Twin forever.
 
 In the meantime: 
 - Download the [Threefold Connect App](threefold_connect)

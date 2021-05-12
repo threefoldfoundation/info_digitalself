@@ -21,7 +21,8 @@ Digital Twin comes with many benefits. It represents a paradigm shift from the c
 - **Human-friendly**: single profile and identity to access all your digital life.
 - **Privacy**: Own 100% of your data and decide who can or cannot access it.
 - **Ultra-secure**: Enjoy the most secure end-to-end encryption in the world. A unique algorithm that ensures the safety of your data. 
-- **Peer-to-peer**: A pyramid-free end-to-end system that gives the power back to people.- **Fair Information**: Find purposeful and verifiable information.
+- **Peer-to-peer**: A pyramid-free end-to-end system that gives the power back to people.
+- **Fair Information**: Find purposeful and verifiable information.
 - **Complimentary banking**: Access a full range of digital economies and currencies.
 - **Personal Edge Cloud**: Store all your files privately on edge.
 - **Developer Friendly**: Comes with an integrated SDK to grow in a decentralized way.
