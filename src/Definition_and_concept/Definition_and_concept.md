@@ -1,6 +1,6 @@
 # Digital Twin Definitions & Concepts 
 
-![](img/freedoom.png)
+![](img/freedom.png)
 
 We invite you to have a look at some key definitions related to Digital Twin and its universe 
 
