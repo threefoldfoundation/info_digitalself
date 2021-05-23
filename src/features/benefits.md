@@ -37,7 +37,7 @@ Learn more how peer-to-peer network provides a more sustainable solution, [here]
 By using the Quantum-Safe Storage, it enables the Digital Twin's data to be fully secured. 
 
 Learn more about how the technologies behind Digital Twin work together to provide these 
-benefits [here](howdoesitwork). 
+benefits [here](twin_technology). 
 
 
 

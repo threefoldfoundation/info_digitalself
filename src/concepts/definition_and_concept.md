@@ -1,0 +1,30 @@
+![](img/freedom.png)
+
+
+# Some Digital Twin Definitions & Concepts 
+
+About our universe: 
+- [ThreeFold](info.threefold.io)
+- [ThreeFold Token](https://info.threefold.io/#/threefold__token_what)
+- [ThreeFold Grid](https://info.threefold.io/#/threefold__grid_intro)
+- [Conscious Internet](cloud-info.threefold.io)
+
+About Digital Twin: 
+- [why](why_home)
+- [Experiences](experiences)
+- [Digital Twin for Life](digital_twin_for_life)
+
+About the Technology:
+- [How does it work](twin_technology)
+- [Threefold Grid](tfgrid_twin)
+- planetary_network
+- [Twin Phonebook](phonebook)
+- [All your data is on a Quantum Safe Storage System](quantumsafestorage:qsss)
+
+
+If you would like to see another definition added, please contact us on the [Digital Twin Forum](https://forum.mydigitaltwin.io/) or email us at info@digitaltwin.com
+
+
+> These are not legal binding definitions, they are just concepts.
+
+> For full blown [glossary see here](threefold:defs)

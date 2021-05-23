@@ -2,7 +2,7 @@
   "name": "info_digitaltwin",
   "depends": [],
   "alias": [
-    "threefoldfs:quantum_safe_filesystem:tffs:ThreeFold FS"
+    "threefoldfs:quantumsafe_filesystem:tffs:ThreeFold FS"
   ],
   "replace": [
     "planetaryfs:threefoldfs"
