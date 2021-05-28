@@ -41,3 +41,4 @@ This infographic is a high-level view of the Quantum-Safe Storage, showing how t
 Learn more about the Blockchain Database (BCDB), [here](bcdb_0db).
 
 
+!!!def alisa:digitaltwin_phonebook,twin_phonebook
