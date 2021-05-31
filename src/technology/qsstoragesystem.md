@@ -12,4 +12,4 @@ These equations are then dispersed and stored over multiple sites. Your data is 
 
 Additionally, he will need more data from other places before recreating the information and then decrypt it to get the original. 
 
-If you want to dive deeper into Quantum-Safe Storage’s algorithms and data encryption, we encourage you to check the [Quantum Safe Storage Concept of Threefold](threefold:quantumsafe_storage_concept). 
+If you want to dive deeper into Quantum-Safe Storage’s algorithms and data encryption, we encourage you to check the [Quantum Safe Storage Concept of Threefold](threefold:qsss). 

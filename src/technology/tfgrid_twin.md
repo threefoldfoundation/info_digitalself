@@ -13,7 +13,7 @@ Without the Threefold Grid, our unique solution would not be possible. 
 
 - Dive deeper into Threefold Grid, [here](threefold:threefold_grid).
 - Learn more about Zero-OS, [here](threefold:zos).
-- Learn more about 3Bot [here](threefold:3bot_def).
+- Learn more about 3Bot [here](threefold:3botdigitaltwin_readme_roadmap).
 
 
 
