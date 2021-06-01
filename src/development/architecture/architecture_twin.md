@@ -1,13 +1,17 @@
 
 # Twin Architecture High Level
 
+!!!include:architecture_twin_qfs
+
+## Parts
+
 ```mermaid
 
 graph TB
 
     TwinFront[Twin Front = Nodejs] ---> TwinBack[Twin1 Backend = vlang]
     TwinBack --> redis[Redis]
-    TwinBack --> secure_message_bus[Secure Message Bus]
+    TwinBack --> reliable_message_bus[Secure Message Bus]
     TwinBack --> QSFS[Quantum Safe Filesystem]
     QSFS --> QSFS_Daemon[QSFS Filesystem Daemon]
     QSFS --> QSFS_Monitor[QSFS Monitor]
@@ -25,7 +29,7 @@ graph TB
 - all data as json's in nicely structured directories
     - for now indexing in redis (for lookups)
     - walk over FS -> poor man index in redis
-- the SMB realizes communication between twins
+- the RMB realizes communication between twins
 - data can never be lost
 
 > TODO: complete the QSFS part
@@ -41,11 +45,13 @@ graph TB
     TwinFront2[Twin2 Front] ---> TwinBack2[Twin2 Backend]
     TwinBack1 --> redis1[Redis]
     TwinBack2 --> redis2[Redis]
-    TwinBack1 --> secure_message_bus1[Secure Message Bus 1]
-    TwinBack2 --- secure_message_bus2[Secure Message Bus 2]
-    secure_message_bus1 --- secure_message_bus2[Secure Message Bus 2]
+    TwinBack1 --> reliable_message_bus1[Secure Message Bus 1]
+    TwinBack2 --- reliable_message_bus2[Secure Message Bus 2]
+    reliable_message_bus1 --- reliable_message_bus2[Secure Message Bus 2]
 
 
 
 
 ```
+
+!!!alias dev_architecture
