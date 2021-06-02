@@ -7,7 +7,7 @@ graph TB
     Twin --> logic[your twin actor = the logic]
     logic --needs your--- key([Twin Private Key])
         style key fill:#bba
-    key --mounts your---META_STOR
+    key --allows access to your---META_STOR
     Twin --stores all data on--> QSFS[Quantum Safe Filesystem]
     QSFS --> ZDB_LOCAL[personal data stor/cache]    
     ZDB_LOCAL --> ZDB1[ZDB Instance]
