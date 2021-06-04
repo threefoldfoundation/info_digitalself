@@ -1,4 +1,4 @@
-# Twin
+# Digital Twin
 
 Is the application (daemon) which runs on top of TFGrid wich represents our digital life.
 
