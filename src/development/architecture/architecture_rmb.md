@@ -195,3 +195,74 @@ console.log(values)
 ```
 
 Note: `prepare` prepares the payload of the request (command, destination, expiration)
+
+
+## Example (Commmunicating with TFGridDB)
+
+```js
+
+const { MessageBusServer } = require('./msgbus')
+
+// test mnemonic
+const mnemonic = "industry dismiss casual gym gap music pave gasp sick owner dumb cost"
+const Client = require('tfgrid-api-client')
+const url = "wss://explorer.devnet.grid.tf/ws"
+const DbClient = new Client(url, mnemonic)
+
+sync function createTwinHandler(message, payload) {
+  await DbClient.init()
+  console.log(`create twin payload: ${payload}`)
+  const block = await DbClient.createTwin(payload)
+  return block.toHex()
+}
+
+async function getTwinByIDHandler(message, payload) {
+  await DbClient.init()
+  console.log(`get twin by id payload: ${payload}`)
+  const twin = await DbClient.getTwinByID(parseInt(payload))
+  return twin
+
+
+const msgBus = new MessageBusServer(6379)
+
+msgBus.withHandler("griddb.twins.create", createTwinHandler)
+msgBus.withHandler("griddb.twins.get", getTwinByIDHandler)
+
+msgBus.run()
+
+}
+
+```
+Here we created a simple server that has two commands for interacting with TGridDB (creation and retrieval)
+
+## client
+
+```js
+const { MessageBusClient } = require('./msgbus')
+
+const mb = new MessageBusClient(6379)
+
+
+mb.read(message, function (result) {
+  console.log("result received")
+  console.log(result)
+})
+
+mb.prepare("griddb.twins.create", [1002], 0)
+mb.send("some_peer_id")
+values = mb.read()
+
+console.log(values)
+
+const twinsget = mb.prepare("griddb.twins.get", [12], 0)
+mb.send(twinsget, "1")
+mb.read(twinsget, function (result) {
+  console.log("result received")
+  console.log(result)
+
+  console.log("closing")
+  process.exit(0)
+})
+
+```
+Here we interact with the server.js over the msgbus to invoke the commands `griddb.twins.get` and `griddb.twins.create`
