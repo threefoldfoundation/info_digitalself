@@ -22,7 +22,7 @@
   - [Twin Phonebook](phonebook)
   - [Blockchain Database and 0-db](bcdb_0db)
   - [Quantum Safe Storage System](quantumsafestorage:qsss)
-- [Development](yottagrid:engineering)
+- [Development](engineering)
   - [twin architecture](dev_architecture)
   - [consensus layer](internet4:consensus3)
 - [Features](benefits)
