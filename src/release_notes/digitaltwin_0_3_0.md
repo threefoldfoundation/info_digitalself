@@ -21,6 +21,7 @@ Hosted on demo www.digitaltwin.jimbertesting.be
 ### File Manager
 
 ### Planetary Network
+
 - One-click IPv6 Private Network Access integration via 'connect' button on TF Connect App (android OS) 
 
 
