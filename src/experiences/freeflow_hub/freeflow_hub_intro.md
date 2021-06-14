@@ -1,6 +1,4 @@
-# Social
 
-![](img/social.png ":size=700x")
 
 ## The new social media that empower people
 

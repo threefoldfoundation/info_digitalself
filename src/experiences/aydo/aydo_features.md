@@ -1,20 +1,11 @@
-# File Storage
 
-![](img/dt_file_storage.png ":size=700x")
+## Features
 
-## The new era of file management & storage has begun 
-
-With your file storage system, rest assured that all your documents and files are stored in a truly decentralized space with a high security level. 
-
-## Features 
-
-Your File Storage will be provided with the following features:
-
-### Seamless Compatibility 
+### Compatibility 
 
 Photos, videos, presentations, PDFs, Office files, and more! All file formats and systems you may use are compatible with your file storage. 
 
-### Your Data is Safe 
+### Data Can Never Be Lost
 
 Keep your data safe and private with the most secure and reliable workspace on the market. Go hassle-free and ensure your files remain accessible even in the unlikely situation that your smartphone, tablet or computer goes down.
 
@@ -34,5 +25,8 @@ Experience the first quantum safe permanent storage solution on the market. Prot
 
 Being web-based, your File Storage can be accessed on any device, from anywhere around the world. All you need is your login information, and you're good to go!
 
+![](img/filemanager1.png)
 
-> More features coming soon
+All compatible with MS Office:
+
+![](img/onlyoffice.png)

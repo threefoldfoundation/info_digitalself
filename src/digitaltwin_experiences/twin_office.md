@@ -1,15 +1,8 @@
-# DigitalTwin Office
+# Twin Office
 
-![](img/office1.png)
+Part of Aydo:
 
-![](img/office2.png)
+!!!include:aydo_intro
+!!!include:aydo_features
+!!!include:aydo_screenshots
 
-## Benefits
-
-- completely compatible with MSOffice
-- 100% private and linked to your digital twin
-- collaboration features
-- peer2peer communication, no centralization
-- results in more green, private, higher performance, ...
-
-!!!include:twin_toc

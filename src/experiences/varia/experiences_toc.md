@@ -7,7 +7,7 @@
 | [Meet](meet)                           | The first peer-to-peer video chat app                                                                                   | DEMO       |
 | [Social](social_experience)            | A social media platform built around you                                                                                |            |
 | [Network](network_experience)          | The new professional networking platform                                                                                |            |
-| [File Storage](filestorage)            | A file storage system to keep all your files and documents safely                                                       | DEMO       |
+| [File Storage](aydo)                   | A file storage system to keep all your files and documents safely                                                       | DEMO       |
 | [Office](office)                       | Create, edit and manage your documents                                                                                  | DEMO       |
 | [Payment](payment)                     | Multi-currency wallet, exchange on a peer-to-peer way, automatically pay your suppliers and keep track on your expenses |            |
 | [Threefold Connect](threefold_connect) | Mobile app for authentication and Wallet                                                                                | PRODUCTION |
