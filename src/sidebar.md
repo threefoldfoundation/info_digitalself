@@ -15,6 +15,7 @@
   - [Payment](payment)
   - [TF Connect](threefold_connect)
   - [Network](network_experience)
+- [Join Us](threefold:team_expansion)
 - [Technology](twin_technology)
   - [Working Experiences](internet4:digitaltwin_experiences)
   - [Threefold Grid](tfgrid_twin)
