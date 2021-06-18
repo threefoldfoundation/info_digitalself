@@ -32,7 +32,7 @@
 - [Carbon Double Win](threefold:energy_savings)
   - [Light Bulb vs Digital Twin](threefold:bulb_comparison_twin)
   - [Energy Savings Storage](threefold:energy_savings_storage)
-  - [Energy Savings Twin](threefold:energy_savings_digital_twin)
+  - [Energy Savings Twin](threefold:energy_savings_)
   - carbon_double_win
 - [Get your Digital Twin](get_your_dt_home)
   - [Digital Twin for Life](digital_twin_for_life)

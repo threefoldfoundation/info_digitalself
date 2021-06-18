@@ -23,4 +23,4 @@ In this service world the browser is defacto the new operating system for using 
 
 A solution to this problem is to take all that data processing and storing away from the consumers / users browser and have that done in a secure environment, away from the consumers device.  The "virtual" browser runs somewhere on the grid and act as the browser on behalf of the consumer.  The visual information from this virtual browser, eg. the user interface, is then "streamed" by a smart protocol to the real enduser browser this has just a display function.  The end user device no longer processes and stores code and data and we are almost back tot he situation of the early web where the browser was just presenting information, not processing and storing information.
 
-Imagine this in combination with the [3times0](accelerator:3times0) secure environment how such a setup can be made very efficient, performing and safe.
+Imagine this in combination with the [3x0](accelerator:3x0) secure environment how such a setup can be made very efficient, performing and safe.

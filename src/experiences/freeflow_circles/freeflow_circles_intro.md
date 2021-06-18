@@ -1,10 +1,17 @@
 
 
-## The new social media that empower people
+## A new social sharing & networking tool that empower people
 
-With Social, benefit from a social media app that is built around you and not the other way around. The new social media culture that empower people and communities. 
+Benefit from a social sharing, media and networking experiences that is built around you and not the other way around. 
 
-## Features 
+The new social media culture that empower people and communities. 
+
+## Features
+
+- everything as you would expect from linkedin, facebook, twitter, youtube, ...
+- but you don't experience it as separate tools, its a set of possibilities usable everywhere by everyone
+
+## Benefits
 
 ### Keep your data private
 

@@ -1,4 +1,4 @@
-![](img/digital_twin_intro.png)
+![](img/digitaltwin_intro.png)
 
 # Your Digital Twin
 

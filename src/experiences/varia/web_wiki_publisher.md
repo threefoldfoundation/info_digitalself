@@ -4,7 +4,7 @@
 
 ## A new way to express yourself to millions
 
-Publisher is your new integrated Wiki (knowledge-based) and website publishing system. It allows the publishing of every kind of information from your digital twin directly over the [planetery network](planetary_secure_network) to your audience while being 100% private, verified and encrypted.
+Publisher is your new integrated Wiki (knowledge-based) and website publishing system. It allows the publishing of every kind of information from your digital twin directly over the [planetary network](planetary_secure_network) to your audience while being 100% private, verified and encrypted.
  
 ## Features 
 

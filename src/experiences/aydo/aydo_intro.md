@@ -1,6 +1,6 @@
 # AYDO = All Your Data Online
 
-![](img/aydo_intro.png ":size=700x")
+<!-- ![](img/aydo_intro.png ":size=700x") -->
 
 
 Purpose, provide everyone with a data sovereign and private file storage facility to safely store, retrieve, and share your personal digital files. 

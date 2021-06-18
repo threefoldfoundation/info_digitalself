@@ -1,3 +1,6 @@
+![](img/browsers.png)
+
+
 # Hercules Browser
 
 !!!include:hercules_browser_intro
