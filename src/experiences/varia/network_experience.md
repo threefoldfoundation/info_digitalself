@@ -1,6 +1,6 @@
 # Network
 
-![](img/network.png ":size=700x")
+![](img/network.png ":size=300x")
 
 ## Your new professional networking tool 
 

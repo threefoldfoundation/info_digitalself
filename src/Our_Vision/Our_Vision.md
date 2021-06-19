@@ -10,7 +10,7 @@ With our peer-to-peer Threefold Grid ("TF Grid"), Digital Twin declared that it 
 
 Digital Twin sets the foundation for a new and better digital world and experience based on new principles:
 
-**Peer-to-Peer**: Without any intermediaries, users go directly to the source on the TF Grid. For instance, thanks to 3Bot and its phone book, two friends have the opportunity to chat and call each other on a secure peer-to-peer application, on which only them will possess data of their chats and phone calls - not even us!
+**Peer-to-Peer**: Without any intermediaries, users go directly to the source on the TF Grid. For instance, thanks to Digital Twin and its phone book, two friends have the opportunity to chat and call each other on a secure peer-to-peer application, on which only them will possess data of their chats and phone calls - not even us!
 
 See more about the strength of [Peer-to-Peer](power_of_p2p)
 

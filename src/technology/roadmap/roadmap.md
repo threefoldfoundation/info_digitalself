@@ -6,18 +6,18 @@
 
 [Github project](https://github.com/threefoldtech/digitaltwin/projects/2)
 
-| Experiences                                             | description                                                                                   |
+| Experiences                                          | description                                                                                   |
 | ---------------------------------------------------- | --------------------------------------------------------------------------------------------- |
-| [chat](threefold:chat)                                         | all basic features you would expect from chat in alfa version                                 |
-| [filestorage](filestorage)                           | web based filestorage, pdf viewer integrated, view files from friends (sharing with security) |
+| [chat](threefold:chat)                               | all basic features you would expect from chat in alfa version                                 |
+| [filestorage](aydo)                                  | web based filestorage, pdf viewer integrated, view files from friends (sharing with security) |
 | [meet](meet)                                         | peer2peer integrated in chat, with rooms                                                      |
-| [office](office)                                     | onlyoffice editor on top of the filestorage                                                   |
-| [publisher](threefold:publisher)                               | publishing system for wiki (knowledgebase) and websites                                       |
+| [office](twin_office)                                | onlyoffice editor on top of the filestorage                                                   |
+| [publisher](threefold:publisher)                     | publishing system for wiki (knowledgebase) and websites                                       |
 | [notifications](notifications)                       | ? maybe UI, but prob just the backend                                                         |
-| [threefoldfs](threefold:digitalyoufiles)                           | yes                                                                                           |
+| [threefoldfs](threefold:digitalyoufiles)             | yes                                                                                           |
 | [planetarynetwork](planetarynetwork)                 | yes (need to check if all clients will be there)                                              |
-| [autopay](threefold:autopay)                                   | yes but only for technical audience , need to edit the data files                             |
-| [tfconnect](threefold:tfconnect)                                | mobile app for authentication, planetary network, wallet, notifications                       |
+| [autopay](threefold:autopay)                         | yes but only for technical audience , need to edit the data files                             |
+| [tfconnect](threefold:tfconnect)                     | mobile app for authentication, planetary network, wallet, notifications                       |
 | [wallet](wallet)                                     | wallet for TFT only for now                                                                   |
 | [hyperdrive](hyperdrive)                             | basic hyper drive support, will be for the experts                                            |
 | [threefold farmer management](threefold_farmer_mgmt) | only for technical audience, need to edit the data files                                      |

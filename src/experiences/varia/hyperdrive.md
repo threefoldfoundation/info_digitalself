@@ -9,7 +9,7 @@ Hyperdrive is a colleague of IPFS (InterPlanetary File System), but we believe i
 The Digital twin adds the following benefits: 
 - Your data can never be lost
 - You have unlimited scalability - can store petabytes
-- Sync with other datasets. For example: Synchronize automatically with your files on the [File Storage](filestorage)
+- Sync with other datasets. For example: Synchronize automatically with your files on the [File Storage](aydo)
 
 Two ways to synchronize [DTFS](threefold:dtfs) with directory into HyperDrive:
 - Expose HyperDrive link for publishing server,

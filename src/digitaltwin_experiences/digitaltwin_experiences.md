@@ -40,11 +40,10 @@ More information see [digital twin why](why_digital_twin)
 
 ### Some screenshots
 
-- [login](twin_login)
-- [file manager](file_manager)
+- [file manager, office](aydo)
 - [chat](twin_chat)
-- [video conferencing](videochat)
-- [office spreadsheet/doc/...](twin_office)
+- [video conferencing](kutana)
+- [login](twin_login)
 
 ### Roadmap
 
@@ -57,11 +56,10 @@ More information see [digital twin why](why_digital_twin)
 - Q4 2021:
   - Roll out on ThreeFold Grid as experience on top of TFGrid
   - Dual license model
-  
+
 ### Architecture
 
 see [tfgrid_twin](tfgrid_twin)
-
 
 !!!include:twin_toc
 

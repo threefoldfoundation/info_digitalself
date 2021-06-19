@@ -1,6 +1,6 @@
 # Payment 
 
-![](img/dt_payment.png ":size=700x")
+![](img/dt_payment.png ":size=500x")
 
 ## A new way of exchange and making payment 
 
