@@ -1,0 +1,32 @@
+{
+	"name": "quantumsafestorage",
+	"git_url": "git@github.com:threefoldtech/info_quantumsafestorage/tree/development/src",
+	"pull": false,
+	"reset": false,
+	"cat": 0,
+	"domains": [
+		"qsss.threefold.io"
+	],
+	"descr": "",
+	"groups": [],
+	"acl": [
+		{
+			"groups": [],
+			"users": [],
+			"rights": "R",
+			"secrets": [
+				"tft007"
+			]
+		}
+	],
+	"trackingid": "",
+	"opengraph": {
+		"title": "",
+		"description": "",
+		"url": "",
+		"type_": "",
+		"image": "",
+		"image_width": "",
+		"image_height": ""
+	}
+}
