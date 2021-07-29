@@ -4,7 +4,7 @@
 
 ## A notification system at your service
 
-It is a generic usable notification system. The notifications (events) are shown in User Interface, and also the [Threefold Connect](threefold:tfconnect) will escalate them to the user if required. Decide and manage which type of notification can escalate to your Digital Twin. You set the rules. 
+It is a generic usable notification system. The notifications (events) are shown in User Interface, and also the [Threefold Connect](internet4:tfconnect) will escalate them to the user if required. Decide and manage which type of notification can escalate to your Digital Twin. You set the rules. 
 
 ## Properties for each notification
 

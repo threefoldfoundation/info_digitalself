@@ -1,3 +1,3 @@
 
-!!!include:threefold:tf_wallets
+!!!include:tf_wallets
 

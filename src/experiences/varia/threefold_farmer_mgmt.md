@@ -24,7 +24,7 @@ The Threefold Farmer Management System stores information and data in relation t
 executes on
 
 - billing for the farmer
-  - asks for payment to the right digital twin of the consumer using the [autopay](threefold:autopay) system.
+  - asks for payment to the right digital twin of the consumer using the [autopay](autopay) system.
 - some basic health check & escalation to [notification system](notifications).
 
 ## Implementation
@@ -33,8 +33,8 @@ Accessible by Zero-OS and any other Digital Twin over Rest Interface.
 
 In version 0.9 this will be done as data files which need to be editted, an use remote interface like ftp.
 
-- specified in [dtml](threefold:dtml) or json
-- accessible on [dtfs](threefold:dtfs)
-- interface = [dtftp](threefold:dtftp)
+- specified in [dtml](internet4:dtml) or json
+- accessible on [dtfs](internet4:dtfs)
+- interface = [dtftp](internet4:dtftp)
 
-> No UI features in 0.9 release, only editable over [DTFS](threefold:dtfs).
+> No UI features in 0.9 release, only editable over [DTFS](internet4:dtfs).

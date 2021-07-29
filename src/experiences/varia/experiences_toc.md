@@ -19,6 +19,6 @@
 
 | Experiences                    | Description                                                                                        | status     |
 | ------------------------------ | -------------------------------------------------------------------------------------------------- | ---------- |
-| [Publisher](threefold:publisher)         | Publishing system for wikis (knowledge-based) and websites and create your own file storage system | PRODUCTION |
+| [Publisher](publisher)         | Publishing system for wikis (knowledge-based) and websites and create your own file storage system | PRODUCTION |
 | [Hyperdrive](hyperdrive)       | Hyperdrive filemanagement Tool                                                                     | LAB        |
 | [Notifications](notifications) | Notification system for all your digital life.                                                     |            |

@@ -33,5 +33,5 @@ Experiences:
 - [Network](network_experience)
 - [File Storage](aydo)
 - [Office](twin_office)
-- [Publisher](threefold:publisher) 
+- [Publisher](publisher) 
 - [Payment](payment)

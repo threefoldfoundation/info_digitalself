@@ -27,4 +27,4 @@ If you would like to see another definition added, please contact us on the [Dig
 
 > These are not legal binding definitions, they are just concepts.
 
-> For full blown [glossary see here](threefold:defs)
+> For full blown [glossary see here](defs)
