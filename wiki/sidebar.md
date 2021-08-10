@@ -3,7 +3,7 @@
   - [Decentralized Infra](why_infrastructure)
   - [Decentralization Info](why_information)
 - [Our Vision](our_vision)
-- [Web 4.0](internet4:internet4)
+- [Web 4.0](internet4:web4)
 - [Experiences](experiences)
   - [Chat](twin_chat)
   - [Meet](meet)
