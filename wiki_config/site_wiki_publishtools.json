@@ -1,6 +1,6 @@
 {
     "name": "publishtools",
-    "git_url": "git@github.com:crystaluniverse/publishtools/tree/development/doc",
+    "git_url": "git@github.com:crystaluniverse/publishtools/tree/development/wiki",
     "pull": false,
     "reset": false,
     "cat": 0,

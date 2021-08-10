@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../../home/gitpod/codewiki"
+		},
+		{
+			"path": "../code"
+		},
+		{
+			"path": "wiki_config"
+		}
+	],
+	"settings": {}
+}
