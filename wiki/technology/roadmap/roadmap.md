@@ -8,13 +8,13 @@
 
 | Experiences                                          | description                                                                                   |
 | ---------------------------------------------------- | --------------------------------------------------------------------------------------------- |
-| [chat](chat)                               | all basic features you would expect from chat in alfa version                                 |
+| [chat](threefold:chat)                               | all basic features you would expect from chat in alfa version                                 |
 | [filestorage](aydo)                                  | web based filestorage, pdf viewer integrated, view files from friends (sharing with security) |
 | [meet](meet)                                         | peer2peer integrated in chat, with rooms                                                      |
 | [office](twin_office)                                | onlyoffice editor on top of the filestorage                                                   |
-| [publisher](publisher)                     | publishing system for wiki (knowledgebase) and websites                                       |
+| [publisher](threefold:publisher)                     | publishing system for wiki (knowledgebase) and websites                                       |
 | [notifications](notifications)                       | ? maybe UI, but prob just the backend                                                         |
-| [threefoldfs](digitalyoufiles)             | yes                                                                                           |
+| [threefoldfs](threefold:digitalyoufiles)             | yes                                                                                           |
 | [planetarynetwork](planetarynetwork)                 | yes (need to check if all clients will be there)                                              |
 | [autopay](autopay)                         | yes but only for technical audience , need to edit the data files                             |
 | [tfconnect](internet4:tfconnect)                     | mobile app for authentication, planetary network, wallet, notifications                       |
