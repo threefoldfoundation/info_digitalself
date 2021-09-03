@@ -1,7 +1,7 @@
 # Digital Twin Database
 
 - files in json or [dtml](dtml) on the [dtfs](dtfs) = digital twin filesystem
-- continuous backup using [Quantum Safe Storage System](twin:qsstoragesystem), means data cannot be lost
+- continuous backup using [Quantum Safe Storage System](qsstoragesystem), means data cannot be lost
 - lives on top of qsfs = technical implementation of the filesystem
 - has limited search/indexing support
 - has stronly type checking

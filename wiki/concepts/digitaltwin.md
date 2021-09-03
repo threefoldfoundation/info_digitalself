@@ -18,7 +18,7 @@ First implementation of Digital Twin (march 2021 in working prototype) has follo
 - peer2peer secure networking layer
 
 
-More info see [Digital Twin Experiences](twin:digitaltwin_experiences).
+More info see [Digital Twin Experiences](digitaltwin_experiences).
 
 
 <!-- ## More info
