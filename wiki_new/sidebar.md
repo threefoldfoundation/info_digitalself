@@ -1,6 +1,7 @@
 - [Why](why)
 - [Our Web 4.0 Vision](tag:vision)
 - [Technology](technology_home)
+- [Benefits](benefits)
 - [Use Cases](usecase_home)
   - [Uhuru](threefold:uhuru)
   - [Experiences](experiences)
