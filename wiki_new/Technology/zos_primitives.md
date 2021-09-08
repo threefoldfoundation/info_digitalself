@@ -72,7 +72,7 @@ ZNIC is the interface of the Planetary Network. It is a peer-to-peer network bui
 
 The Web Gateway is the mechanism that connect the private networks to the open Internet in such a way that there is no direct connetion between internet and the secure workloads running in the ZMachine. 
 
-Learn more about Web Gateway [here](internet4:webgw). \
+Learn more about Web Gateway [here](internet4:webgw). 
 
 
 
