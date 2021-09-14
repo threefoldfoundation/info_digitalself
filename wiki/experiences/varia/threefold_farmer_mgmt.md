@@ -33,8 +33,8 @@ Accessible by Zero-OS and any other Digital Twin over Rest Interface.
 
 In version 0.9 this will be done as data files which need to be editted, an use remote interface like ftp.
 
-- specified in [dtml](internet4:dtml) or json
-- accessible on [dtfs](internet4:dtfs)
-- interface = [dtftp](internet4:dtftp)
+- specified in [dtml](dtml) or json
+- accessible on [dtfs](dtfs)
+- interface = [dtftp](dtftp)
 
-> No UI features in 0.9 release, only editable over [DTFS](internet4:dtfs).
+> No UI features in 0.9 release, only editable over [DTFS](dtfs).

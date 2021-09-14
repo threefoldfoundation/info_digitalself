@@ -19,7 +19,7 @@ About the Technology:
 - [Threefold Grid](tfgrid_twin)
 - planetary_network
 - [Twin Phonebook](phonebook)
-- [All your data is on a Quantum Safe Storage System](quantumsafestorage:qsss)
+- [All your data is on a Quantum Safe Storage System](tfgrid:qsss)
 
 
 If you would like to see another definition added, please contact us on the [Digital Twin Forum](https://forum.mydigitaltwin.io/) or email us at info@digitaltwin.com

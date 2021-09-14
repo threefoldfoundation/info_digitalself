@@ -11,4 +11,4 @@
 When consensus is needed, all nodes vote on the blockchain. The action is then
 processes as soon as 5/9 nodes have agreed.
 
-> more info see [consensus_mechanism](internet4:consensus3_principles)
+> more info see [consensus_mechanism](tfgrid:consensus3_principles)

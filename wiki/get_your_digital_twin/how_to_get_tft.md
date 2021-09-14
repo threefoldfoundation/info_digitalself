@@ -1,3 +1,2 @@
 
-!!!include:how_to_buy
-
+!!!include:tfgrid:how_to_buy

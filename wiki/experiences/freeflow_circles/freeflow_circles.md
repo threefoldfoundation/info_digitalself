@@ -15,7 +15,7 @@
 
 ## Business Model & Funding
 
-!!!include:twin_valuation_intro
+!!!include:accelerator:twin_valuation_intro
 
 Is funded as part of digital_twin project.
 

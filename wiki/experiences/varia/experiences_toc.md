@@ -12,7 +12,7 @@
 | [Payment](payment)                     | Multi-currency wallet, exchange on a peer-to-peer way, automatically pay your suppliers and keep track on your expenses |            |
 | [Threefold Connect](threefold_connect) | Mobile app for authentication and Wallet                                                                                | PRODUCTION |
 
-> go to [digitaltwin screenshots and more info](internet4:digitaltwin_experiences)
+> go to [digitaltwin screenshots and more info](digitaltwin_experiences)
 
 
 ### Technical Experiences
