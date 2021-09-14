@@ -9,4 +9,4 @@ Compute Capacity = backend compute capacity which can be used as backend for mor
 Network Gateway Services: integration with ZeroTier network, HTTP(s) reverse proxy, DNS services, TCP Port Forwarding
 These basic services are ordered through the TF Chain only. SLA’s (service level agreements) cannot be guaranteed on Unmanaged Capacity and as such not registered in the TF Chain.
 
-See **[cloud units](tfgrid:cloud_units) for more information
+See **[cloud units](tfgrid:cloudunits) for more information
