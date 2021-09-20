@@ -4,9 +4,10 @@
 # Some Digital Twin Definitions & Concepts 
 
 About our universe: 
-- [ThreeFold](https://threefold.io/info/threefold#/)
-- [ThreeFold Token](https://info.threefold.io/#/threefold__token_what)
-- [ThreeFold Grid](https://info.threefold.io/#/threefold__grid_intro)
+- [ThreeFold](https://threefold.io)
+- [ThreeFold Token](tfgrid:tokens_home)
+- [ThreeFold Grid](tfgrid:grid_home)
+- [ThreeFold Cloud](cloud:cloud_home)
 - [Conscious Internet](https://threefold.io/aci)
 
 About Digital Twin: 
