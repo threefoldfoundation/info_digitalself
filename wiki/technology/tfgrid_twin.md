@@ -1,7 +1,7 @@
 # Digital Twin Architecture
 
 
-![](img/architecture_1.png)
+![](img/architecture_1_.jpg)
 
 Created by Threefold, Threefold Grid is a peer-to-peer and autonomous Internet Grid that provides game-changing performance and empowers new possibilities. With +500 servers delivering +80,000,000 GB of online storage across 110+ locations in 21+countries, the ThreeFold Grid is the most considerable peer-to-peer Internet in the world.
 
@@ -13,8 +13,7 @@ Without the Threefold Grid, our unique solution would not be possible. 
 
 - Dive deeper into Threefold Grid, [here](threefold:threefold_grid).
 - Learn more about Zero-OS, [here](tfgrid:zos).
-- Learn more about 3Bot [here](cloud:3bot).
-
+- Learn more about 3Bot [here](sdk:3bot).
 
 
 

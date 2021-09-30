@@ -4,7 +4,7 @@ To serve emerging digital workloads such as edge computing, IoT, 5G, AI, swarm l
 
 Today, more than 80% of the Internet’s capacity is owned by centralized cloud providers. The capacity is derived from hyper-scale data centres - an incredibly costly infrastructure, not scalable and super unsustainable. As of today, the Internet consumes about 10% of global energy resources.
 
-![](img/tftech_cloud_market.png)
+![](img/tftech_cloud_market_.jpg)
 
 Moreover, data centres which are located in a handful of locations in wealthy nations, are where all of your crucial data is currently stored. Your photos, emails, chats, videos and every single part of your digital identity is tracked, stored and used by someone else. 
 

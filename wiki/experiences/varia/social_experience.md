@@ -1,4 +1,4 @@
-![](img/social_experience.png)
+![](img/social_experience_.jpg)
 
 # Social
 

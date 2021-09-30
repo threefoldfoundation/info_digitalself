@@ -1,4 +1,4 @@
-![](img/internet_pain.png)
+![](img/internet_pain_.jpg)
 
 !!!include:aydo_intro
 !!!include:aydo_features

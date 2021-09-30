@@ -1,4 +1,4 @@
-![](img/digitaltwin_intro.png)
+![](img/digitaltwin_intro_.jpg)
 
 # Your Digital Twin
 
@@ -34,4 +34,3 @@ Learn more about the benefit brought by Digital Twin, [here](benefits).
 For additional information, please refer to our **official channels**: 
 - [Own main website](https://mydigitaltwin.io/): Help you navigate through the Digital Twin universe 
 - [Digital Twin News-Telegram Channel](https://t.me/joinchat/JnJfqY9tfAU1NTY0): Stay updated on what is our most recent announcements and updates.
-

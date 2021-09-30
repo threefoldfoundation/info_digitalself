@@ -6,7 +6,7 @@ There is a growing global awareness of our data economy's value and that ownersh
 
 Have you watched The Social Dilemma and the Great Hack? 
 
-![](img/greathack_socialdilemma.png)
+![](img/greathack_socialdilemma_.jpg)
 
 These documentaries show how people are manipulated and targeted due to their social media platforms' activity or data. 
 
@@ -19,7 +19,7 @@ Do you remember when you could create your own safe space and decide what others
 
 Think about the bigger picture. All those tiny bits of data, when pieced together, create a profile of yourself called your digital doppelgänger to indicates your political views, tastes, buying habits, sexual preferences, health data and much more. In fact, there are already hundreds or thousands of digital doppelgängers about you held by different companies and the government. 
 
-![](img/digital_doppelganger.jpeg)
+![](img/digital_doppelganger.jpg)
 
 *Illustration of Doppelgangers in Social Dilemma, Netflix*
 

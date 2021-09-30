@@ -29,4 +29,4 @@ Being web-based, your File Storage can be accessed on any device, from anywhere 
 
 All compatible with MS Office:
 
-![](img/onlyoffice.png)
+![](img/onlyoffice_.jpg)

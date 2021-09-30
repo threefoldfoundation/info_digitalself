@@ -11,7 +11,7 @@ The Digital twin adds the following benefits:
 - You have unlimited scalability - can store petabytes
 - Sync with other datasets. For example: Synchronize automatically with your files on the [File Storage](aydo)
 
-Two ways to synchronize [DTFS](internet4:dtfs) with directory into HyperDrive:
+Two ways to synchronize [DTFS](dtfs) with directory into HyperDrive:
 - Expose HyperDrive link for publishing server,
 - Link HyperDrive into filestorage
 

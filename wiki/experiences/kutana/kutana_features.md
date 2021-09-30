@@ -1,4 +1,4 @@
-![](img/videochat1.png)
+![](img/videochat1_.jpg)
 
 Meet will be provided with the following features:
 

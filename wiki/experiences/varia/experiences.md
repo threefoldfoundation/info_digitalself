@@ -1,4 +1,4 @@
-![](img/features.png)
+![](img/features_.jpg)
 
 !!!include:experiences_toc
 

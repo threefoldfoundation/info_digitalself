@@ -19,12 +19,12 @@ First implementation of Digital Twin (march 2021) has following features
 - web and wiki publishing tool
 - Peer2Peer secure networking layer
 
-![](img/digitaltwin1.png)
+![](img/digitaltwin1_.png)
 
 
 ### Why
 
-![](img/hiddencosts.png)
+![](img/hiddencosts_.png)
 
 ![](img/whydigitwin1.png)
 

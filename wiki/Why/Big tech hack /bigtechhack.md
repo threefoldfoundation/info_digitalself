@@ -1,6 +1,6 @@
 # Current social media platforms are too insecured
 
-![](img/cyber_security.jpeg) 
+![](img/cyber_security.jpg) 
 *Illustration from Cybintsolutions*
 
 News has emerged. The Giants of Social Media and Networking platforms have been hacked. Following the news of a similar occurrence involving Facebook with around 533 million users' data leaked, LinkedIn joined the group with over 500 million user's data being stolen and posted on various platforms by attackers. Additionally, the Pwn2Own annual competition revealed that Microsoft Teams and Zoom have security vulnerability issues. All these important tools to your eyes revealed themselves not to have adequate technology and structure secured enough for its user’s data. It is time for a CHANGE. 

@@ -1,13 +1,13 @@
 # Digital Twin Hub
 
 
-![](img/digitaltwin_experiences.png) 
+![](img/digitaltwin_experiences_.jpg) 
 
 
 The idea of the Digital Twin Hub is to be your backend for your digital life.
 
 
-![](img/digitaltwin_hub_scaleout.png)
+![](img/digitaltwin_hub_scaleout_.jpg)
 
 This system scales for ever, there are no limits.
 
@@ -15,13 +15,13 @@ You can see how each user connects to their private Digital Twin Hub and how all
 
 We use a digitaltwin_phonebook to make sure the digital twin's can secure the connections between themselves.
 
-![](img/digitaltwin_hub_browser.png)
+![](img/digitaltwin_hub_browser_.jpg)
 
 A user will use any browser and through that browser use a secure browser engine which will then talk to your person Digital Twin Hub. This is a very secure way how to access your digital life.
 
 ### Any developer can create experiences on top
 
-![](img/digitaltwin_javascript.png)
+![](img/digitaltwin_javascript_.jpg)
 
 Any javascript framework can be used.
 
@@ -44,7 +44,7 @@ a lot of automation is available because of the peer2peer nature of the digital 
 
 ### Multi blockchain world
 
-![](img/digitaltwin_multi_blockchain.png)
+![](img/digitaltwin_multi_blockchain_.jpg)
 
 We believe in a world where there will be many blockchain systems, mainly for smart contracts, identity and money.
 
@@ -54,7 +54,7 @@ There is nothing to do for you as a user.
 
 ### Compatible with existing world.
 
-![](img/digitaltwin_legacy_world.png)
+![](img/digitaltwin_legacy_world_.jpg)
 
 The digital twin knows how to talk to the outside world and can even offer interfaces which are compatible with the existing internet v1 and v2 (imap, smtp, ...).
 

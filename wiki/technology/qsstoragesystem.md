@@ -1,6 +1,6 @@
 # Quantum Safe Storage System 
 
-![](img/threefold_storage_architecture.png)
+![](img/threefold_storage_architecture_.png)
 
 Traditional remote storage stores data in one datacenter - implying that if this data centre is hacked, the attacker can steal your data. 
 

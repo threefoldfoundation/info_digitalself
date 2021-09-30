@@ -1,5 +1,5 @@
 # Twin Chat
 
-![](img/chat.png)
+![](img/chat_.png)
 
 !!!include:twin_toc

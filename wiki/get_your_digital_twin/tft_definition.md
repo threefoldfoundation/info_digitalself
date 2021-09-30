@@ -22,7 +22,7 @@ Being built on top of the Threefold Grid, the TFT is used as a medium of exchang
 
 ## A Circular Token Economy 
 
-![](img/circular_tft.png)
+![](img/circular_tft_.png)
 
 <!--TO DO: Create Circular Token Economy Image including Digital Twin -->
 
@@ -35,4 +35,3 @@ A circular economy enables anyone to take part and to get rewarded for it:
 3. Once they have TFTs in their wallets, users can buy Digital Twin for Life directly with us (the subscription include GBs of capacity on the Threefold Grid) and reserve additional capacity on the Threefold Grid and pay farmers directly. 
 
 Learn more how to get Threefold Token [here](how_to_get_tft). 
-

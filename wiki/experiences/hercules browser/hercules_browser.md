@@ -1,4 +1,4 @@
-![](img/browsers.png)
+![](img/browsers_.jpg)
 
 
 # Hercules Browser

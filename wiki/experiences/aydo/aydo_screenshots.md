@@ -12,7 +12,7 @@
 
 ## Office Integration
 
-![](img/office1.png)
+![](img/office1_.jpg)
 
 ![](img/office2.png)
 
@@ -28,4 +28,3 @@
 | V1.1   | tbd  | tbd                  | streaming interface (video/audio)  |
 | V1.2   | tbd  | tbd                  | integration with digital twin      |
 | V1.3   | tbd  | tbd                  | integration with the TF ZeroStor   |
-
