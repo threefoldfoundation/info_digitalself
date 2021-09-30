@@ -3,7 +3,7 @@
   - [Decentralized Infra](why_infrastructure)
   - [Decentralization Info](why_information)
 - [Our Vision](our_vision)
-- [Web 4.0](tfgrid:web4)
+- [Web 4.0](threefold:web4)
 - [Experiences](experiences)
   - [Chat](twin_chat)
   - [Meet](meet)
@@ -12,7 +12,7 @@
   - [Office](twin_office)
   - [Publisher](threefold:publisher)
   - [Payment](payment)
-  - [TF Connect](threefold_connect)
+  - [TF Connect](threefold:threefold_connect)
   - [Network](network_experience)
 - [Technology](twin_technology)
   - [Working Experiences](digitaltwin_experiences)
@@ -20,11 +20,11 @@
   - [Planetary Secure Network](planetary_secure_network)
   - [Twin Phonebook](phonebook)
   - [Blockchain Database and 0-db](bcdb_0db)
-  - [Quantum Safe Storage System](tfgrid:qsss)
+  - [Quantum Safe Storage System](threefold:qsss)
 - [Features](benefits)
   - [Power of Peer-to-Peer](power_of_p2p)
   - [One Digital Identity](one_digital_identity)
-!!!include:tfgrid:carbonwin_sidebar
+!!!include:threefold:carbonwin_sidebar
 - [Get your Digital Twin](get_your_dt_home)
   - [Digital Twin for Life](digital_twin_for_life)
 - [Definitions and Concepts](definition_and_concept)
@@ -33,4 +33,4 @@
 
 <!-- - [Development](engineering)
   - [twin architecture](twin:dev_architecture)
-  - [consensus layer](tfgrid:consensus3) -->
+  - [consensus layer](threefold:consensus3) -->

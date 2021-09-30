@@ -16,10 +16,9 @@ Each Autopay entry has the following information:
 - X number of merchants who can ask for a payment 
     - Each merchant needs to be identified by an ID or a unique name. 
 - Maximum amount of payment per period (Can also be scheduled for multiple periods)
-    - Payment amount specified in chosen currency (For first version; EUR/USD/[TFT](tfgrid:token_what)/BTC)
+    - Payment amount specified in chosen currency (For first version; EUR/USD/[TFT](threefold:token_what)/BTC)
 - Optional secret for payment - Merchants needs to specify when they will ask for payment. 
 - Minimal required reputation level - Not implemented yet.
-
 
 
 

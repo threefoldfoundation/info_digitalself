@@ -28,7 +28,7 @@ What if the solution is waiting next to your door? Digital Twin provides you wit
 Built on top of the Threefold Grid and thanks to the Zero-OS, Digital Twin is resilient to human error and hacking. As a result, it is self-driving and self-healing. 
 
 - Learn more about [Threefold Grid](tfgrid_twin).
-- Learn more about [Zero-OS](tfgrid:zos).
+- Learn more about [Zero-OS](threefold:zos).
 
 ### Private 
 

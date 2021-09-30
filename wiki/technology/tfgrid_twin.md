@@ -12,9 +12,8 @@ Digital Twin lives on top of Threefold Grid to deploy its solution. Along with Z
 Without the Threefold Grid, our unique solution would not be possible. 
 
 - Dive deeper into Threefold Grid, [here](threefold:threefold_grid).
-- Learn more about Zero-OS, [here](tfgrid:zos).
+- Learn more about Zero-OS, [here](threefold:zos).
 - Learn more about 3Bot [here](sdk:3bot).
-
 
 
 

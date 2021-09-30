@@ -2,7 +2,7 @@
 
 Digital Twin accompanies you since the beginning. In order to get started comfortably, follow the steps below: 
 
-- Install [ThreeFold Connect](threefold_connect) on your mobile phone
+- Install [ThreeFold Connect](threefold:threefold_connect) on your mobile phone
   - TF Connect is your new Authentication System and your wallet
 - Go to the Digital Twin Bootstrap service and create your Digital Twin
   - Link: https://digitaltwin.jimbertesting.be/

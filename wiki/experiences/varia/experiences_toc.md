@@ -10,7 +10,7 @@
 | [File Storage](aydo)                   | A file storage system to keep all your files and documents safely                                                       | DEMO       |
 | [Office](twin_office)                  | Create, edit and manage your documents                                                                                  | DEMO       |
 | [Payment](payment)                     | Multi-currency wallet, exchange on a peer-to-peer way, automatically pay your suppliers and keep track on your expenses |            |
-| [Threefold Connect](threefold_connect) | Mobile app for authentication and Wallet                                                                                | PRODUCTION |
+| [Threefold Connect](threefold:threefold_connect) | Mobile app for authentication and Wallet                                                                                | PRODUCTION |
 
 > go to [digitaltwin screenshots and more info](digitaltwin_experiences)
 

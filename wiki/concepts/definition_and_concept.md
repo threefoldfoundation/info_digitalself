@@ -5,9 +5,9 @@
 
 About our universe: 
 - [ThreeFold](https://threefold.io)
-- [ThreeFold Token](tfgrid:tokens_home)
-- [ThreeFold Grid](tfgrid:grid_home)
-- [ThreeFold Cloud](cloud:cloud_home)
+- [ThreeFold Token](threefold:tokens_home)
+- [ThreeFold Grid](threefold:grid_home)
+- [ThreeFold Cloud](threefold:cloud_home)
 - [Conscious Internet](https://threefold.io/aci)
 
 About Digital Twin: 
@@ -20,7 +20,7 @@ About the Technology:
 - [Threefold Grid](tfgrid_twin)
 - planetary_network
 - [Twin Phonebook](phonebook)
-- [All your data is on a Quantum Safe Storage System](tfgrid:qsss)
+- [All your data is on a Quantum Safe Storage System](threefold:qsss)
 
 
 If you would like to see another definition added, please contact us on the [Digital Twin Forum](https://forum.mydigitaltwin.io/) or email us at info@digitaltwin.com

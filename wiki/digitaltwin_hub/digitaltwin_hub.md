@@ -60,6 +60,6 @@ The digital twin knows how to talk to the outside world and can even offer inter
 
 Existing client server apps can be installed on the 3nodes and as such the twins can still interect with these existing client server systems.
 
-!!!include:tfgrid:i4_storage_architecture
+!!!include:threefold:i4_storage_architecture
 
 !!!def alias:digital_twin_server,dtwin_server,dtwin_hub,digital_twin_hub

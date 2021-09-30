@@ -18,7 +18,7 @@ Above is a high-level overview of how you can request data from another Twin by 
 
 **Step 3**: The remote Twin (Digital Twin of the video owner) receives the request and verifies your Digital Twin identity through the Twin Phonebook. 
 
-**Step 4**: It will check if you can view this content using the [3Bot Blockchain](tfgrid:usp_secure). 
+**Step 4**: It will check if you can view this content using the [3Bot Blockchain](threefold:usp_secure). 
 
 **Step 5**: If you are allowed, it will fetch the content from the [Quantum Safe Storage](qsstoragesystem).
 

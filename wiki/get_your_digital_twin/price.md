@@ -7,7 +7,7 @@ Stay tuned and be among the first Digital Twin lifetime subscribers to grant you
 The early bird offers are coming soon. Our first users will pay only 1000 TFT (Threefold Token) once and get to enjoy the power of Digital Twin forever.
 
 In the meantime: 
-- Download the [Threefold Connect App](threefold_connect)
+- Download the [Threefold Connect App](threefold:threefold_connect)
 - Learn more about [TFT](tft_definition)
 
 Updated April 2021
@@ -21,7 +21,7 @@ Digital Twin lifetime package will be sold in TFT to support the Threefold Token
 
 **Note**: The amount received from selling Digital Twin for Life subscriptions will be used to improve our product, support the Foundation's good-for-the-world projects, pay farmers who contribute in providing capacity on the Threefold Grid and pay for the Payment Service Provider fees. 
 
-If you want to subscribe for additional cloud capacity, please learn more about [cloud units](tfgrid:cloudunits)
+If you want to subscribe for additional cloud capacity, please learn more about [cloud units](threefold:cloudunits)
 > TO DO: Make a better and easy way to subscribe to additional cloud units 
 Be at the centre of this revolutionary movement and **join our Digital Twin community now**. 
 > TO DO: Link "join our Digital Twin community now" to CTA -->

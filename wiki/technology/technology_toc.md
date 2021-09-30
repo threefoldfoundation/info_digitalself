@@ -1,7 +1,7 @@
 ## Technology Overview
 
-- [TFGrid](zos_3node_tfgrid_intro)
-- [Smart Contract for IT](tfgrid:smartcontract_it)
+- [TFGrid](threefold:zos)
+- [Smart Contract for IT](threefold:smartcontract_it)
 - [Digital Twin Hub](digitaltwin_hub)
 - [Digital Twin Experiences](digitaltwin_experiences)
 
