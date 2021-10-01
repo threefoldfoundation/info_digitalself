@@ -1,1 +1,1 @@
-!!!include:threefold:planetary_network
+!!!include:specs_grid3:planetary_network
