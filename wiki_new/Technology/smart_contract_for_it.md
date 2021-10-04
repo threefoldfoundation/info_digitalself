@@ -1,1 +1,1 @@
-!!!include:internet4:smartcontract_it
+!!!include:threefold:smartcontract_it

@@ -4,4 +4,5 @@
   - [3Nodes and Zero-OS](Technology/3node_zos.md)
   - [Zero-OS primitives](Technology/zos_primitives.md)
   - [Smart Contract for IT](Technology/smart_contract_for_it.md)
+  - [Quantum Safe File Storage](Technology/qsfs.md)
 - [Benefits](benefits)
