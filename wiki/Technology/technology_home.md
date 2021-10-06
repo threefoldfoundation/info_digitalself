@@ -2,7 +2,7 @@
 
 This section provides a high-level overview of Digital Self Technology.
 
-![](img/DS_architecture_overview.png)
+![](img/ds_architecture_overview_.jpg)
 
 ThreeFold Grid is the first peer-to-peer and autonomous Internet Grid that provides game-changing performance and empowers new possibilities. It is made up of many servers called 3Nodes distributed worldwide by independent people and organizations called Farmers. 
 

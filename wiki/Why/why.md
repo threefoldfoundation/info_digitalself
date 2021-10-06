@@ -8,13 +8,13 @@ Our lives have become almost entirely dependent on digital processes, which has 
 
 Today, more than 80% of the internet's capacity is owned by centralized cloud providers. The capacity is derived from hyper-scale data centers - an incredibly costly infrastructure, not scalable and super unsustainable. As of today, the internet consumes about 10% of global energy resources. 
 
-![](img/tftech_cloud_market.png)
+![](img/tftech_cloud_market_.jpg)
 
 These data centers, which are located in a handful of locations in wealthy nations, are where all of your crucial data is currently stored. All of your unique information and part of your digital identity is tracked, stored, and used by third parties. 
 
 ## Multiple digital identities 
 
-![](img/digital_doppelganger.jpeg)
+![](img/digital_doppelganger.jpg)
 
 All the tiny bits of collected data, when pieced together, create a profile of yourself called digital doppelgänger to indicates your taste, buying habits, sexual preferences, health data and much more. Everyone has, approximately, hundreds to thousands of digital doppelgängers held by those third parties (Privacy International, 2020). The reason is to predict your behavior and use it to their advantage.
 
@@ -23,5 +23,4 @@ All the tiny bits of collected data, when pieced together, create a profile of y
 By combining itself with ThreeFold Technology, Digital Self is your unique digital identity on the first peer-to-peer internet. Being fully autonomous, it will make sure that each person communicates directly with each other and everyone has full control over his/her data. It is the bridge towards a fully sovereign digital life. 
 
 Learn more about our [Web 4.0 Vision](vision).
-
 

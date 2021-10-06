@@ -1,4 +1,4 @@
-![](img/digitaltwin_intro.png)
+![](img/digitaltwin_intro_.jpg)
 
 
 # Your Digital Self
@@ -32,4 +32,3 @@ For additional information, please refer to the following official channels:
 - **[ThreeFold Wiki](https://info.threefold.io/#/)**: Access to all the information regarding ThreeFold and the technology behind. 
 - **[ThreeFold News Telegram Channel](https://t.me/threefoldnews)**: Stay updated on what is our most recent announcements and updates.
 - **[The ThreeFold Forum](https://forum.threefold.io)**: The perfect place for you to share, connect, & ask questions.
-

@@ -1,6 +1,6 @@
 # 3Node
 
-![](img/internet4__tf_grid.png)
+![](img/tf_grid.jpg)
 
 **3Nodes** are computers (servers) being a low-level provider for the IT capacity of the Cloud. 
 
@@ -24,4 +24,4 @@ In other words, 3Nodes are servers that run Zero-OS software. They provide stora
 - A Smart Contract for IT layer allows groups of people to deploy IT workloads with consensus and full control. 
 - All workloads working on Linux can run on Zero-OS but in a much more controlled, private, and safe manner. 
 
-Dive deeper into the Zero-OS primitives [here](zos_primitives.md)
+Dive deeper into the Zero-OS primitives [here](zos_primitives)

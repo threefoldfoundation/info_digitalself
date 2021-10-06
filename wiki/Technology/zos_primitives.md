@@ -4,7 +4,7 @@ Built on top of the ThreeFold Grid, Digital Self uses lightweight and cutting-ed
 
 ## Compute and Storage 
 
-![](img/internet4__zos_overview_compute_storage.png)
+![](img/zos_overview_compute_storage.jpg)
 
 ### ZMachine 
 
@@ -52,7 +52,7 @@ The technology is designed to be redundant without having to do anything.
 
 ## Network 
 
-![](img/internet4__zos_network_overview.png)
+![](img/zos_network_overview.jpg)
 
 ### Z-NET
 
