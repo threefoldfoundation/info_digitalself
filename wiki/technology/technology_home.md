@@ -17,4 +17,4 @@ To dive deeper into the technology and know-how all components merge with each o
 - [3Nodes and Zero-OS](3node_zos)
 - [Zero-OS primitives](zos_primitives)
 - [Smart Contract for IT](smart_contract_for_it)
-- [Quantum Safe File Storage](qsfs)
+- [Quantum Safe File Storage](threefold:qsfs)

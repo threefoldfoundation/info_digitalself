@@ -22,5 +22,5 @@ All the tiny bits of collected data, when pieced together, create a profile of y
 
 By combining itself with ThreeFold Technology, Digital Self is your unique digital identity on the first peer-to-peer internet. Being fully autonomous, it will make sure that each person communicates directly with each other and everyone has full control over his/her data. It is the bridge towards a fully sovereign digital life. 
 
-Learn more about our [Web 4.0 Vision](vision).
+Learn more about our [Web 4.0 Vision](twin_vision).
 

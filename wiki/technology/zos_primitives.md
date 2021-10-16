@@ -38,7 +38,7 @@ Learn more about ZOS Filesystem [here](threefold:zos_fs).
 
 An optimized filesystem frontend for **Zdb**, with built-in archival features. Works together with ZStor to create a highly compatible and extremely secure storage solution, called Quantum Safe Filesystem.
 
-Learn more about Quantum Safe Storage System [here](qsfs).
+Learn more about Quantum Safe Storage System [here](threefold:qsfs).
 
 ### ZDisk 
 
