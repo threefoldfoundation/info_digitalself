@@ -16,6 +16,6 @@ Provide a new platform for our digital life which is [beyond block chain, called
   - lower cost
   - equal chances for everyone
 - **for the Investor**
-  - [Valuation potential of +1 Billion USD, more](accelerator:twin_valuation)
+  - [Valuation potential of +1 Billion USD, more](tsc:twin_valuation)
   - Incredible usecases already developed, the market for this is endless, we operate in a blue ocean.
   - Open to existing ecosysten, allow other company to create any experience on top of this

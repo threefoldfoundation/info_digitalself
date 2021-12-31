@@ -9,7 +9,7 @@ The Digital Twin assures that only you own your data, and no one else. Access nu
 
 Fore more info about the why and how see [Internet 4](threefold:internet4)
 
-!!!include:accelerator:twin_valuation_intro
+!!!include:tsc:twin_valuation_intro
 
 ## Experiences On Top Of Digital Twin
 
@@ -17,14 +17,14 @@ Fore more info about the why and how see [Internet 4](threefold:internet4)
 
 | projects                             | description                                                                           |
 | ------------------------------------ | ------------------------------------------------------------------------------------- |
-| [AYDO](accelerator:aydo_acp)                     | All Your Data Online = your own private secure google drive/docs alternative          |
-| [FreeFlow Circles](accelerator:freeflow_hub)     | Your private peer2peer facebook, linkedin, whatsapp, youtube, medium ... system       |
-| [Mitaa](accelerator:mitaa)                       | Fairswap system, fair Peer2Peer ecommerce system, swap anything for anything globally |
+| [AYDO](threefold_internal:aydo_acp)                     | All Your Data Online = your own private secure google drive/docs alternative          |
+| [FreeFlow Circles](threefold_internal:freeflow_hub)     | Your private peer2peer facebook, linkedin, whatsapp, youtube, medium ... system       |
+| [Mitaa](threefold_internal:mitaa)                       | Fairswap system, fair Peer2Peer ecommerce system, swap anything for anything globally |
 | [Kutana](accelerator:kutana)                     | Your own zoom alternative system, private data sovereign video conferencing system    |
-| [hercules_browser](accelerator:hercules_browser) | Peer2Peer browser engine, runs on top of ThreeFold Grid                               |
-| [Business Twin](accelerator:businesstwin)        | Your company with legal license & full business backend tool for <100 eur per month   |
+| [hercules_browser](threefold_internal:hercules_browser) | Peer2Peer browser engine, runs on top of ThreeFold Grid                               |
+| [Business Twin](threefold_internal:businesstwin)        | Your company with legal license & full business backend tool for <100 eur per month   |
 | [Tapr](accelerator:tapr)                         | **personal** dream AI driven analizing platform, on top of digital twin               |
-| [Shareitt](accelerator:shareitt)                 | peer2peer marketplace for exchanging used items by meand of complementary currency    |
+| [Shareitt](threefold_internal:shareitt)                 | peer2peer marketplace for exchanging used items by meand of complementary currency    |
 
 ## Future
 
