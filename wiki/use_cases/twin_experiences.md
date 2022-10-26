@@ -7,9 +7,6 @@ Your private digital life hub, all of your requirements for your digital life on
 
 The Digital Twin assures that only you own your data, and no one else. Access numerous applications while forever remaining fully secure and private.
 
-Fore more info about the why and how see [Internet 4](threefold:internet4)
-
-!!!include:tsc:twin_valuation_intro
 
 ## Experiences On Top Of Digital Twin
 
@@ -62,6 +59,3 @@ Fore more info about the why and how see [Internet 4](threefold:internet4)
 
 
 ![](img/twin_benefits_.jpg)
-
-
-!!!include:twin_toc
